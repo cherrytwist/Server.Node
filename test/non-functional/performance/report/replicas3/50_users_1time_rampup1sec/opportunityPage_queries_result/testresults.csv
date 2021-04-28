@@ -1,0 +1,201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1619597515278,1830,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-49,text,true,,1359,379,50,50,https://test.cherrytwist.org/graphql,1829,0,726
+1619597515179,1942,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-44,text,true,,1359,379,50,50,https://test.cherrytwist.org/graphql,1942,0,881
+1619597515218,1993,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-46,text,true,,1396,379,50,50,https://test.cherrytwist.org/graphql,1993,0,1242
+1619597515250,2119,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-48,text,true,,1359,379,50,50,https://test.cherrytwist.org/graphql,2118,0,1350
+1619597515291,2323,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-50,text,true,,1359,379,50,50,https://test.cherrytwist.org/graphql,2322,0,781
+1619597515200,2426,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-45,text,true,,1359,379,50,50,https://test.cherrytwist.org/graphql,2426,0,921
+1619597517225,694,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-46,text,true,,685,348,50,50,https://test.cherrytwist.org/graphql,694,0,0
+1619597514705,3452,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-14,text,true,,700,381,50,50,https://test.cherrytwist.org/graphql,3452,0,1423
+1619597514841,3346,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-23,text,true,,700,381,50,50,https://test.cherrytwist.org/graphql,3346,0,1131
+1619597517109,1146,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-49,text,true,,685,348,50,50,https://test.cherrytwist.org/graphql,1146,0,0
+1619597517629,711,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-45,text,true,,685,348,50,50,https://test.cherrytwist.org/graphql,711,0,0
+1619597514752,3612,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-18,text,true,,700,381,50,50,https://test.cherrytwist.org/graphql,3612,0,1304
+1619597517123,1242,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-44,text,true,,685,348,50,50,https://test.cherrytwist.org/graphql,1242,0,0
+1619597514784,3612,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-21,text,true,,700,381,50,50,https://test.cherrytwist.org/graphql,3612,0,1288
+1619597514671,3749,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-4,text,true,,690,380,50,50,https://test.cherrytwist.org/graphql,3749,0,1759
+1619597514668,3846,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-10,text,true,,693,381,50,50,https://test.cherrytwist.org/graphql,3846,0,1683
+1619597514671,3852,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-1,text,true,,690,380,50,50,https://test.cherrytwist.org/graphql,3851,0,1731
+1619597515120,3414,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-41,text,true,,700,381,50,50,https://test.cherrytwist.org/graphql,3414,0,1444
+1619597514690,3863,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-12,text,true,,700,381,50,50,https://test.cherrytwist.org/graphql,3863,0,1830
+1619597514925,3716,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-30,text,true,,700,381,50,50,https://test.cherrytwist.org/graphql,3716,0,1710
+1619597514969,3685,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-33,text,true,,700,381,50,50,https://test.cherrytwist.org/graphql,3685,0,1682
+1619597518188,554,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-23,text,true,,685,348,50,50,https://test.cherrytwist.org/graphql,554,0,0
+1619597514670,4080,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-11,text,true,,700,381,50,50,https://test.cherrytwist.org/graphql,4080,0,1999
+1619597514754,4010,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-17,text,true,,700,381,50,50,https://test.cherrytwist.org/graphql,4009,0,1902
+1619597515046,3784,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-37,text,true,,700,381,50,50,https://test.cherrytwist.org/graphql,3784,0,1652
+1619597517371,1463,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-48,text,true,,685,348,50,50,https://test.cherrytwist.org/graphql,1463,0,0
+1619597518420,462,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-4,text,true,,590,348,50,50,https://test.cherrytwist.org/graphql,462,0,0
+1619597518654,264,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-33,text,true,,685,348,50,50,https://test.cherrytwist.org/graphql,264,0,0
+1619597514899,4034,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-28,text,true,,700,381,50,50,https://test.cherrytwist.org/graphql,4033,0,1188
+1619597518765,201,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-17,text,true,,685,348,50,50,https://test.cherrytwist.org/graphql,201,0,0
+1619597518366,623,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-18,text,true,,685,348,50,50,https://test.cherrytwist.org/graphql,623,0,0
+1619597518536,487,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-41,text,true,,685,348,50,50,https://test.cherrytwist.org/graphql,487,0,0
+1619597518884,565,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-4,text,true,,2089,736,50,50,https://test.cherrytwist.org/graphql,564,0,0
+1619597518968,500,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-17,text,true,,2131,737,50,50,https://test.cherrytwist.org/graphql,499,0,0
+1619597519450,74,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-4,text,true,,767,381,50,50,https://test.cherrytwist.org/graphql,74,0,0
+1619597515085,4439,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-39,text,true,,687,381,50,50,https://test.cherrytwist.org/graphql,4439,0,882
+1619597515109,4493,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-40,text,true,,713,381,49,49,https://test.cherrytwist.org/graphql,4493,0,986
+1619597514667,4956,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-7,text,true,,690,380,49,49,https://test.cherrytwist.org/graphql,4956,0,1444
+1619597514872,4763,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-27,text,true,,700,381,49,49,https://test.cherrytwist.org/graphql,4763,0,1154
+1619597517616,2105,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-50,text,true,,685,348,49,49,https://test.cherrytwist.org/graphql,2105,0,0
+1619597515018,4721,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-36,text,true,,713,381,49,49,https://test.cherrytwist.org/graphql,4721,0,1124
+1619597519604,150,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-40,text,true,,685,348,49,49,https://test.cherrytwist.org/graphql,150,0,0
+1619597519723,98,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-50,text,true,,1359,735,49,49,https://test.cherrytwist.org/graphql,98,0,0
+1619597515155,4678,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-43,text,true,,1359,379,49,49,https://test.cherrytwist.org/graphql,4677,0,1497
+1619597515241,4593,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-47,text,true,,1359,379,49,49,https://test.cherrytwist.org/graphql,4592,0,1419
+1619597519823,55,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-50,text,true,,767,381,49,49,https://test.cherrytwist.org/graphql,55,0,0
+1619597519469,478,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-17,text,true,,767,381,48,48,https://test.cherrytwist.org/graphql,478,0,0
+1619597514863,5119,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-26,text,true,,700,381,47,47,https://test.cherrytwist.org/graphql,5119,0,1544
+1619597515145,4849,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-42,text,true,,700,381,47,47,https://test.cherrytwist.org/graphql,4849,0,1224
+1619597518832,1327,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-37,text,true,,685,348,47,47,https://test.cherrytwist.org/graphql,1326,0,0
+1619597519983,177,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-26,text,true,,685,348,47,47,https://test.cherrytwist.org/graphql,176,0,0
+1619597518516,1731,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-10,text,true,,681,348,47,47,https://test.cherrytwist.org/graphql,1731,0,0
+1619597520166,187,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-37,text,true,,2131,737,47,47,https://test.cherrytwist.org/graphql,187,0,0
+1619597518553,1803,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-12,text,true,,681,348,47,47,https://test.cherrytwist.org/graphql,1803,0,0
+1619597514871,5509,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-25,text,true,,700,381,47,47,https://test.cherrytwist.org/graphql,5509,0,1687
+1619597514670,5729,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-2,text,true,,690,380,47,47,https://test.cherrytwist.org/graphql,5729,0,1914
+1619597518257,2207,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-49,text,true,,1396,735,47,47,https://test.cherrytwist.org/graphql,2207,0,0
+1619597517921,2558,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-46,text,true,,1396,735,47,47,https://test.cherrytwist.org/graphql,2558,0,0
+1619597518159,2359,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-14,text,true,,681,348,47,47,https://test.cherrytwist.org/graphql,2359,0,0
+1619597520465,62,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-49,text,true,,767,381,47,47,https://test.cherrytwist.org/graphql,62,0,0
+1619597514948,5646,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-31,text,true,,700,381,46,46,https://test.cherrytwist.org/graphql,5646,0,1709
+1619597520357,241,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-12,text,true,,2131,737,46,46,https://test.cherrytwist.org/graphql,241,0,0
+1619597514913,5696,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-29,text,true,,700,381,46,46,https://test.cherrytwist.org/graphql,5696,0,1740
+1619597520600,53,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-12,text,true,,767,381,46,46,https://test.cherrytwist.org/graphql,53,0,0
+1619597519624,1098,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-7,text,true,,681,348,45,45,https://test.cherrytwist.org/graphql,1098,0,0
+1619597514797,5931,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-20,text,true,,700,381,45,45,https://test.cherrytwist.org/graphql,5931,0,1853
+1619597520481,257,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-46,text,true,,767,381,45,45,https://test.cherrytwist.org/graphql,256,0,0
+1619597518397,2420,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-21,text,true,,685,348,44,44,https://test.cherrytwist.org/graphql,2420,0,0
+1619597519740,1081,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-36,text,true,,685,348,44,44,https://test.cherrytwist.org/graphql,1081,0,0
+1619597515002,5942,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-35,text,true,,687,381,44,44,https://test.cherrytwist.org/graphql,5942,0,1603
+1619597514670,6277,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-5,text,true,,690,380,44,44,https://test.cherrytwist.org/graphql,6277,0,2015
+1619597518524,2445,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-1,text,true,,589,347,44,44,https://test.cherrytwist.org/graphql,2445,0,0
+1619597520355,629,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-37,text,true,,767,381,44,44,https://test.cherrytwist.org/graphql,629,0,0
+1619597520723,270,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-7,text,true,,2089,736,43,43,https://test.cherrytwist.org/graphql,270,0,0
+1619597520382,732,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-25,text,true,,685,348,43,43,https://test.cherrytwist.org/graphql,731,0,0
+1619597518367,2749,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-44,text,true,,1396,735,43,43,https://test.cherrytwist.org/graphql,2748,0,0
+1619597520818,325,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-21,text,true,,2131,737,43,43,https://test.cherrytwist.org/graphql,325,0,0
+1619597521117,69,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-44,text,true,,767,381,43,43,https://test.cherrytwist.org/graphql,69,0,0
+1619597519834,1399,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-43,text,true,,685,348,42,42,https://test.cherrytwist.org/graphql,1399,0,0
+1619597520970,301,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-1,text,true,,2071,736,42,42,https://test.cherrytwist.org/graphql,301,0,0
+1619597521273,56,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-1,text,true,,767,381,42,42,https://test.cherrytwist.org/graphql,56,0,0
+1619597518641,2721,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-30,text,true,,685,348,41,41,https://test.cherrytwist.org/graphql,2721,0,0
+1619597520596,791,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-31,text,true,,685,348,41,41,https://test.cherrytwist.org/graphql,790,0,0
+1619597519995,1479,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-42,text,true,,685,348,41,41,https://test.cherrytwist.org/graphql,1479,0,0
+1619597520994,482,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-7,text,true,,767,381,41,41,https://test.cherrytwist.org/graphql,482,0,0
+1619597521144,336,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-21,text,true,,767,381,40,40,https://test.cherrytwist.org/graphql,336,0,0
+1619597518751,2732,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-11,text,true,,681,348,39,39,https://test.cherrytwist.org/graphql,2732,0,0
+1619597518934,2634,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-28,text,true,,685,348,39,39,https://test.cherrytwist.org/graphql,2634,0,0
+1619597520729,844,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-20,text,true,,685,348,39,39,https://test.cherrytwist.org/graphql,844,0,0
+1619597514711,6877,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-13,text,true,,700,381,39,39,https://test.cherrytwist.org/graphql,6877,0,1405
+1619597514672,6935,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-6,text,true,,690,380,39,39,https://test.cherrytwist.org/graphql,6935,0,1726
+1619597514841,6776,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-24,text,true,,700,381,39,39,https://test.cherrytwist.org/graphql,6776,0,1146
+1619597519526,2296,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-39,text,true,,685,348,39,39,https://test.cherrytwist.org/graphql,2296,0,0
+1619597521618,216,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-24,text,true,,685,348,39,39,https://test.cherrytwist.org/graphql,216,0,0
+1619597521475,372,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-42,text,true,,2131,737,39,39,https://test.cherrytwist.org/graphql,372,0,0
+1619597514673,7177,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-3,text,true,,690,380,39,39,https://test.cherrytwist.org/graphql,7177,0,1741
+1619597520946,975,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-35,text,true,,685,348,39,39,https://test.cherrytwist.org/graphql,974,0,0
+1619597521573,374,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-20,text,true,,2131,737,39,39,https://test.cherrytwist.org/graphql,374,0,0
+1619597521850,109,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-3,text,true,,581,347,39,39,https://test.cherrytwist.org/graphql,109,0,0
+1619597521948,54,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-20,text,true,,767,381,39,39,https://test.cherrytwist.org/graphql,54,0,0
+1619597521849,205,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-42,text,true,,767,381,38,38,https://test.cherrytwist.org/graphql,205,0,0
+1619597514967,7203,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-32,text,true,,700,381,37,37,https://test.cherrytwist.org/graphql,7203,0,1086
+1619597519635,2652,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-27,text,true,,685,348,37,37,https://test.cherrytwist.org/graphql,2652,0,0
+1619597519835,2653,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-47,text,true,,685,348,37,37,https://test.cherrytwist.org/graphql,2653,0,0
+1619597522288,242,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-27,text,true,,2131,737,37,37,https://test.cherrytwist.org/graphql,242,0,0
+1619597521588,1105,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-13,text,true,,681,348,37,37,https://test.cherrytwist.org/graphql,1105,0,0
+1619597522532,325,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-27,text,true,,767,381,37,37,https://test.cherrytwist.org/graphql,325,0,0
+1619597514992,7867,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-34,text,true,,700,381,37,37,https://test.cherrytwist.org/graphql,7867,0,1319
+1619597515079,7828,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-38,text,true,,700,381,36,36,https://test.cherrytwist.org/graphql,7828,0,985
+1619597514775,8140,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-19,text,true,,700,381,36,36,https://test.cherrytwist.org/graphql,8140,0,1716
+1619597522694,245,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-13,text,true,,2131,737,36,36,https://test.cherrytwist.org/graphql,245,0,0
+1619597514725,8225,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-16,text,true,,700,381,36,36,https://test.cherrytwist.org/graphql,8225,0,1850
+1619597522916,114,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-19,text,true,,685,348,36,36,https://test.cherrytwist.org/graphql,114,0,0
+1619597520399,2649,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-2,text,true,,589,347,36,36,https://test.cherrytwist.org/graphql,2649,0,0
+1619597518743,4325,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-23,text,true,,2131,737,36,36,https://test.cherrytwist.org/graphql,4325,0,0
+1619597514810,8278,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-22,text,true,,700,381,36,36,https://test.cherrytwist.org/graphql,8278,0,1771
+1619597518920,4198,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-33,text,true,,2131,737,36,36,https://test.cherrytwist.org/graphql,4198,0,0
+1619597522940,221,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-13,text,true,,767,381,36,36,https://test.cherrytwist.org/graphql,221,0,0
+1619597518990,4197,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-18,text,true,,2131,737,35,35,https://test.cherrytwist.org/graphql,4197,0,0
+1619597520611,2578,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-29,text,true,,685,348,35,35,https://test.cherrytwist.org/graphql,2578,0,0
+1619597523089,160,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-22,text,true,,685,348,35,35,https://test.cherrytwist.org/graphql,160,0,0
+1619597518342,4943,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-45,text,true,,1359,735,35,35,https://test.cherrytwist.org/graphql,4943,0,0
+1619597520949,2336,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-5,text,true,,587,348,35,35,https://test.cherrytwist.org/graphql,2336,0,0
+1619597523120,193,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-33,text,true,,767,381,35,35,https://test.cherrytwist.org/graphql,193,0,0
+1619597523070,278,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-23,text,true,,767,381,34,34,https://test.cherrytwist.org/graphql,278,0,0
+1619597523188,160,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-18,text,true,,767,381,34,34,https://test.cherrytwist.org/graphql,160,0,0
+1619597514672,8717,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-8,text,true,,690,380,32,32,https://test.cherrytwist.org/graphql,8717,0,1939
+1619597518835,4575,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-48,text,true,,1359,735,32,32,https://test.cherrytwist.org/graphql,4575,0,0
+1619597523286,124,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-45,text,true,,767,381,32,32,https://test.cherrytwist.org/graphql,124,0,0
+1619597523031,403,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-19,text,true,,2131,737,31,31,https://test.cherrytwist.org/graphql,403,0,0
+1619597523435,68,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-19,text,true,,767,381,31,31,https://test.cherrytwist.org/graphql,68,0,0
+1619597522861,746,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-34,text,true,,685,348,30,30,https://test.cherrytwist.org/graphql,746,0,0
+1619597521607,2018,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-6,text,true,,520,348,30,30,https://test.cherrytwist.org/graphql,2018,0,0
+1619597523190,440,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-29,text,true,,2131,737,30,30,https://test.cherrytwist.org/graphql,440,0,0
+1619597523286,364,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-5,text,true,,2089,736,30,30,https://test.cherrytwist.org/graphql,364,0,0
+1619597514669,9017,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-9,text,true,,690,380,30,30,https://test.cherrytwist.org/graphql,9017,0,2004
+1619597523631,55,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-29,text,true,,767,381,30,30,https://test.cherrytwist.org/graphql,55,0,0
+1619597520248,3499,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-10,text,true,,2095,737,29,29,https://test.cherrytwist.org/graphql,3499,0,0
+1619597522174,1600,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-32,text,true,,685,348,29,29,https://test.cherrytwist.org/graphql,1600,0,0
+1619597523749,55,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-10,text,true,,767,381,29,29,https://test.cherrytwist.org/graphql,55,0,0
+1619597523412,414,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-48,text,true,,767,381,28,28,https://test.cherrytwist.org/graphql,414,0,0
+1619597523651,180,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-5,text,true,,767,381,27,27,https://test.cherrytwist.org/graphql,180,0,0
+1619597522489,1349,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-47,text,true,,1396,735,26,26,https://test.cherrytwist.org/graphql,1349,0,0
+1619597514715,9239,opportunityUserIds,200,OK,CT Benchmark:  Queries - Opportunity page 1-15,text,true,,700,381,26,26,https://test.cherrytwist.org/graphql,9239,0,1955
+1619597523390,667,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-8,text,true,,681,348,26,26,https://test.cherrytwist.org/graphql,667,0,0
+1619597523955,135,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-15,text,true,,681,348,26,26,https://test.cherrytwist.org/graphql,135,0,0
+1619597522909,1191,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-38,text,true,,685,348,26,26,https://test.cherrytwist.org/graphql,1191,0,0
+1619597522952,1236,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-16,text,true,,685,348,26,26,https://test.cherrytwist.org/graphql,1236,0,0
+1619597521364,2874,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-30,text,true,,2131,737,26,26,https://test.cherrytwist.org/graphql,2874,0,0
+1619597523839,434,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-47,text,true,,767,381,26,26,https://test.cherrytwist.org/graphql,434,0,0
+1619597521484,2794,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-11,text,true,,2113,737,25,25,https://test.cherrytwist.org/graphql,2794,0,0
+1619597524101,205,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-38,text,true,,2131,737,25,25,https://test.cherrytwist.org/graphql,205,0,0
+1619597524279,53,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-11,text,true,,767,381,25,25,https://test.cherrytwist.org/graphql,53,0,0
+1619597521824,2579,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-39,text,true,,2095,737,24,24,https://test.cherrytwist.org/graphql,2579,0,0
+1619597524240,169,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-30,text,true,,767,381,24,24,https://test.cherrytwist.org/graphql,169,0,0
+1619597524307,127,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-38,text,true,,767,381,23,23,https://test.cherrytwist.org/graphql,127,0,0
+1619597521961,2609,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-3,text,true,,2089,736,22,22,https://test.cherrytwist.org/graphql,2609,0,0
+1619597524571,62,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-3,text,true,,767,381,22,22,https://test.cherrytwist.org/graphql,62,0,0
+1619597524407,513,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-39,text,true,,767,381,21,21,https://test.cherrytwist.org/graphql,513,0,0
+1619597523049,2206,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-2,text,true,,2071,736,20,20,https://test.cherrytwist.org/graphql,2206,0,0
+1619597523250,2008,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-22,text,true,,2131,737,20,20,https://test.cherrytwist.org/graphql,2008,0,0
+1619597523609,1744,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-34,text,true,,2131,737,20,20,https://test.cherrytwist.org/graphql,1744,0,0
+1619597525258,121,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-2,text,true,,767,381,20,20,https://test.cherrytwist.org/graphql,121,0,0
+1619597523687,1697,userAvatars,200,OK,CT Benchmark:  Queries - Opportunity page 1-9,text,true,,681,348,19,19,https://test.cherrytwist.org/graphql,1697,0,0
+1619597525354,54,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-34,text,true,,767,381,19,19,https://test.cherrytwist.org/graphql,53,0,0
+1619597523775,1643,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-32,text,true,,2131,737,18,18,https://test.cherrytwist.org/graphql,1643,0,0
+1619597524058,1416,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-8,text,true,,2089,736,18,18,https://test.cherrytwist.org/graphql,1416,0,0
+1619597525260,250,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-22,text,true,,767,381,18,18,https://test.cherrytwist.org/graphql,250,0,0
+1619597524189,1325,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-16,text,true,,2131,737,18,18,https://test.cherrytwist.org/graphql,1325,0,0
+1619597525475,56,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-8,text,true,,767,381,17,17,https://test.cherrytwist.org/graphql,56,0,0
+1619597521233,4331,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-43,text,true,,1359,735,16,16,https://test.cherrytwist.org/graphql,4331,0,0
+1619597525515,83,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-16,text,true,,767,381,16,16,https://test.cherrytwist.org/graphql,83,0,0
+1619597525420,202,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-32,text,true,,767,381,15,15,https://test.cherrytwist.org/graphql,201,0,0
+1619597525565,123,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-43,text,true,,767,381,14,14,https://test.cherrytwist.org/graphql,122,0,0
+1619597525385,321,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-9,text,true,,2089,736,13,13,https://test.cherrytwist.org/graphql,321,0,0
+1619597525707,53,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-9,text,true,,767,381,13,13,https://test.cherrytwist.org/graphql,53,0,0
+1619597519023,7096,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-41,text,true,,2131,737,12,12,https://test.cherrytwist.org/graphql,7096,0,0
+1619597519755,6380,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-40,text,true,,2167,737,12,12,https://test.cherrytwist.org/graphql,6379,0,0
+1619597520525,5624,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-14,text,true,,2131,737,12,12,https://test.cherrytwist.org/graphql,5624,0,0
+1619597520162,6004,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-26,text,true,,2131,737,12,12,https://test.cherrytwist.org/graphql,6004,0,0
+1619597526121,58,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-41,text,true,,767,381,12,12,https://test.cherrytwist.org/graphql,58,0,0
+1619597520822,5373,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-36,text,true,,2167,737,11,11,https://test.cherrytwist.org/graphql,5373,0,0
+1619597526136,76,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-40,text,true,,767,381,11,11,https://test.cherrytwist.org/graphql,76,0,0
+1619597526167,56,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-26,text,true,,767,381,10,10,https://test.cherrytwist.org/graphql,56,0,0
+1619597521116,5142,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-25,text,true,,2131,737,9,9,https://test.cherrytwist.org/graphql,5142,0,0
+1619597521568,4698,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-28,text,true,,2131,737,9,9,https://test.cherrytwist.org/graphql,4698,0,0
+1619597521388,4918,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-31,text,true,,2131,737,9,9,https://test.cherrytwist.org/graphql,4918,0,0
+1619597526259,57,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-25,text,true,,767,381,9,9,https://test.cherrytwist.org/graphql,57,0,0
+1619597526266,60,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-28,text,true,,767,381,8,8,https://test.cherrytwist.org/graphql,60,0,0
+1619597526150,190,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-14,text,true,,767,381,7,7,https://test.cherrytwist.org/graphql,190,0,0
+1619597526197,143,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-36,text,true,,767,381,7,7,https://test.cherrytwist.org/graphql,143,0,0
+1619597526307,76,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-31,text,true,,767,381,5,5,https://test.cherrytwist.org/graphql,76,0,0
+1619597521835,4573,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-24,text,true,,2131,737,4,4,https://test.cherrytwist.org/graphql,4573,0,0
+1619597521922,4509,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-35,text,true,,2095,737,4,4,https://test.cherrytwist.org/graphql,4509,0,0
+1619597526409,54,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-24,text,true,,767,381,4,4,https://test.cherrytwist.org/graphql,54,0,0
+1619597523626,2851,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-6,text,true,,2089,736,3,3,https://test.cherrytwist.org/graphql,2851,0,0
+1619597524091,2386,opportunityProfile,200,OK,CT Benchmark:  Queries - Opportunity page 1-15,text,true,,2131,737,3,3,https://test.cherrytwist.org/graphql,2386,0,0
+1619597526432,55,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-35,text,true,,767,381,3,3,https://test.cherrytwist.org/graphql,55,0,0
+1619597526477,53,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-6,text,true,,767,381,2,2,https://test.cherrytwist.org/graphql,53,0,0
+1619597526477,53,opportunityTemplate ,200,OK,CT Benchmark:  Queries - Opportunity page 1-15,text,true,,767,381,2,2,https://test.cherrytwist.org/graphql,53,0,0

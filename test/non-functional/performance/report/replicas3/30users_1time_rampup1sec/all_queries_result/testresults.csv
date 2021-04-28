@@ -1,0 +1,181 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1619522376585,3726,Get All Challenges,200,OK,CT Benchmark:  Queries 1-4,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,3726,0,1454
+1619522377071,3391,Get All Challenges,200,OK,CT Benchmark:  Queries 1-28,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,3391,0,951
+1619522377110,3789,Get All Challenges,200,OK,CT Benchmark:  Queries 1-30,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,3788,0,833
+1619522376585,4829,Get All Challenges,200,OK,CT Benchmark:  Queries 1-2,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,4828,0,1409
+1619522376590,5234,Get All Challenges,200,OK,CT Benchmark:  Queries 1-9,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,5233,0,1527
+1619522376671,5311,Get All Challenges,200,OK,CT Benchmark:  Queries 1-14,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,5310,0,1515
+1619522376707,5426,Get All Challenges,200,OK,CT Benchmark:  Queries 1-15,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,5426,0,1593
+1619522376991,5342,Get All Challenges,200,OK,CT Benchmark:  Queries 1-25,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,5342,0,1314
+1619522376843,5626,Get All Challenges,200,OK,CT Benchmark:  Queries 1-20,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,5625,0,1475
+1619522377054,5520,Get All Challenges,200,OK,CT Benchmark:  Queries 1-27,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,5520,0,1272
+1619522376580,7343,Get All Challenges,200,OK,CT Benchmark:  Queries 1-10,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,7343,0,1414
+1619522376758,7671,Get All Challenges,200,OK,CT Benchmark:  Queries 1-17,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,7670,0,1424
+1619522376638,8291,Get All Challenges,200,OK,CT Benchmark:  Queries 1-13,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,8290,0,1451
+1619522376936,8103,Get All Challenges,200,OK,CT Benchmark:  Queries 1-23,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,8103,0,1063
+1619522376812,8445,Get All Challenges,200,OK,CT Benchmark:  Queries 1-19,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,8444,0,1200
+1619522376586,8870,Get All Challenges,200,OK,CT Benchmark:  Queries 1-7,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,8870,0,1418
+1619522376717,9112,Get All Challenges,200,OK,CT Benchmark:  Queries 1-16,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,9112,0,1294
+1619522376585,9842,Get All Challenges,200,OK,CT Benchmark:  Queries 1-1,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,9842,0,1450
+1619522376584,10226,Get All Challenges,200,OK,CT Benchmark:  Queries 1-11,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,10226,0,1562
+1619522376873,10141,Get All Challenges,200,OK,CT Benchmark:  Queries 1-21,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,10141,0,1196
+1619522376582,10683,Get All Challenges,200,OK,CT Benchmark:  Queries 1-3,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,10682,0,1633
+1619522386811,676,Get All Opportunities,502,Bad Gateway,CT Benchmark:  Queries 1-11,text,false,,137,356,30,30,https://test.cherrytwist.org/graphql,676,0,0
+1619522376582,11137,Get All Challenges,200,OK,CT Benchmark:  Queries 1-6,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,11136,0,1655
+1619522376953,10948,Get All Challenges,200,OK,CT Benchmark:  Queries 1-24,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,10948,0,1374
+1619522380313,7651,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-4,text,true,,6108,356,30,30,https://test.cherrytwist.org/graphql,7650,0,0
+1619522376614,11619,Get All Challenges,200,OK,CT Benchmark:  Queries 1-12,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,11619,0,1704
+1619522376585,11649,Get All Challenges,200,OK,CT Benchmark:  Queries 1-8,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,11649,0,1729
+1619522377039,11762,Get All Challenges,200,OK,CT Benchmark:  Queries 1-26,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,11762,0,1268
+1619522377298,11930,Get All Challenges,200,OK,CT Benchmark:  Queries 1-29,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,11930,0,1009
+1619522376899,12342,Get All Challenges,200,OK,CT Benchmark:  Queries 1-22,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,12341,0,1420
+1619522376585,13051,Get All Challenges,200,OK,CT Benchmark:  Queries 1-5,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,13051,0,1756
+1619522381417,8331,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-2,text,true,,6108,356,30,30,https://test.cherrytwist.org/graphql,8330,0,0
+1619522376782,13043,Get All Challenges,200,OK,CT Benchmark:  Queries 1-18,text,true,,1626,353,30,30,https://test.cherrytwist.org/graphql,13043,0,1538
+1619522382136,8473,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-15,text,true,,6108,356,30,30,https://test.cherrytwist.org/graphql,8473,0,0
+1619522382580,9096,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-27,text,true,,6108,356,30,30,https://test.cherrytwist.org/graphql,9095,0,0
+1619522387488,4359,Get All Projects,200,OK,CT Benchmark:  Queries 1-11,text,true,,532,309,30,30,https://test.cherrytwist.org/graphql,4359,0,0
+1619522387967,3880,Get All Projects,200,OK,CT Benchmark:  Queries 1-4,text,true,,532,309,30,30,https://test.cherrytwist.org/graphql,3880,0,0
+1619522390611,1255,Get All Projects,200,OK,CT Benchmark:  Queries 1-15,text,true,,532,309,30,30,https://test.cherrytwist.org/graphql,1255,0,0
+1619522391868,75,Get All Users,502,Bad Gateway,CT Benchmark:  Queries 1-15,text,false,,137,356,30,30,https://test.cherrytwist.org/graphql,75,0,0
+1619522391848,387,Get All Users,200,OK,CT Benchmark:  Queries 1-4,text,true,,94015,356,30,30,https://test.cherrytwist.org/graphql,278,0,0
+1619522392237,413,Get All Organisations,200,OK,CT Benchmark:  Queries 1-4,text,true,,1352,344,30,30,https://test.cherrytwist.org/graphql,413,0,0
+1619522389750,3725,Get All Projects,200,OK,CT Benchmark:  Queries 1-2,text,true,,532,309,30,30,https://test.cherrytwist.org/graphql,3724,0,0
+1619522391848,2214,Get All Users,200,OK,CT Benchmark:  Queries 1-11,text,true,,94015,356,30,30,https://test.cherrytwist.org/graphql,2115,0,0
+1619522394063,421,Get All Organisations,200,OK,CT Benchmark:  Queries 1-11,text,true,,1352,344,30,30,https://test.cherrytwist.org/graphql,420,0,0
+1619522391677,3853,Get All Projects,200,OK,CT Benchmark:  Queries 1-27,text,true,,532,309,30,30,https://test.cherrytwist.org/graphql,3853,0,0
+1619522391945,4477,Get All Organisations,200,OK,CT Benchmark:  Queries 1-15,text,true,,1352,344,30,30,https://test.cherrytwist.org/graphql,4477,0,0
+1619522393476,3253,Get All Users,200,OK,CT Benchmark:  Queries 1-2,text,true,,94015,356,30,30,https://test.cherrytwist.org/graphql,3146,0,0
+1619522395533,1908,Get All Users,200,OK,CT Benchmark:  Queries 1-27,text,true,,94015,356,30,30,https://test.cherrytwist.org/graphql,1760,0,0
+1619522396729,1668,Get All Organisations,200,OK,CT Benchmark:  Queries 1-2,text,true,,1352,344,30,30,https://test.cherrytwist.org/graphql,1668,0,0
+1619522389636,9139,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-5,text,true,,6108,356,30,30,https://test.cherrytwist.org/graphql,9138,0,0
+1619522392650,6158,Search,200,OK,CT Benchmark:  Queries 1-4,text,true,,584,608,30,30,https://test.cherrytwist.org/graphql,6157,0,0
+1619522394485,5237,Search,200,OK,CT Benchmark:  Queries 1-11,text,true,,584,608,29,29,https://test.cherrytwist.org/graphql,5237,0,0
+1619522385458,14954,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-7,text,true,,6108,356,28,28,https://test.cherrytwist.org/graphql,14953,0,0
+1619522397443,3161,Get All Organisations,200,OK,CT Benchmark:  Queries 1-27,text,true,,1352,344,28,28,https://test.cherrytwist.org/graphql,3161,0,0
+1619522388804,12759,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-26,text,true,,6108,356,28,28,https://test.cherrytwist.org/graphql,12759,0,0
+1619522384931,17512,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-13,text,true,,6108,356,28,28,https://test.cherrytwist.org/graphql,17509,0,0
+1619522400606,1879,Search,200,OK,CT Benchmark:  Queries 1-27,text,true,,584,608,28,28,https://test.cherrytwist.org/graphql,1878,0,0
+1619522396424,6065,Search,200,OK,CT Benchmark:  Queries 1-15,text,true,,584,608,27,27,https://test.cherrytwist.org/graphql,6065,0,0
+1619522398399,4091,Search,200,OK,CT Benchmark:  Queries 1-2,text,true,,584,608,27,27,https://test.cherrytwist.org/graphql,4091,0,0
+1619522398776,4467,Get All Projects,200,OK,CT Benchmark:  Queries 1-5,text,true,,532,309,25,25,https://test.cherrytwist.org/graphql,4467,0,0
+1619522403245,260,Get All Users,200,OK,CT Benchmark:  Queries 1-5,text,true,,94015,356,25,25,https://test.cherrytwist.org/graphql,166,0,0
+1619522400417,3328,Get All Projects,200,OK,CT Benchmark:  Queries 1-7,text,true,,532,309,25,25,https://test.cherrytwist.org/graphql,3328,0,0
+1619522385831,26798,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-16,text,true,,6108,356,25,25,https://test.cherrytwist.org/graphql,26797,0,0
+1619522412631,88,Get All Projects,200,OK,CT Benchmark:  Queries 1-16,text,true,,532,309,25,25,https://test.cherrytwist.org/graphql,88,0,0
+1619522381827,32629,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-9,text,true,,6108,356,25,25,https://test.cherrytwist.org/graphql,32628,0,0
+1619522381985,33378,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-14,text,true,,6108,356,25,25,https://test.cherrytwist.org/graphql,33377,0,0
+1619522415364,85,Get All Projects,200,OK,CT Benchmark:  Queries 1-14,text,true,,532,309,25,25,https://test.cherrytwist.org/graphql,84,0,0
+1619522403746,11730,Get All Users,200,OK,CT Benchmark:  Queries 1-7,text,true,,94015,356,25,25,https://test.cherrytwist.org/graphql,11584,0,0
+1619522380473,37389,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-28,text,true,,6108,356,25,25,https://test.cherrytwist.org/graphql,37388,0,0
+1619522417863,105,Get All Projects,200,OK,CT Benchmark:  Queries 1-28,text,true,,532,309,25,25,https://test.cherrytwist.org/graphql,105,0,0
+1619522402445,16118,Get All Projects,200,OK,CT Benchmark:  Queries 1-13,text,true,,532,309,25,25,https://test.cherrytwist.org/graphql,16118,0,0
+1619522380901,37879,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-30,text,true,,6108,356,25,25,https://test.cherrytwist.org/graphql,37878,0,0
+1619522418781,84,Get All Projects,200,OK,CT Benchmark:  Queries 1-30,text,true,,532,309,25,25,https://test.cherrytwist.org/graphql,83,0,0
+1619522383924,38699,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-10,text,true,,6108,356,25,25,https://test.cherrytwist.org/graphql,38698,0,0
+1619522385041,39110,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-23,text,true,,6108,356,25,25,https://test.cherrytwist.org/graphql,39109,0,0
+1619522424151,88,Get All Projects,200,OK,CT Benchmark:  Queries 1-23,text,true,,532,309,25,25,https://test.cherrytwist.org/graphql,88,0,0
+1619522422625,1855,Get All Projects,502,Bad Gateway,CT Benchmark:  Queries 1-10,text,false,,137,309,25,25,https://test.cherrytwist.org/graphql,1855,0,0
+1619522387015,38849,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-21,text,true,,6108,356,25,25,https://test.cherrytwist.org/graphql,38844,0,0
+1619522425865,83,Get All Projects,200,OK,CT Benchmark:  Queries 1-21,text,true,,532,309,25,25,https://test.cherrytwist.org/graphql,83,0,0
+1619522412720,13405,Get All Users,200,OK,CT Benchmark:  Queries 1-16,text,true,,94015,356,25,25,https://test.cherrytwist.org/graphql,13299,0,0
+1619522386429,39995,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-1,text,true,,6108,356,25,25,https://test.cherrytwist.org/graphql,39992,0,0
+1619522426425,88,Get All Projects,200,OK,CT Benchmark:  Queries 1-1,text,true,,532,309,25,25,https://test.cherrytwist.org/graphql,88,0,0
+1619522403508,24393,Get All Organisations,200,OK,CT Benchmark:  Queries 1-5,text,true,,1352,344,25,25,https://test.cherrytwist.org/graphql,24393,0,0
+1619522382472,45684,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-20,text,true,,6108,356,25,25,https://test.cherrytwist.org/graphql,45684,0,0
+1619522428157,93,Get All Projects,200,OK,CT Benchmark:  Queries 1-20,text,true,,532,309,25,25,https://test.cherrytwist.org/graphql,93,0,0
+1619522415449,14612,Get All Users,200,OK,CT Benchmark:  Queries 1-14,text,true,,94015,356,25,25,https://test.cherrytwist.org/graphql,14516,0,0
+1619522387721,42412,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-6,text,true,,6108,356,25,25,https://test.cherrytwist.org/graphql,42408,0,0
+1619522384431,45726,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-17,text,true,,6108,356,25,25,https://test.cherrytwist.org/graphql,45725,0,0
+1619522430134,81,Get All Projects,200,OK,CT Benchmark:  Queries 1-6,text,true,,532,309,25,25,https://test.cherrytwist.org/graphql,81,0,0
+1619522385259,46397,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-19,text,true,,6108,356,25,25,https://test.cherrytwist.org/graphql,46396,0,0
+1619522431657,85,Get All Projects,200,OK,CT Benchmark:  Queries 1-19,text,true,,532,309,25,25,https://test.cherrytwist.org/graphql,85,0,0
+1619522382334,49642,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-25,text,true,,6108,356,25,25,https://test.cherrytwist.org/graphql,49642,0,0
+1619522417969,16014,Get All Users,200,OK,CT Benchmark:  Queries 1-28,text,true,,94015,356,25,25,https://test.cherrytwist.org/graphql,15864,0,0
+1619522389242,44788,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-22,text,true,,6108,356,25,25,https://test.cherrytwist.org/graphql,44788,0,0
+1619522401564,32539,Get All Projects,200,OK,CT Benchmark:  Queries 1-26,text,true,,532,309,25,25,https://test.cherrytwist.org/graphql,32539,0,0
+1619522389230,44879,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-29,text,true,,6108,356,25,25,https://test.cherrytwist.org/graphql,44878,0,0
+1619522418865,15251,Get All Users,200,OK,CT Benchmark:  Queries 1-30,text,true,,94015,356,25,25,https://test.cherrytwist.org/graphql,15102,0,0
+1619522424241,10028,Get All Users,200,OK,CT Benchmark:  Queries 1-23,text,true,,94015,356,25,25,https://test.cherrytwist.org/graphql,9860,0,0
+1619522434111,293,Get All Projects,200,OK,CT Benchmark:  Queries 1-29,text,true,,532,309,25,25,https://test.cherrytwist.org/graphql,293,0,0
+1619522433985,419,Get All Organisations,200,OK,CT Benchmark:  Queries 1-28,text,true,,1352,344,25,25,https://test.cherrytwist.org/graphql,419,0,0
+1619522425950,8705,Get All Users,200,OK,CT Benchmark:  Queries 1-21,text,true,,94015,356,25,25,https://test.cherrytwist.org/graphql,8566,0,0
+1619522434406,340,Get All Users,200,OK,CT Benchmark:  Queries 1-29,text,true,,94015,356,25,25,https://test.cherrytwist.org/graphql,173,0,0
+1619522434749,438,Get All Organisations,200,OK,CT Benchmark:  Queries 1-29,text,true,,1352,344,25,25,https://test.cherrytwist.org/graphql,438,0,0
+1619522389827,45908,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-18,text,true,,6108,356,25,25,https://test.cherrytwist.org/graphql,45908,0,0
+1619522388235,47945,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-8,text,true,,6108,356,25,25,https://test.cherrytwist.org/graphql,47945,0,0
+1619522426513,9794,Get All Users,200,OK,CT Benchmark:  Queries 1-1,text,true,,94015,356,25,25,https://test.cherrytwist.org/graphql,9667,0,0
+1619522436181,137,Get All Projects,200,OK,CT Benchmark:  Queries 1-8,text,true,,532,309,25,25,https://test.cherrytwist.org/graphql,137,0,0
+1619522431744,4683,Get All Users,200,OK,CT Benchmark:  Queries 1-19,text,true,,94015,356,25,25,https://test.cherrytwist.org/graphql,4526,0,0
+1619522428251,8338,Get All Users,200,OK,CT Benchmark:  Queries 1-20,text,true,,94015,356,25,25,https://test.cherrytwist.org/graphql,8176,0,0
+1619522436427,309,Get All Organisations,200,OK,CT Benchmark:  Queries 1-19,text,true,,1352,344,25,25,https://test.cherrytwist.org/graphql,309,0,0
+1619522434117,3033,Get All Organisations,200,OK,CT Benchmark:  Queries 1-30,text,true,,1352,344,25,25,https://test.cherrytwist.org/graphql,3033,0,0
+1619522434031,3127,Get All Projects,200,OK,CT Benchmark:  Queries 1-22,text,true,,532,309,25,25,https://test.cherrytwist.org/graphql,3127,0,0
+1619522430157,7033,Get All Projects,200,OK,CT Benchmark:  Queries 1-17,text,true,,532,309,25,25,https://test.cherrytwist.org/graphql,7033,0,0
+1619522437191,442,Get All Users,200,OK,CT Benchmark:  Queries 1-17,text,true,,94015,356,25,25,https://test.cherrytwist.org/graphql,338,0,184
+1619522436308,1380,Get All Organisations,200,OK,CT Benchmark:  Queries 1-1,text,true,,1352,344,25,25,https://test.cherrytwist.org/graphql,1380,0,0
+1619522387903,49979,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-24,text,true,,6108,356,25,25,https://test.cherrytwist.org/graphql,49979,0,0
+1619522435187,2711,Search,200,OK,CT Benchmark:  Queries 1-29,text,true,,584,608,25,25,https://test.cherrytwist.org/graphql,2711,0,0
+1619522434406,3548,Search,200,OK,CT Benchmark:  Queries 1-28,text,true,,584,608,24,24,https://test.cherrytwist.org/graphql,3548,0,0
+1619522437634,366,Get All Organisations,200,OK,CT Benchmark:  Queries 1-17,text,true,,1352,344,23,23,https://test.cherrytwist.org/graphql,366,0,0
+1619522436590,1412,Get All Organisations,200,OK,CT Benchmark:  Queries 1-20,text,true,,1352,344,23,23,https://test.cherrytwist.org/graphql,1412,0,0
+1619522437882,255,Get All Projects,200,OK,CT Benchmark:  Queries 1-24,text,true,,532,309,23,23,https://test.cherrytwist.org/graphql,255,0,155
+1619522437160,1050,Get All Users,200,OK,CT Benchmark:  Queries 1-22,text,true,,94015,356,23,23,https://test.cherrytwist.org/graphql,944,0,225
+1619522437689,571,Search,200,OK,CT Benchmark:  Queries 1-1,text,true,,584,608,23,23,https://test.cherrytwist.org/graphql,571,0,173
+1619522438002,406,Search,200,OK,CT Benchmark:  Queries 1-20,text,true,,584,608,22,22,https://test.cherrytwist.org/graphql,405,0,137
+1619522438210,288,Get All Organisations,200,OK,CT Benchmark:  Queries 1-22,text,true,,1352,344,21,21,https://test.cherrytwist.org/graphql,288,0,0
+1619522438500,89,Search,200,OK,CT Benchmark:  Queries 1-22,text,true,,584,608,21,21,https://test.cherrytwist.org/graphql,89,0,0
+1619522388234,50840,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-12,text,true,,6108,356,20,20,https://test.cherrytwist.org/graphql,50839,0,0
+1619522418563,20587,Get All Users,200,OK,CT Benchmark:  Queries 1-13,text,true,,94015,356,20,20,https://test.cherrytwist.org/graphql,20484,0,0
+1619522439151,490,Get All Organisations,200,OK,CT Benchmark:  Queries 1-13,text,true,,1352,344,20,20,https://test.cherrytwist.org/graphql,490,0,151
+1619522439642,85,Search,200,OK,CT Benchmark:  Queries 1-13,text,true,,584,608,20,20,https://test.cherrytwist.org/graphql,85,0,0
+1619522387267,52971,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-3,text,true,,6108,356,19,19,https://test.cherrytwist.org/graphql,52970,0,0
+1619522424482,15773,Get All Users,200,OK,CT Benchmark:  Queries 1-10,text,true,,94015,356,19,19,https://test.cherrytwist.org/graphql,15663,0,0
+1619522430216,10125,Get All Users,200,OK,CT Benchmark:  Queries 1-6,text,true,,94015,356,19,19,https://test.cherrytwist.org/graphql,10014,0,0
+1619522440256,440,Get All Organisations,200,OK,CT Benchmark:  Queries 1-10,text,true,,1352,344,19,19,https://test.cherrytwist.org/graphql,440,0,127
+1619522415477,25445,Get All Organisations,200,OK,CT Benchmark:  Queries 1-7,text,true,,1352,344,19,19,https://test.cherrytwist.org/graphql,25445,0,0
+1619522440344,788,Get All Organisations,200,OK,CT Benchmark:  Queries 1-6,text,true,,1352,344,19,19,https://test.cherrytwist.org/graphql,788,0,156
+1619522440922,253,Search,200,OK,CT Benchmark:  Queries 1-7,text,true,,584,608,19,19,https://test.cherrytwist.org/graphql,253,0,143
+1619522434105,7102,Get All Users,200,OK,CT Benchmark:  Queries 1-26,text,true,,94015,356,18,18,https://test.cherrytwist.org/graphql,6987,0,0
+1619522441132,84,Search,200,OK,CT Benchmark:  Queries 1-6,text,true,,584,608,18,18,https://test.cherrytwist.org/graphql,84,0,0
+1619522436319,4968,Get All Users,200,OK,CT Benchmark:  Queries 1-8,text,true,,94015,356,17,17,https://test.cherrytwist.org/graphql,4868,0,0
+1619522438137,3247,Get All Users,200,OK,CT Benchmark:  Queries 1-24,text,true,,94015,356,17,17,https://test.cherrytwist.org/graphql,3140,0,0
+1619522441384,294,Get All Organisations,200,OK,CT Benchmark:  Queries 1-24,text,true,,1352,344,17,17,https://test.cherrytwist.org/graphql,294,0,0
+1619522426126,15631,Get All Organisations,200,OK,CT Benchmark:  Queries 1-16,text,true,,1352,344,17,17,https://test.cherrytwist.org/graphql,15631,0,0
+1619522430065,11939,Get All Organisations,200,OK,CT Benchmark:  Queries 1-14,text,true,,1352,344,17,17,https://test.cherrytwist.org/graphql,11939,0,0
+1619522441758,258,Search,200,OK,CT Benchmark:  Queries 1-16,text,true,,584,608,17,17,https://test.cherrytwist.org/graphql,258,0,153
+1619522414458,27589,Get All Projects,200,OK,CT Benchmark:  Queries 1-9,text,true,,532,309,16,16,https://test.cherrytwist.org/graphql,27589,0,0
+1619522441287,840,Get All Organisations,200,OK,CT Benchmark:  Queries 1-8,text,true,,1352,344,16,16,https://test.cherrytwist.org/graphql,840,0,144
+1619522442127,82,Search,200,OK,CT Benchmark:  Queries 1-8,text,true,,584,608,16,16,https://test.cherrytwist.org/graphql,82,0,0
+1619522434656,7632,Get All Organisations,200,OK,CT Benchmark:  Queries 1-21,text,true,,1352,344,15,15,https://test.cherrytwist.org/graphql,7632,0,0
+1619522434271,8143,Get All Organisations,200,OK,CT Benchmark:  Queries 1-23,text,true,,1352,344,15,15,https://test.cherrytwist.org/graphql,8143,0,0
+1619522442048,381,Get All Users,200,OK,CT Benchmark:  Queries 1-9,text,true,,94015,356,15,15,https://test.cherrytwist.org/graphql,276,0,126
+1619522442289,215,Search,200,OK,CT Benchmark:  Queries 1-21,text,true,,584,608,15,15,https://test.cherrytwist.org/graphql,215,0,133
+1619522431978,10527,Get All Projects,200,OK,CT Benchmark:  Queries 1-25,text,true,,532,309,14,14,https://test.cherrytwist.org/graphql,10527,0,0
+1619522435735,6772,Get All Projects,200,OK,CT Benchmark:  Queries 1-18,text,true,,532,309,14,14,https://test.cherrytwist.org/graphql,6772,0,0
+1619522439075,3434,Get All Projects,200,OK,CT Benchmark:  Queries 1-12,text,true,,532,309,14,14,https://test.cherrytwist.org/graphql,3434,0,131
+1619522442415,240,Search,200,OK,CT Benchmark:  Queries 1-23,text,true,,584,608,14,14,https://test.cherrytwist.org/graphql,240,0,126
+1619522441208,1507,Get All Organisations,200,OK,CT Benchmark:  Queries 1-26,text,true,,1352,344,13,13,https://test.cherrytwist.org/graphql,1507,0,138
+1619522442509,246,Get All Users,200,OK,CT Benchmark:  Queries 1-12,text,true,,94015,356,13,13,https://test.cherrytwist.org/graphql,153,0,0
+1619522442716,85,Search,200,OK,CT Benchmark:  Queries 1-26,text,true,,584,608,13,13,https://test.cherrytwist.org/graphql,85,0,0
+1619522440238,2593,Get All Projects,200,OK,CT Benchmark:  Queries 1-3,text,true,,532,309,12,12,https://test.cherrytwist.org/graphql,2593,0,130
+1619522436738,6111,Search,200,OK,CT Benchmark:  Queries 1-19,text,true,,584,608,12,12,https://test.cherrytwist.org/graphql,6111,0,0
+1619522427902,14953,Search,200,OK,CT Benchmark:  Queries 1-5,text,true,,584,608,12,12,https://test.cherrytwist.org/graphql,14953,0,0
+1619522442508,386,Get All Users,200,OK,CT Benchmark:  Queries 1-18,text,true,,94015,356,10,10,https://test.cherrytwist.org/graphql,269,0,154
+1619522442832,242,Get All Users,200,OK,CT Benchmark:  Queries 1-3,text,true,,94015,356,10,10,https://test.cherrytwist.org/graphql,120,0,0
+1619522437151,5956,Search,200,OK,CT Benchmark:  Queries 1-30,text,true,,584,608,10,10,https://test.cherrytwist.org/graphql,5956,0,255
+1619522440696,2488,Search,200,OK,CT Benchmark:  Queries 1-10,text,true,,584,608,9,9,https://test.cherrytwist.org/graphql,2487,0,0
+1619522442430,758,Get All Organisations,200,OK,CT Benchmark:  Queries 1-9,text,true,,1352,344,8,8,https://test.cherrytwist.org/graphql,757,0,0
+1619522438001,5187,Search,200,OK,CT Benchmark:  Queries 1-17,text,true,,584,608,8,8,https://test.cherrytwist.org/graphql,5186,0,0
+1619522442506,717,Get All Users,200,OK,CT Benchmark:  Queries 1-25,text,true,,94015,356,7,7,https://test.cherrytwist.org/graphql,603,0,149
+1619522443224,54,Get All Organisations,502,Bad Gateway,CT Benchmark:  Queries 1-25,text,false,,137,344,7,7,https://test.cherrytwist.org/graphql,54,0,0
+1619522443189,99,Search,200,OK,CT Benchmark:  Queries 1-9,text,true,,584,608,7,7,https://test.cherrytwist.org/graphql,98,0,0
+1619522442895,526,Get All Organisations,200,OK,CT Benchmark:  Queries 1-18,text,true,,1352,344,6,6,https://test.cherrytwist.org/graphql,526,0,0
+1619522443423,102,Search,200,OK,CT Benchmark:  Queries 1-18,text,true,,584,608,6,6,https://test.cherrytwist.org/graphql,102,0,0
+1619522442005,1680,Search,200,OK,CT Benchmark:  Queries 1-14,text,true,,584,608,5,5,https://test.cherrytwist.org/graphql,1680,0,147
+1619522441679,2017,Search,200,OK,CT Benchmark:  Queries 1-24,text,true,,584,608,4,4,https://test.cherrytwist.org/graphql,2017,0,0
+1619522442767,933,Get All Organisations,200,OK,CT Benchmark:  Queries 1-12,text,true,,1352,344,3,3,https://test.cherrytwist.org/graphql,933,0,0
+1619522443701,91,Search,200,OK,CT Benchmark:  Queries 1-12,text,true,,584,608,3,3,https://test.cherrytwist.org/graphql,91,0,0
+1619522443075,771,Get All Organisations,200,OK,CT Benchmark:  Queries 1-3,text,true,,1352,344,2,2,https://test.cherrytwist.org/graphql,770,0,0
+1619522443280,575,Search,200,OK,CT Benchmark:  Queries 1-25,text,true,,584,608,2,2,https://test.cherrytwist.org/graphql,575,0,0
+1619522443847,68,Search,200,OK,CT Benchmark:  Queries 1-3,text,true,,584,608,1,1,https://test.cherrytwist.org/graphql,68,0,0

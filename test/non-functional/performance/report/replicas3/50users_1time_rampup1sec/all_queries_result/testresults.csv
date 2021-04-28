@@ -1,0 +1,301 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1619516599595,18072,Get All Groups,200,OK,CT Benchmark:  Queries 1-21,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,18059,0,2005
+1619516599681,20208,Get All Groups,200,OK,CT Benchmark:  Queries 1-42,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,20156,0,1948
+1619516599596,22388,Get All Groups,200,OK,CT Benchmark:  Queries 1-29,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,22333,0,2562
+1619516599569,24289,Get All Groups,200,OK,CT Benchmark:  Queries 1-1,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,24232,0,2289
+1619516599600,26020,Get All Groups,200,OK,CT Benchmark:  Queries 1-2,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,25967,0,2175
+1619516599600,28218,Get All Groups,200,OK,CT Benchmark:  Queries 1-30,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,28178,0,2027
+1619516599600,30245,Get All Groups,200,OK,CT Benchmark:  Queries 1-24,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,30197,0,2353
+1619516599569,32245,Get All Groups,200,OK,CT Benchmark:  Queries 1-18,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,32193,0,2112
+1619516599719,36239,Get All Groups,200,OK,CT Benchmark:  Queries 1-39,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,36188,0,2306
+1619516599595,37630,Get All Groups,200,OK,CT Benchmark:  Queries 1-16,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,37588,0,2091
+1619516599600,37755,Get All Groups,200,OK,CT Benchmark:  Queries 1-25,text,true,,34985,378,50,50,https://test.cherrytwist.org/graphql,37703,0,2096
+1619516599600,42585,Get All Groups,200,OK,CT Benchmark:  Queries 1-12,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,42536,0,2647
+1619516642194,117,Get All Challenges,502,Bad Gateway,CT Benchmark:  Queries 1-12,text,false,,137,353,50,50,https://test.cherrytwist.org/graphql,117,0,0
+1619516599595,44229,Get All Groups,200,OK,CT Benchmark:  Queries 1-20,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,44183,0,2040
+1619516599753,44922,Get All Groups,200,OK,CT Benchmark:  Queries 1-44,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,44879,0,2518
+1619516599837,46969,Get All Groups,200,OK,CT Benchmark:  Queries 1-50,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,46913,0,2452
+1619516599601,48316,Get All Groups,200,OK,CT Benchmark:  Queries 1-14,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,48261,0,2530
+1619516599656,49683,Get All Groups,200,OK,CT Benchmark:  Queries 1-36,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,49623,0,2391
+1619516599803,53186,Get All Groups,200,OK,CT Benchmark:  Queries 1-47,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,53132,0,1822
+1619516599569,54658,Get All Groups,200,OK,CT Benchmark:  Queries 1-19,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,54605,0,2307
+1619516599770,55758,Get All Groups,200,OK,CT Benchmark:  Queries 1-43,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,55702,0,2572
+1619516599602,58046,Get All Groups,200,OK,CT Benchmark:  Queries 1-10,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,57995,0,2773
+1619516599601,60630,Get All Groups,200,OK,CT Benchmark:  Queries 1-8,text,true,,33448,378,50,50,https://test.cherrytwist.org/graphql,60580,0,2781
+1619516652990,8379,Get All Challenges,502,Bad Gateway,CT Benchmark:  Queries 1-47,text,false,,137,353,50,50,https://test.cherrytwist.org/graphql,8379,0,0
+1619516599770,61809,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-45,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2310
+1619516599601,61978,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-6,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2658
+1619516599600,61981,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-28,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2214
+1619516599595,61988,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-27,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2690
+1619516599809,61774,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-49,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,1994
+1619516599797,61788,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-46,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2533
+1619516599767,61816,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-41,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2540
+1619516599687,61900,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-35,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2646
+1619516599761,61826,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-38,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,1846
+1619516599595,61993,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-26,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2317
+1619516599691,61898,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-37,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2489
+1619516599620,61959,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-34,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2757
+1619516599596,61994,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-4,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2388
+1619516599596,61994,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-9,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2123
+1619516599569,62023,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-11,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2622
+1619516599672,61907,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-33,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,1921
+1619516599745,61848,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-40,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2517
+1619516599600,61998,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-3,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2771
+1619516599600,61996,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-22,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2727
+1619516599596,62000,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-7,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2769
+1619516599600,61994,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-13,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2785
+1619516599828,61768,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-48,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2135
+1619516599596,61999,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-17,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2766
+1619516599600,61996,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-5,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2776
+1619516599596,61999,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-23,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2713
+1619516599594,62000,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-31,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2681
+1619516599600,61994,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-32,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2733
+1619516599596,61983,Get All Groups,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-15,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,2759
+1619516625621,39433,Get All Challenges,200,OK,CT Benchmark:  Queries 1-2,text,true,,1626,353,50,50,https://test.cherrytwist.org/graphql,39433,0,0
+1619516619891,45275,Get All Challenges,200,OK,CT Benchmark:  Queries 1-42,text,true,,1626,353,50,50,https://test.cherrytwist.org/graphql,45275,0,0
+1619516631815,33714,Get All Challenges,200,OK,CT Benchmark:  Queries 1-18,text,true,,1626,353,50,50,https://test.cherrytwist.org/graphql,33713,0,0
+1619516637357,28276,Get All Challenges,200,OK,CT Benchmark:  Queries 1-25,text,true,,1626,353,50,50,https://test.cherrytwist.org/graphql,28276,0,0
+1619516643825,22334,Get All Challenges,200,OK,CT Benchmark:  Queries 1-20,text,true,,1626,353,50,50,https://test.cherrytwist.org/graphql,22334,0,0
+1619516647919,20004,Get All Challenges,200,OK,CT Benchmark:  Queries 1-14,text,true,,1626,353,50,50,https://test.cherrytwist.org/graphql,20004,0,0
+1619516654228,13829,Get All Challenges,200,OK,CT Benchmark:  Queries 1-19,text,true,,1626,353,50,50,https://test.cherrytwist.org/graphql,13829,0,0
+1619516661593,7117,Get All Challenges,200,OK,CT Benchmark:  Queries 1-11,text,true,,1626,353,50,50,https://test.cherrytwist.org/graphql,7116,0,437
+1619516660231,8722,Get All Challenges,200,OK,CT Benchmark:  Queries 1-8,text,true,,1626,353,50,50,https://test.cherrytwist.org/graphql,8721,0,218
+1619516661608,7509,Get All Challenges,200,OK,CT Benchmark:  Queries 1-7,text,true,,1626,353,50,50,https://test.cherrytwist.org/graphql,7509,0,280
+1619516661599,7655,Get All Challenges,200,OK,CT Benchmark:  Queries 1-3,text,true,,1626,353,50,50,https://test.cherrytwist.org/graphql,7654,0,384
+1619516661608,7980,Get All Challenges,200,OK,CT Benchmark:  Queries 1-15,text,true,,1626,353,50,50,https://test.cherrytwist.org/graphql,7980,0,408
+1619516661604,8209,Get All Challenges,200,OK,CT Benchmark:  Queries 1-17,text,true,,1626,353,50,50,https://test.cherrytwist.org/graphql,8208,0,375
+1619516661588,8389,Get All Challenges,200,OK,CT Benchmark:  Queries 1-35,text,true,,1626,353,50,50,https://test.cherrytwist.org/graphql,8389,0,312
+1619516661590,8638,Get All Challenges,200,OK,CT Benchmark:  Queries 1-37,text,true,,1626,353,50,50,https://test.cherrytwist.org/graphql,8633,0,403
+1619516661591,8785,Get All Challenges,200,OK,CT Benchmark:  Queries 1-4,text,true,,1626,353,50,50,https://test.cherrytwist.org/graphql,8785,0,445
+1619516661607,8987,Get All Challenges,200,OK,CT Benchmark:  Queries 1-32,text,true,,1626,353,50,50,https://test.cherrytwist.org/graphql,8986,0,435
+1619516617672,59890,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-21,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,0
+1619516669814,10373,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-17,text,true,,6108,356,50,50,https://test.cherrytwist.org/graphql,10372,0,0
+1619516665055,15852,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-2,text,true,,6108,356,50,50,https://test.cherrytwist.org/graphql,15850,0,161
+1619516621992,59574,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-29,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,0
+1619516669119,12555,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-7,text,true,,6108,356,50,50,https://test.cherrytwist.org/graphql,12553,0,0
+1619516665633,16945,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-25,text,true,,6108,356,50,50,https://test.cherrytwist.org/graphql,16944,0,159
+1619516670377,12918,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-4,text,true,,6108,356,50,50,https://test.cherrytwist.org/graphql,12917,0,0
+1619516623861,59704,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-1,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,0
+1619516668057,15880,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-19,text,true,,6108,356,50,50,https://test.cherrytwist.org/graphql,15878,0,154
+1619516680189,3783,Get All Projects,200,OK,CT Benchmark:  Queries 1-17,text,true,,532,309,50,50,https://test.cherrytwist.org/graphql,3783,0,0
+1619516681569,5944,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-29,text,true,,6108,356,50,50,https://test.cherrytwist.org/graphql,5937,0,133
+1619516627820,59742,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-30,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,0
+1619516683567,4656,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-1,text,true,,6108,356,50,50,https://test.cherrytwist.org/graphql,4654,0,137
+1619516687514,728,Get All Projects,200,OK,CT Benchmark:  Queries 1-29,text,true,,532,309,50,50,https://test.cherrytwist.org/graphql,728,0,0
+1619516688245,248,Get All Users,200,OK,CT Benchmark:  Queries 1-29,text,true,,94015,356,50,50,https://test.cherrytwist.org/graphql,140,0,0
+1619516629846,59717,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-24,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,0
+1619516635958,59604,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-39,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,0
+1619516637227,59330,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-16,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,0
+1619516695564,2506,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-39,text,true,,6108,356,50,50,https://test.cherrytwist.org/graphql,2504,0,141
+1619516642314,59242,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-12,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,0
+1619516701568,201,Get All Projects,200,OK,CT Benchmark:  Queries 1-12,text,true,,532,309,50,50,https://test.cherrytwist.org/graphql,201,0,118
+1619516644676,59878,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-44,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,0
+1619516646808,59745,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-50,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,0
+1619516649341,59213,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-36,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,0
+1619516706554,2711,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-50,text,true,,6108,356,50,50,https://test.cherrytwist.org/graphql,2709,0,127
+1619516655530,60023,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-43,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,0
+1619516657649,59901,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-10,text,false,,2077,0,50,50,https://test.cherrytwist.org/graphql,0,0,0
+1619516715555,2898,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-43,text,true,,6108,356,50,50,https://test.cherrytwist.org/graphql,2892,0,148
+1619516683972,36626,Get All Users,200,OK,CT Benchmark:  Queries 1-17,text,true,,94015,356,50,50,https://test.cherrytwist.org/graphql,36523,0,0
+1619516720599,296,Get All Organisations,200,OK,CT Benchmark:  Queries 1-17,text,true,,1352,344,50,50,https://test.cherrytwist.org/graphql,296,0,0
+1619516661583,59971,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-28,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,450
+1619516661605,59951,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-5,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,435
+1619516661606,59950,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-31,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,387
+1619516661600,59958,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-22,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,480
+1619516661595,59965,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-34,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,386
+1619516661586,59977,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-41,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,392
+1619516661605,59959,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-23,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,433
+1619516661584,59983,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-27,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,261
+1619516661607,59960,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-40,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,426
+1619516661586,59984,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-46,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,315
+1619516661592,59979,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-9,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,409
+1619516661594,59977,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-33,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,405
+1619516661588,59987,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-38,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,442
+1619516661590,59975,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-26,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,406
+1619516661371,60183,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-47,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,205
+1619516661581,59979,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-6,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,315
+1619516661607,59996,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-13,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,413
+1619516661580,59981,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-45,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,332
+1619516661584,59989,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-49,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,357
+1619516661603,59967,Get All Challenges,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-48,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,477
+1619516721598,326,Get All Projects,200,OK,CT Benchmark:  Queries 1-47,text,true,,532,309,49,49,https://test.cherrytwist.org/graphql,326,0,142
+1619516721926,486,Get All Users,200,OK,CT Benchmark:  Queries 1-47,text,true,,94015,356,49,49,https://test.cherrytwist.org/graphql,371,0,0
+1619516665166,59389,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-42,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,155
+1619516665530,60024,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-18,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,148
+1619516666160,59405,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-20,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,157
+1619516721628,5592,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-48,text,true,,6108,356,49,49,https://test.cherrytwist.org/graphql,5590,0,125
+1619516725557,1712,Get All Projects,200,OK,CT Benchmark:  Queries 1-18,text,true,,532,309,49,49,https://test.cherrytwist.org/graphql,1712,0,123
+1619516667925,59628,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-14,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,193
+1619516668712,59843,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-11,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,0
+1619516669256,59300,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-3,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,0
+1619516668954,59602,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-8,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,0
+1619516670229,59326,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-37,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,0
+1619516669978,59577,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-35,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,0
+1619516669590,59965,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-15,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,0
+1619516721602,8006,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-38,text,true,,6108,356,49,49,https://test.cherrytwist.org/graphql,8005,0,121
+1619516670594,59960,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-32,text,false,,2077,0,49,49,https://test.cherrytwist.org/graphql,0,0,0
+1619516721562,10322,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-34,text,true,,6108,356,49,49,https://test.cherrytwist.org/graphql,10321,0,186
+1619516727270,4957,Get All Users,200,OK,CT Benchmark:  Queries 1-18,text,true,,94015,356,49,49,https://test.cherrytwist.org/graphql,4846,0,0
+1619516721599,11267,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-6,text,true,,6108,356,49,49,https://test.cherrytwist.org/graphql,11266,0,126
+1619516721597,12141,Get All Opportunities,200,OK,CT Benchmark:  Queries 1-26,text,true,,6108,356,49,49,https://test.cherrytwist.org/graphql,12140,0,144
+1619516729565,4189,Get All Projects,200,OK,CT Benchmark:  Queries 1-15,text,true,,532,309,49,49,https://test.cherrytwist.org/graphql,4189,0,117
+1619516728558,5206,Get All Projects,200,OK,CT Benchmark:  Queries 1-3,text,true,,532,309,49,49,https://test.cherrytwist.org/graphql,5206,0,152
+1619516732867,910,Get All Projects,200,OK,CT Benchmark:  Queries 1-6,text,true,,532,309,49,49,https://test.cherrytwist.org/graphql,910,0,0
+1619516730559,3220,Get All Projects,200,OK,CT Benchmark:  Queries 1-32,text,true,,532,309,49,49,https://test.cherrytwist.org/graphql,3220,0,121
+1619516733765,234,Get All Users,200,OK,CT Benchmark:  Queries 1-3,text,true,,94015,356,49,49,https://test.cherrytwist.org/graphql,131,0,0
+1619516734001,338,Get All Organisations,200,OK,CT Benchmark:  Queries 1-3,text,true,,1352,344,49,49,https://test.cherrytwist.org/graphql,338,0,0
+1619516677565,59991,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-21,text,false,,2077,0,48,48,https://test.cherrytwist.org/graphql,0,0,123
+1619516680908,59647,Get All Projects,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-2,text,false,,2077,0,48,48,https://test.cherrytwist.org/graphql,0,0,0
+1619516681675,59879,Get All Projects,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-7,text,false,,2077,0,48,48,https://test.cherrytwist.org/graphql,0,0,0
+1619516741556,388,Get All Users,200,OK,CT Benchmark:  Queries 1-7,text,true,,94015,356,48,48,https://test.cherrytwist.org/graphql,276,0,125
+1619516682579,59976,Get All Projects,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-25,text,false,,2077,0,48,48,https://test.cherrytwist.org/graphql,0,0,0
+1619516683297,59258,Get All Projects,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-4,text,false,,2077,0,48,48,https://test.cherrytwist.org/graphql,0,0,0
+1619516742557,372,Get All Users,200,OK,CT Benchmark:  Queries 1-25,text,true,,94015,356,48,48,https://test.cherrytwist.org/graphql,246,0,123
+1619516683938,59614,Get All Projects,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-19,text,false,,2077,0,48,48,https://test.cherrytwist.org/graphql,0,0,0
+1619516688225,59331,Get All Projects,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-1,text,false,,2077,0,48,48,https://test.cherrytwist.org/graphql,0,0,0
+1619516687563,59993,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-30,text,false,,2077,0,48,48,https://test.cherrytwist.org/graphql,0,0,105
+1619516688494,59064,Get All Organisations,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-29,text,false,,2077,0,48,48,https://test.cherrytwist.org/graphql,0,0,0
+1619516747558,222,Get All Projects,200,OK,CT Benchmark:  Queries 1-30,text,true,,532,309,47,47,https://test.cherrytwist.org/graphql,222,0,137
+1619516689567,59989,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-24,text,false,,2077,0,47,47,https://test.cherrytwist.org/graphql,0,0,132
+1619516749558,229,Get All Projects,200,OK,CT Benchmark:  Queries 1-24,text,true,,532,309,47,47,https://test.cherrytwist.org/graphql,229,0,140
+1619516733755,16238,Get All Users,200,OK,CT Benchmark:  Queries 1-15,text,true,,94015,356,47,47,https://test.cherrytwist.org/graphql,16133,0,0
+1619516733779,16348,Get All Users,200,OK,CT Benchmark:  Queries 1-32,text,true,,94015,356,47,47,https://test.cherrytwist.org/graphql,16240,0,0
+1619516740558,9715,Get All Users,200,OK,CT Benchmark:  Queries 1-2,text,true,,94015,356,47,47,https://test.cherrytwist.org/graphql,9606,0,128
+1619516750128,314,Get All Organisations,200,OK,CT Benchmark:  Queries 1-32,text,true,,1352,344,47,47,https://test.cherrytwist.org/graphql,314,0,0
+1619516742557,8369,Get All Users,200,OK,CT Benchmark:  Queries 1-4,text,true,,94015,356,46,46,https://test.cherrytwist.org/graphql,8261,0,124
+1619516743553,7518,Get All Users,200,OK,CT Benchmark:  Queries 1-19,text,true,,94015,356,46,46,https://test.cherrytwist.org/graphql,7414,0,120
+1619516751072,376,Get All Organisations,200,OK,CT Benchmark:  Queries 1-19,text,true,,1352,344,46,46,https://test.cherrytwist.org/graphql,376,0,0
+1619516701769,51268,Get All Users,200,OK,CT Benchmark:  Queries 1-12,text,true,,94015,356,45,45,https://test.cherrytwist.org/graphql,51160,0,0
+1619516733777,20912,Get All Users,200,OK,CT Benchmark:  Queries 1-6,text,true,,94015,356,45,45,https://test.cherrytwist.org/graphql,20806,0,0
+1619516747558,7321,Get All Users,200,OK,CT Benchmark:  Queries 1-1,text,true,,94015,356,45,45,https://test.cherrytwist.org/graphql,7214,0,137
+1619516749788,5350,Get All Users,200,OK,CT Benchmark:  Queries 1-24,text,true,,94015,356,45,45,https://test.cherrytwist.org/graphql,5250,0,0
+1619516754880,293,Get All Organisations,200,OK,CT Benchmark:  Queries 1-1,text,true,,1352,344,45,45,https://test.cherrytwist.org/graphql,292,0,0
+1619516696557,59249,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-16,text,false,,2077,0,44,44,https://test.cherrytwist.org/graphql,0,0,110
+1619516747781,9818,Get All Users,200,OK,CT Benchmark:  Queries 1-30,text,true,,94015,356,44,44,https://test.cherrytwist.org/graphql,9686,0,0
+1619516698076,59730,Get All Projects,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-39,text,false,,2077,0,44,44,https://test.cherrytwist.org/graphql,0,0,0
+1619516757599,275,Get All Organisations,200,OK,CT Benchmark:  Queries 1-30,text,true,,1352,344,44,44,https://test.cherrytwist.org/graphql,275,0,0
+1619516732234,25970,Get All Organisations,200,OK,CT Benchmark:  Queries 1-18,text,true,,1352,344,43,43,https://test.cherrytwist.org/graphql,25970,0,0
+1619516709267,49802,Get All Projects,200,OK,CT Benchmark:  Queries 1-50,text,true,,532,309,42,42,https://test.cherrytwist.org/graphql,49802,0,0
+1619516718455,40628,Get All Projects,200,OK,CT Benchmark:  Queries 1-43,text,true,,532,309,42,42,https://test.cherrytwist.org/graphql,40627,0,0
+1619516759084,226,Get All Users,200,OK,CT Benchmark:  Queries 1-43,text,true,,94015,356,42,42,https://test.cherrytwist.org/graphql,120,0,0
+1619516759310,1069,Get All Organisations,502,Bad Gateway,CT Benchmark:  Queries 1-43,text,false,,137,344,42,42,https://test.cherrytwist.org/graphql,1069,0,0
+1619516722422,39687,Get All Organisations,200,OK,CT Benchmark:  Queries 1-47,text,true,,1352,344,41,41,https://test.cherrytwist.org/graphql,39687,0,0
+1619516742929,20059,Get All Organisations,200,OK,CT Benchmark:  Queries 1-25,text,true,,1352,344,40,40,https://test.cherrytwist.org/graphql,20059,0,0
+1619516741944,21615,Get All Organisations,200,OK,CT Benchmark:  Queries 1-7,text,true,,1352,344,39,39,https://test.cherrytwist.org/graphql,21615,0,0
+1619516704555,59251,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-44,text,false,,2077,0,38,38,https://test.cherrytwist.org/graphql,0,0,114
+1619516763807,264,Get All Projects,502,Bad Gateway,CT Benchmark:  Queries 1-44,text,false,,137,309,38,38,https://test.cherrytwist.org/graphql,264,0,113
+1619516750274,13906,Get All Organisations,200,OK,CT Benchmark:  Queries 1-2,text,true,,1352,344,38,38,https://test.cherrytwist.org/graphql,13906,0,0
+1619516764072,278,Get All Users,200,OK,CT Benchmark:  Queries 1-44,text,true,,94015,356,37,37,https://test.cherrytwist.org/graphql,171,0,0
+1619516724557,39957,Get All Projects,200,OK,CT Benchmark:  Queries 1-42,text,true,,532,309,37,37,https://test.cherrytwist.org/graphql,39957,0,134
+1619516727222,37292,Get All Projects,200,OK,CT Benchmark:  Queries 1-48,text,true,,532,309,37,37,https://test.cherrytwist.org/graphql,37292,0,0
+1619516729557,34960,Get All Projects,200,OK,CT Benchmark:  Queries 1-37,text,true,,532,309,37,37,https://test.cherrytwist.org/graphql,34960,0,132
+1619516728558,35959,Get All Projects,200,OK,CT Benchmark:  Queries 1-8,text,true,,532,309,37,37,https://test.cherrytwist.org/graphql,35959,0,152
+1619516729609,34969,Get All Projects,200,OK,CT Benchmark:  Queries 1-38,text,true,,532,309,37,37,https://test.cherrytwist.org/graphql,34969,0,0
+1619516764514,227,Get All Users,200,OK,CT Benchmark:  Queries 1-48,text,true,,94015,356,37,37,https://test.cherrytwist.org/graphql,126,0,0
+1619516764579,269,Get All Users,200,OK,CT Benchmark:  Queries 1-38,text,true,,94015,356,37,37,https://test.cherrytwist.org/graphql,165,0,0
+1619516749995,15341,Get All Organisations,200,OK,CT Benchmark:  Queries 1-15,text,true,,1352,344,37,37,https://test.cherrytwist.org/graphql,15341,0,0
+1619516759070,6854,Get All Users,200,OK,CT Benchmark:  Queries 1-50,text,true,,94015,356,36,36,https://test.cherrytwist.org/graphql,6750,0,0
+1619516750926,15162,Get All Organisations,200,OK,CT Benchmark:  Queries 1-4,text,true,,1352,344,36,36,https://test.cherrytwist.org/graphql,15162,0,0
+1619516765925,363,Get All Organisations,200,OK,CT Benchmark:  Queries 1-50,text,true,,1352,344,35,35,https://test.cherrytwist.org/graphql,362,0,0
+1619516754690,11854,Get All Organisations,200,OK,CT Benchmark:  Queries 1-6,text,true,,1352,344,34,34,https://test.cherrytwist.org/graphql,11854,0,0
+1619516764515,2982,Get All Users,200,OK,CT Benchmark:  Queries 1-42,text,true,,94015,356,33,33,https://test.cherrytwist.org/graphql,2871,0,0
+1619516764518,3121,Get All Users,200,OK,CT Benchmark:  Queries 1-8,text,true,,94015,356,33,33,https://test.cherrytwist.org/graphql,3017,0,0
+1619516708556,59253,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-36,text,false,,2077,0,33,33,https://test.cherrytwist.org/graphql,0,0,116
+1619516767811,212,Get All Projects,200,OK,CT Benchmark:  Queries 1-36,text,true,,532,309,33,33,https://test.cherrytwist.org/graphql,212,0,127
+1619516753038,15107,Get All Organisations,200,OK,CT Benchmark:  Queries 1-12,text,true,,1352,344,33,33,https://test.cherrytwist.org/graphql,15107,0,0
+1619516757806,11104,Get All Users,200,OK,CT Benchmark:  Queries 1-39,text,true,,94015,356,32,32,https://test.cherrytwist.org/graphql,10991,0,111
+1619516755806,13428,Get All Projects,200,OK,CT Benchmark:  Queries 1-16,text,true,,532,309,32,32,https://test.cherrytwist.org/graphql,13428,0,112
+1619516769235,226,Get All Users,200,OK,CT Benchmark:  Queries 1-16,text,true,,94015,356,32,32,https://test.cherrytwist.org/graphql,127,0,0
+1619516764848,5554,Get All Organisations,200,OK,CT Benchmark:  Queries 1-38,text,true,,1352,344,32,32,https://test.cherrytwist.org/graphql,5554,0,0
+1619516727559,43340,Get All Projects,200,OK,CT Benchmark:  Queries 1-14,text,true,,532,309,31,31,https://test.cherrytwist.org/graphql,43340,0,137
+1619516729557,41366,Get All Projects,200,OK,CT Benchmark:  Queries 1-35,text,true,,532,309,31,31,https://test.cherrytwist.org/graphql,41365,0,124
+1619516770923,247,Get All Users,200,OK,CT Benchmark:  Queries 1-35,text,true,,94015,356,31,31,https://test.cherrytwist.org/graphql,134,0,0
+1619516725581,45843,Get All Projects,200,OK,CT Benchmark:  Queries 1-20,text,true,,532,309,31,31,https://test.cherrytwist.org/graphql,45843,0,175
+1619516731885,39539,Get All Projects,200,OK,CT Benchmark:  Queries 1-34,text,true,,532,309,31,31,https://test.cherrytwist.org/graphql,39539,0,0
+1619516728557,43111,Get All Projects,200,OK,CT Benchmark:  Queries 1-11,text,true,,532,309,31,31,https://test.cherrytwist.org/graphql,43111,0,164
+1619516733739,37950,Get All Projects,200,OK,CT Benchmark:  Queries 1-26,text,true,,532,309,31,31,https://test.cherrytwist.org/graphql,37950,0,0
+1619516737566,34123,Get All Projects,200,OK,CT Benchmark:  Queries 1-21,text,true,,532,309,31,31,https://test.cherrytwist.org/graphql,34123,0,116
+1619516771425,292,Get All Users,200,OK,CT Benchmark:  Queries 1-34,text,true,,94015,356,31,31,https://test.cherrytwist.org/graphql,185,0,0
+1619516771690,72,Get All Users,502,Bad Gateway,CT Benchmark:  Queries 1-26,text,false,,137,356,31,31,https://test.cherrytwist.org/graphql,72,0,0
+1619516771690,246,Get All Users,200,OK,CT Benchmark:  Queries 1-21,text,true,,94015,356,31,31,https://test.cherrytwist.org/graphql,132,0,0
+1619516767639,4506,Get All Organisations,200,OK,CT Benchmark:  Queries 1-8,text,true,,1352,344,31,31,https://test.cherrytwist.org/graphql,4506,0,0
+1619516755138,17125,Get All Organisations,200,OK,CT Benchmark:  Queries 1-24,text,true,,1352,344,30,30,https://test.cherrytwist.org/graphql,17125,0,0
+1619516771937,395,Get All Organisations,200,OK,CT Benchmark:  Queries 1-21,text,true,,1352,344,29,29,https://test.cherrytwist.org/graphql,395,0,0
+1619516768024,4963,Get All Users,200,OK,CT Benchmark:  Queries 1-36,text,true,,94015,356,28,28,https://test.cherrytwist.org/graphql,4859,0,0
+1619516764518,8652,Get All Users,200,OK,CT Benchmark:  Queries 1-37,text,true,,94015,356,28,28,https://test.cherrytwist.org/graphql,8548,0,0
+1619516770900,2348,Get All Users,200,OK,CT Benchmark:  Queries 1-14,text,true,,94015,356,28,28,https://test.cherrytwist.org/graphql,2245,0,0
+1619516773249,358,Get All Organisations,200,OK,CT Benchmark:  Queries 1-14,text,true,,1352,344,28,28,https://test.cherrytwist.org/graphql,358,0,0
+1619516768911,5380,Get All Organisations,200,OK,CT Benchmark:  Queries 1-39,text,true,,1352,344,27,27,https://test.cherrytwist.org/graphql,5380,0,0
+1619516771425,2925,Get All Users,200,OK,CT Benchmark:  Queries 1-20,text,true,,94015,356,26,26,https://test.cherrytwist.org/graphql,2816,0,0
+1619516771669,3420,Get All Users,200,OK,CT Benchmark:  Queries 1-11,text,true,,94015,356,26,26,https://test.cherrytwist.org/graphql,3311,0,0
+1619516764350,11608,Get All Organisations,200,OK,CT Benchmark:  Queries 1-44,text,true,,1352,344,26,26,https://test.cherrytwist.org/graphql,11608,0,0
+1619516771764,4424,Get All Organisations,200,OK,CT Benchmark:  Queries 1-26,text,true,,1352,344,25,25,https://test.cherrytwist.org/graphql,4424,0,0
+1619516764741,11642,Get All Organisations,200,OK,CT Benchmark:  Queries 1-48,text,true,,1352,344,24,24,https://test.cherrytwist.org/graphql,11641,0,0
+1619516717551,59257,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-10,text,false,,2077,0,23,23,https://test.cherrytwist.org/graphql,0,0,113
+1619516776815,210,Get All Projects,200,OK,CT Benchmark:  Queries 1-10,text,true,,532,309,23,23,https://test.cherrytwist.org/graphql,210,0,122
+1619516767499,9824,Get All Organisations,200,OK,CT Benchmark:  Queries 1-42,text,true,,1352,344,23,23,https://test.cherrytwist.org/graphql,9824,0,0
+1619516769462,8377,Get All Organisations,200,OK,CT Benchmark:  Queries 1-16,text,true,,1352,344,22,22,https://test.cherrytwist.org/graphql,8377,0,0
+1619516773170,5163,Get All Organisations,200,OK,CT Benchmark:  Queries 1-37,text,true,,1352,344,21,21,https://test.cherrytwist.org/graphql,5163,0,0
+1619516771171,7557,Get All Organisations,200,OK,CT Benchmark:  Queries 1-35,text,true,,1352,344,20,20,https://test.cherrytwist.org/graphql,7557,0,0
+1619516775091,4060,Get All Organisations,200,OK,CT Benchmark:  Queries 1-11,text,true,,1352,344,19,19,https://test.cherrytwist.org/graphql,4059,0,0
+1619516771718,7453,Get All Organisations,200,OK,CT Benchmark:  Queries 1-34,text,true,,1352,344,18,18,https://test.cherrytwist.org/graphql,7453,0,0
+1619516772987,6720,Get All Organisations,200,OK,CT Benchmark:  Queries 1-36,text,true,,1352,344,17,17,https://test.cherrytwist.org/graphql,6720,0,0
+1619516777027,3068,Get All Users,200,OK,CT Benchmark:  Queries 1-10,text,true,,94015,356,16,16,https://test.cherrytwist.org/graphql,2960,0,0
+1619516721573,59239,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-9,text,false,,2077,0,16,16,https://test.cherrytwist.org/graphql,0,0,172
+1619516721572,59240,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-46,text,false,,2077,0,16,16,https://test.cherrytwist.org/graphql,0,0,151
+1619516721560,59252,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-22,text,false,,2077,0,16,16,https://test.cherrytwist.org/graphql,0,0,130
+1619516721600,59216,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-28,text,false,,2077,0,16,16,https://test.cherrytwist.org/graphql,0,0,141
+1619516721602,59214,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-33,text,false,,2077,0,16,16,https://test.cherrytwist.org/graphql,0,0,150
+1619516721569,59249,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-27,text,false,,2077,0,16,16,https://test.cherrytwist.org/graphql,0,0,173
+1619516721599,59221,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-23,text,false,,2077,0,16,16,https://test.cherrytwist.org/graphql,0,0,125
+1619516721628,59192,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-49,text,false,,2077,0,16,16,https://test.cherrytwist.org/graphql,0,0,119
+1619516721604,59219,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-13,text,false,,2077,0,16,16,https://test.cherrytwist.org/graphql,0,0,135
+1619516721569,59255,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-40,text,false,,2077,0,16,16,https://test.cherrytwist.org/graphql,0,0,182
+1619516721599,59227,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-31,text,false,,2077,0,16,16,https://test.cherrytwist.org/graphql,0,0,124
+1619516721604,59225,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-45,text,false,,2077,0,16,16,https://test.cherrytwist.org/graphql,0,0,135
+1619516721598,59231,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-5,text,false,,2077,0,16,16,https://test.cherrytwist.org/graphql,0,0,141
+1619516780814,238,Get All Projects,200,OK,CT Benchmark:  Queries 1-9,text,true,,532,309,16,16,https://test.cherrytwist.org/graphql,238,0,122
+1619516780822,237,Get All Projects,200,OK,CT Benchmark:  Queries 1-23,text,true,,532,309,16,16,https://test.cherrytwist.org/graphql,237,0,121
+1619516780820,246,Get All Projects,200,OK,CT Benchmark:  Queries 1-27,text,true,,532,309,16,16,https://test.cherrytwist.org/graphql,246,0,130
+1619516780840,238,Get All Projects,200,OK,CT Benchmark:  Queries 1-49,text,true,,532,309,16,16,https://test.cherrytwist.org/graphql,238,0,123
+1619516780824,269,Get All Projects,200,OK,CT Benchmark:  Queries 1-13,text,true,,532,309,16,16,https://test.cherrytwist.org/graphql,269,0,136
+1619516781066,230,Get All Users,200,OK,CT Benchmark:  Queries 1-27,text,true,,94015,356,16,16,https://test.cherrytwist.org/graphql,116,0,0
+1619516780817,501,Get All Projects,502,Bad Gateway,CT Benchmark:  Queries 1-28,text,false,,137,309,16,16,https://test.cherrytwist.org/graphql,501,0,132
+1619516781297,396,Get All Organisations,200,OK,CT Benchmark:  Queries 1-27,text,true,,1352,344,16,16,https://test.cherrytwist.org/graphql,396,0,0
+1619516774351,7346,Get All Organisations,200,OK,CT Benchmark:  Queries 1-20,text,true,,1352,344,15,15,https://test.cherrytwist.org/graphql,7346,0,0
+1619516721565,60247,Get All Opportunities,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: test.cherrytwist.org:443 failed to respond,CT Benchmark:  Queries 1-41,text,false,,2077,0,14,14,https://test.cherrytwist.org/graphql,0,0,205
+1619516781053,2006,Get All Users,200,OK,CT Benchmark:  Queries 1-9,text,true,,94015,356,14,14,https://test.cherrytwist.org/graphql,1897,0,0
+1619516781079,2100,Get All Users,200,OK,CT Benchmark:  Queries 1-49,text,true,,94015,356,14,14,https://test.cherrytwist.org/graphql,2006,0,0
+1619516781318,1979,Get All Users,200,OK,CT Benchmark:  Queries 1-28,text,true,,94015,356,14,14,https://test.cherrytwist.org/graphql,1871,0,0
+1619516783059,336,Get All Organisations,200,OK,CT Benchmark:  Queries 1-9,text,true,,1352,344,14,14,https://test.cherrytwist.org/graphql,336,0,0
+1619516780833,5252,Get All Projects,200,OK,CT Benchmark:  Queries 1-31,text,true,,532,309,13,13,https://test.cherrytwist.org/graphql,5252,0,113
+1619516780817,5270,Get All Projects,200,OK,CT Benchmark:  Queries 1-33,text,true,,532,309,13,13,https://test.cherrytwist.org/graphql,5270,0,125
+1619516780814,5330,Get All Projects,200,OK,CT Benchmark:  Queries 1-46,text,true,,532,309,13,13,https://test.cherrytwist.org/graphql,5330,0,137
+1619516786085,285,Get All Users,200,OK,CT Benchmark:  Queries 1-31,text,true,,94015,356,13,13,https://test.cherrytwist.org/graphql,178,0,0
+1619516780838,5647,Get All Projects,200,OK,CT Benchmark:  Queries 1-45,text,true,,532,309,13,13,https://test.cherrytwist.org/graphql,5647,0,127
+1619516786381,338,Get All Organisations,200,OK,CT Benchmark:  Queries 1-31,text,true,,1352,344,13,13,https://test.cherrytwist.org/graphql,338,0,0
+1619516783180,3677,Get All Organisations,200,OK,CT Benchmark:  Queries 1-49,text,true,,1352,344,12,12,https://test.cherrytwist.org/graphql,3676,0,0
+1619516786088,2308,Get All Users,200,OK,CT Benchmark:  Queries 1-33,text,true,,94015,356,11,11,https://test.cherrytwist.org/graphql,2198,0,0
+1619516786486,2224,Get All Users,200,OK,CT Benchmark:  Queries 1-45,text,true,,94015,356,11,11,https://test.cherrytwist.org/graphql,2114,0,0
+1619516788711,328,Get All Organisations,200,OK,CT Benchmark:  Queries 1-45,text,true,,1352,344,11,11,https://test.cherrytwist.org/graphql,328,0,0
+1619516781059,21407,Get All Users,200,OK,CT Benchmark:  Queries 1-23,text,true,,94015,356,10,10,https://test.cherrytwist.org/graphql,21298,0,0
+1619516781093,21480,Get All Users,200,OK,CT Benchmark:  Queries 1-13,text,true,,94015,356,10,10,https://test.cherrytwist.org/graphql,21369,0,0
+1619516780098,22572,Get All Organisations,200,OK,CT Benchmark:  Queries 1-10,text,true,,1352,344,10,10,https://test.cherrytwist.org/graphql,22572,0,0
+1619516786145,32165,Get All Users,200,OK,CT Benchmark:  Queries 1-46,text,true,,94015,356,9,9,https://test.cherrytwist.org/graphql,32062,0,0
+1619516783299,35217,Get All Organisations,200,OK,CT Benchmark:  Queries 1-28,text,true,,1352,344,9,9,https://test.cherrytwist.org/graphql,35217,0,0
+1619516818311,298,Get All Organisations,200,OK,CT Benchmark:  Queries 1-46,text,true,,1352,344,8,8,https://test.cherrytwist.org/graphql,297,0,0
+1619516780814,46499,Get All Projects,200,OK,CT Benchmark:  Queries 1-22,text,true,,532,309,7,7,https://test.cherrytwist.org/graphql,46499,0,129
+1619516788397,39470,Get All Organisations,200,OK,CT Benchmark:  Queries 1-33,text,true,,1352,344,7,7,https://test.cherrytwist.org/graphql,39470,0,0
+1619516780826,54142,Get All Projects,200,OK,CT Benchmark:  Queries 1-40,text,true,,532,309,6,6,https://test.cherrytwist.org/graphql,54142,0,134
+1619516781814,53160,Get All Projects,200,OK,CT Benchmark:  Queries 1-41,text,true,,532,309,6,6,https://test.cherrytwist.org/graphql,53160,0,117
+1619516780837,54137,Get All Projects,200,OK,CT Benchmark:  Queries 1-5,text,true,,532,309,6,6,https://test.cherrytwist.org/graphql,54137,0,126
+1619516834975,436,Get All Users,200,OK,CT Benchmark:  Queries 1-41,text,true,,94015,356,6,6,https://test.cherrytwist.org/graphql,332,0,0
+1619516802574,32857,Get All Organisations,200,OK,CT Benchmark:  Queries 1-13,text,true,,1352,344,6,6,https://test.cherrytwist.org/graphql,32856,0,0
+1619516834968,568,Get All Users,200,OK,CT Benchmark:  Queries 1-40,text,true,,94015,356,5,5,https://test.cherrytwist.org/graphql,461,0,0
+1619516835412,541,Get All Organisations,200,OK,CT Benchmark:  Queries 1-41,text,true,,1352,344,5,5,https://test.cherrytwist.org/graphql,541,0,0
+1619516835538,436,Get All Organisations,200,OK,CT Benchmark:  Queries 1-40,text,true,,1352,344,4,4,https://test.cherrytwist.org/graphql,436,0,0
+1619516827314,15526,Get All Users,200,OK,CT Benchmark:  Queries 1-22,text,true,,94015,356,3,3,https://test.cherrytwist.org/graphql,15422,0,0
+1619516802467,40482,Get All Organisations,200,OK,CT Benchmark:  Queries 1-23,text,true,,1352,344,3,3,https://test.cherrytwist.org/graphql,40482,0,0
+1619516834975,8077,Get All Users,200,OK,CT Benchmark:  Queries 1-5,text,true,,94015,356,2,2,https://test.cherrytwist.org/graphql,7965,0,0
+1619516842840,574,Get All Organisations,200,OK,CT Benchmark:  Queries 1-22,text,true,,1352,344,2,2,https://test.cherrytwist.org/graphql,573,0,224
+1619516843053,491,Get All Organisations,200,OK,CT Benchmark:  Queries 1-5,text,true,,1352,344,1,1,https://test.cherrytwist.org/graphql,491,0,129

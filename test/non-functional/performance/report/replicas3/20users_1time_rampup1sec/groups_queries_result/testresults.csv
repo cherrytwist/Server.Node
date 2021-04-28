@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1619522153639,14923,Get All Groups,200,OK,CT Benchmark:  Queries 1-4,text,true,,33448,378,20,20,https://test.cherrytwist.org/graphql,14903,0,1296
+1619522153647,16911,Get All Groups,200,OK,CT Benchmark:  Queries 1-5,text,true,,33448,378,19,19,https://test.cherrytwist.org/graphql,16853,0,1408
+1619522153721,19125,Get All Groups,200,OK,CT Benchmark:  Queries 1-7,text,true,,33448,378,18,18,https://test.cherrytwist.org/graphql,19081,0,1272
+1619522153639,21065,Get All Groups,200,OK,CT Benchmark:  Queries 1-3,text,true,,33448,378,17,17,https://test.cherrytwist.org/graphql,21005,0,1244
+1619522154212,22524,Get All Groups,200,OK,CT Benchmark:  Queries 1-17,text,true,,33448,378,16,16,https://test.cherrytwist.org/graphql,22468,0,627
+1619522154052,24747,Get All Groups,200,OK,CT Benchmark:  Queries 1-14,text,true,,33448,378,15,15,https://test.cherrytwist.org/graphql,24692,0,984
+1619522153639,27301,Get All Groups,200,OK,CT Benchmark:  Queries 1-1,text,true,,33448,378,14,14,https://test.cherrytwist.org/graphql,27251,0,1371
+1619522153755,29911,Get All Groups,200,OK,CT Benchmark:  Queries 1-8,text,true,,33448,378,13,13,https://test.cherrytwist.org/graphql,29856,0,1088
+1619522154010,33699,Get All Groups,200,OK,CT Benchmark:  Queries 1-13,text,true,,33448,378,12,12,https://test.cherrytwist.org/graphql,33647,0,950
+1619522154100,34196,Get All Groups,200,OK,CT Benchmark:  Queries 1-15,text,true,,33448,378,11,11,https://test.cherrytwist.org/graphql,34154,0,912
+1619522153668,39423,Get All Groups,200,OK,CT Benchmark:  Queries 1-6,text,true,,33448,378,10,10,https://test.cherrytwist.org/graphql,39365,0,1330
+1619522153968,39878,Get All Groups,200,OK,CT Benchmark:  Queries 1-12,text,true,,33448,378,9,9,https://test.cherrytwist.org/graphql,39825,0,1076
+1619522153639,44626,Get All Groups,200,OK,CT Benchmark:  Queries 1-2,text,true,,33448,378,8,8,https://test.cherrytwist.org/graphql,44575,0,1280
+1619522154320,44190,Get All Groups,200,OK,CT Benchmark:  Queries 1-18,text,true,,33448,378,7,7,https://test.cherrytwist.org/graphql,44140,0,644
+1619522153801,49279,Get All Groups,200,OK,CT Benchmark:  Queries 1-9,text,true,,33448,378,6,6,https://test.cherrytwist.org/graphql,49229,0,1201
+1619522153895,49453,Get All Groups,200,OK,CT Benchmark:  Queries 1-11,text,true,,33448,378,5,5,https://test.cherrytwist.org/graphql,49401,0,1024
+1619522154384,53575,Get All Groups,200,OK,CT Benchmark:  Queries 1-20,text,true,,33448,378,4,4,https://test.cherrytwist.org/graphql,53513,0,625
+1619522153866,54124,Get All Groups,200,OK,CT Benchmark:  Queries 1-10,text,true,,33448,378,3,3,https://test.cherrytwist.org/graphql,54074,0,1204
+1619522154144,56221,Get All Groups,200,OK,CT Benchmark:  Queries 1-16,text,true,,33448,378,2,2,https://test.cherrytwist.org/graphql,56167,0,719
+1619522154290,58375,Get All Groups,200,OK,CT Benchmark:  Queries 1-19,text,true,,33448,378,1,1,https://test.cherrytwist.org/graphql,58322,0,752

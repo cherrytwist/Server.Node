@@ -1,0 +1,1001 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1619599551315,7527,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-107,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,7526,0,3286
+1619599551331,7561,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-133,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,7561,0,3158
+1619599551222,7704,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-131,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,7704,0,3344
+1619599551299,7662,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-112,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,7662,0,3248
+1619599551294,7682,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-117,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,7682,0,3177
+1619599551295,7950,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-106,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,7949,0,3198
+1619599551220,8086,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-58,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,8086,0,3256
+1619599551303,8010,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-86,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,8010,0,4557
+1619599551329,8129,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-48,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,8128,0,3291
+1619599551223,8370,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-14,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,8370,0,3375
+1619599551299,8359,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-67,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,8359,0,3368
+1619599551190,8499,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-177,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,8499,0,3805
+1619599551298,8414,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-65,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,8414,0,3549
+1619599551292,8438,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-38,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,8438,0,3322
+1619599551329,8412,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-122,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,8412,0,3780
+1619599551275,8576,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-192,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,8576,0,3490
+1619599551189,8679,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-44,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,8679,0,3747
+1619599551295,8611,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-69,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,8611,0,3785
+1619599551290,8631,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-24,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,8631,0,4061
+1619599551277,8669,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-25,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,8669,0,4134
+1619599551293,8668,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-18,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,8668,0,4387
+1619599551296,8717,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-85,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,8717,0,4472
+1619599551208,8827,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-176,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,8827,0,4775
+1619599551297,8811,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-79,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,8811,0,3981
+1619599551290,8884,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-28,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,8884,0,4611
+1619599551190,8997,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-26,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,8997,0,4841
+1619599551290,8930,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-27,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,8930,0,4326
+1619599551330,8922,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-171,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,8922,0,4727
+1619599551328,8970,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-121,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,8970,0,4590
+1619599558850,1487,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-107,text,true,,686,349,200,200,https://test.cherrytwist.org/graphql,1487,0,0
+1619599551218,9135,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-182,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,9135,0,4857
+1619599551301,9068,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-64,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,9068,0,4680
+1619599551330,9048,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-154,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,9048,0,4788
+1619599551294,9309,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-75,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,9309,0,4918
+1619599551299,9318,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-66,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,9318,0,4922
+1619599551329,9301,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-144,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,9301,0,4928
+1619599551190,9463,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-147,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,9463,0,5050
+1619599551315,9346,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-119,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,9346,0,4817
+1619599551325,9346,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-116,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,9345,0,4854
+1619599558962,1769,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-112,text,true,,686,349,200,200,https://test.cherrytwist.org/graphql,1768,0,0
+1619599559307,1480,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-58,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,1480,0,0
+1619599551206,9624,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-88,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,9624,0,4988
+1619599551282,9611,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-43,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,9610,0,4959
+1619599551189,9781,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-149,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,9780,0,5085
+1619599560174,846,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-28,text,true,,681,348,200,200,https://test.cherrytwist.org/graphql,845,0,0
+1619599559853,1232,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-192,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,1232,0,0
+1619599560604,513,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-75,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,513,0,0
+1619599560254,892,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-171,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,892,0,0
+1619599560354,832,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-182,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,832,0,0
+1619599560019,1203,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-85,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,1203,0,0
+1619599559594,1659,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-14,text,true,,589,347,200,200,https://test.cherrytwist.org/graphql,1659,0,0
+1619599559920,1375,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-24,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,1375,0,0
+1619599559712,1620,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-65,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,1619,0,0
+1619599560655,724,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-147,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,724,0,0
+1619599560894,539,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-43,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,539,0,0
+1619599551309,10319,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-12,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,10319,0,3147
+1619599551296,10356,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-89,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,10356,0,3313
+1619599551319,10446,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-78,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,10446,0,3167
+1619599560731,1226,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-112,text,true,,7238,732,200,200,https://test.cherrytwist.org/graphql,1224,0,0
+1619599551289,10691,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-31,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,10691,0,3302
+1619599551336,10713,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-5,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,10712,0,3176
+1619599561768,311,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-78,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,311,0,0
+1619599551327,10778,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-120,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,10777,0,3273
+1619599551282,10926,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-111,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,10926,0,3234
+1619599558927,3365,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-131,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,3365,0,0
+1619599551190,11129,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-164,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,11129,0,3414
+1619599561297,1065,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-24,text,true,,7238,732,200,200,https://test.cherrytwist.org/graphql,1064,0,0
+1619599551292,11116,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-109,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,11116,0,3259
+1619599551306,11138,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-8,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,11138,0,3376
+1619599561087,1389,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-192,text,true,,7238,732,200,200,https://test.cherrytwist.org/graphql,1341,0,0
+1619599561190,1317,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-182,text,true,,7238,732,200,200,https://test.cherrytwist.org/graphql,1274,0,0
+1619599561435,1140,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-43,text,true,,7238,732,200,200,https://test.cherrytwist.org/graphql,1094,0,0
+1619599562211,392,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-111,text,true,,686,349,200,200,https://test.cherrytwist.org/graphql,392,0,0
+1619599551324,11293,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-159,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,11293,0,3300
+1619599551313,11329,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-99,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,11329,0,3405
+1619599562050,624,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-5,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,624,0,0
+1619599558919,3876,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-133,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,3876,0,0
+1619599562477,335,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-192,text,true,,4949,387,200,200,https://test.cherrytwist.org/graphql,334,0,0
+1619599559247,3578,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-106,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,3578,0,0
+1619599562364,488,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-24,text,true,,4949,387,200,200,https://test.cherrytwist.org/graphql,487,0,0
+1619599559458,3468,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-48,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,3468,0,0
+1619599551319,11645,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-160,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,11645,0,3493
+1619599551293,11710,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-62,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,11709,0,3631
+1619599558978,4085,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-117,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,4085,0,0
+1619599559691,3500,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-177,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,3500,0,0
+1619599559741,3548,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-122,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,3547,0,0
+1619599562605,714,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-111,text,true,,7238,732,200,200,https://test.cherrytwist.org/graphql,713,0,0
+1619599562966,476,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-160,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,476,0,0
+1619599562675,793,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-5,text,true,,7238,732,200,200,https://test.cherrytwist.org/graphql,792,0,0
+1619599551302,12175,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-113,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,12174,0,3864
+1619599562827,783,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-106,text,true,,7238,732,200,200,https://test.cherrytwist.org/graphql,782,0,0
+1619599559907,3741,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-69,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,3741,0,0
+1619599563193,545,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-177,text,true,,7238,732,200,200,https://test.cherrytwist.org/graphql,544,0,0
+1619599563444,469,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-160,text,true,,7238,732,200,200,https://test.cherrytwist.org/graphql,468,0,0
+1619599559314,4633,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-86,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,4633,0,0
+1619599563612,339,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-106,text,true,,4949,387,200,200,https://test.cherrytwist.org/graphql,338,0,0
+1619599551324,12713,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-91,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,12713,0,3646
+1619599563915,162,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-160,text,true,,4949,387,200,200,https://test.cherrytwist.org/graphql,161,0,0
+1619599559961,4162,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-18,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,4162,0,0
+1619599564040,113,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-91,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,113,0,0
+1619599560108,4128,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-79,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,4128,0,0
+1619599551226,13053,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-40,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,13053,0,3989
+1619599559660,4757,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-67,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,4757,0,0
+1619599564154,325,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-91,text,true,,7238,732,200,200,https://test.cherrytwist.org/graphql,325,0,0
+1619599551328,13273,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-130,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,13272,0,3954
+1619599560221,4485,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-27,text,true,,681,348,200,200,https://test.cherrytwist.org/graphql,4485,0,0
+1619599564418,311,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-67,text,true,,7238,732,200,200,https://test.cherrytwist.org/graphql,309,0,0
+1619599559729,5022,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-38,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,5022,0,0
+1619599560380,4412,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-154,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,4412,0,0
+1619599551329,13517,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-180,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,13517,0,4009
+1619599551301,13662,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-74,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,13662,0,4362
+1619599551313,13686,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-98,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,13685,0,4586
+1619599551301,13764,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-60,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,13764,0,3234
+1619599551228,13843,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-51,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,13843,0,4688
+1619599551281,13827,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-21,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,13827,0,4105
+1619599551228,13894,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-124,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,13894,0,3253
+1619599564709,555,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-27,text,true,,7238,732,200,200,https://test.cherrytwist.org/graphql,510,0,0
+1619599560632,4685,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-144,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,4685,0,0
+1619599564794,539,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-154,text,true,,7238,732,200,200,https://test.cherrytwist.org/graphql,537,0,0
+1619599565109,261,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-21,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,261,0,0
+1619599565009,385,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-98,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,385,0,0
+1619599560671,4727,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-116,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,4727,0,0
+1619599559868,5574,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-44,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,5573,0,0
+1619599551298,14209,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-104,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,14209,0,4694
+1619599551297,14245,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-148,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,14245,0,4296
+1619599559946,5649,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-25,text,true,,681,348,200,200,https://test.cherrytwist.org/graphql,5648,0,0
+1619599560037,5674,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-176,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,5674,0,0
+1619599560832,4933,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-88,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,4930,0,0
+1619599565319,450,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-144,text,true,,7238,732,200,200,https://test.cherrytwist.org/graphql,442,0,0
+1619599551294,14502,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-56,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,14502,0,4537
+1619599565508,302,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-104,text,true,,686,349,200,200,https://test.cherrytwist.org/graphql,302,0,0
+1619599551190,14640,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-137,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,14640,0,4550
+1619599551194,14644,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-135,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,14644,0,3292
+1619599565395,597,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-98,text,true,,7238,732,200,200,https://test.cherrytwist.org/graphql,596,0,0
+1619599565798,219,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-56,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,219,0,0
+1619599560188,5850,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-26,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,5850,0,0
+1619599565840,222,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-135,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,222,0,0
+1619599551216,14903,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-191,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,14903,0,4780
+1619599561654,4581,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-89,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,4581,0,0
+1619599561981,4314,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-31,text,true,,681,348,200,200,https://test.cherrytwist.org/graphql,4314,0,0
+1619599560299,6014,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-121,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,6014,0,0
+1619599562107,4282,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-120,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,4282,0,0
+1619599565713,706,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-176,text,true,,7238,732,200,200,https://test.cherrytwist.org/graphql,664,0,0
+1619599551189,15232,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-146,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,15232,0,4856
+1619599560369,6052,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-64,text,true,,589,347,200,200,https://test.cherrytwist.org/graphql,6052,0,0
+1619599551294,15156,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-59,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,15156,0,4714
+1619599551217,15274,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-151,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,15274,0,3308
+1619599551300,15198,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-37,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,15198,0,4752
+1619599551330,15191,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-145,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,15191,0,3867
+1619599551328,15222,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-167,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,15222,0,3253
+1619599566039,522,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-26,text,true,,7238,732,200,200,https://test.cherrytwist.org/graphql,520,0,0
+1619599551188,15489,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-150,text,true,,1169,372,200,200,https://test.cherrytwist.org/graphql,15489,0,4934
+1619599566498,345,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-37,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,344,0,0
+1619599562644,4250,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-99,text,true,,686,349,200,200,https://test.cherrytwist.org/graphql,4250,0,0
+1619599566561,363,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-26,text,true,,4949,387,200,200,https://test.cherrytwist.org/graphql,363,0,0
+1619599551307,15621,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-97,text,true,,1219,372,200,200,https://test.cherrytwist.org/graphql,15621,0,4797
+1619599566422,542,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-146,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,542,0,0
+1619599562322,4669,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-164,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,4669,0,0
+1619599562446,4618,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-8,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,4617,0,0
+1619599551327,15763,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-175,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,15762,0,4833
+1619599551220,15925,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-53,text,true,,1182,372,200,200,https://test.cherrytwist.org/graphql,15925,0,3319
+1619599566235,913,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-89,text,true,,7238,732,200,200,https://test.cherrytwist.org/graphql,911,0,0
+1619599562814,4465,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-192,text,true,,7055,321,200,200,https://test.cherrytwist.org/graphql,4463,0,0
+1619599567091,187,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-175,text,true,,690,349,200,200,https://test.cherrytwist.org/graphql,187,0,0
+1619599560619,6674,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-66,text,true,,685,348,200,200,https://test.cherrytwist.org/graphql,6674,0,0
+1619599566390,921,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-120,text,true,,7238,732,199,199,https://test.cherrytwist.org/graphql,920,0,0
+1619599551302,16064,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-6,text,true,,1182,372,199,199,https://test.cherrytwist.org/graphql,16064,0,4881
+1619599560662,6743,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-119,text,true,,686,349,199,199,https://test.cherrytwist.org/graphql,6743,0,0
+1619599563479,4003,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-113,text,true,,686,349,199,199,https://test.cherrytwist.org/graphql,4003,0,0
+1619599560971,6561,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-149,text,true,,690,349,199,199,https://test.cherrytwist.org/graphql,6561,0,0
+1619599551305,16232,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-11,text,true,,1169,372,199,199,https://test.cherrytwist.org/graphql,16232,0,4904
+1619599551206,16358,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-118,text,true,,1219,372,199,199,https://test.cherrytwist.org/graphql,16358,0,3438
+1619599551277,16372,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-196,text,true,,1182,372,199,199,https://test.cherrytwist.org/graphql,16372,0,3311
+1619599551312,16368,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-36,text,true,,1169,372,199,199,https://test.cherrytwist.org/graphql,16368,0,3303
+1619599551281,16470,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-197,text,true,,1182,372,199,199,https://test.cherrytwist.org/graphql,16470,0,3310
+1619599567537,242,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-11,text,true,,685,348,199,199,https://test.cherrytwist.org/graphql,242,0,0
+1619599566894,895,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-99,text,true,,7238,732,199,199,https://test.cherrytwist.org/graphql,893,0,0
+1619599567365,457,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-6,text,true,,685,348,199,199,https://test.cherrytwist.org/graphql,457,0,0
+1619599566964,918,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-146,text,true,,7238,732,199,199,https://test.cherrytwist.org/graphql,875,0,0
+1619599567651,250,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-196,text,true,,690,349,199,199,https://test.cherrytwist.org/graphql,250,0,0
+1619599551328,16591,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-139,text,true,,1169,372,199,199,https://test.cherrytwist.org/graphql,16591,0,4900
+1619599564283,3733,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-40,text,true,,685,348,199,199,https://test.cherrytwist.org/graphql,3733,0,0
+1619599551206,16864,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-19,text,true,,1182,372,199,199,https://test.cherrytwist.org/graphql,16864,0,5038
+1619599564603,3571,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-130,text,true,,690,349,199,199,https://test.cherrytwist.org/graphql,3571,0,0
+1619599567280,905,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-175,text,true,,7238,732,199,199,https://test.cherrytwist.org/graphql,904,0,0
+1619599551220,17009,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-9,text,true,,1169,372,199,199,https://test.cherrytwist.org/graphql,17009,0,3663
+1619599564964,3302,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-74,text,true,,685,348,199,199,https://test.cherrytwist.org/graphql,3302,0,0
+1619599551217,17109,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-169,text,true,,1182,372,199,199,https://test.cherrytwist.org/graphql,17109,0,3566
+1619599551306,17066,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-57,text,true,,1182,372,199,199,https://test.cherrytwist.org/graphql,17066,0,3660
+1619599567780,635,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-11,text,true,,7238,732,199,199,https://test.cherrytwist.org/graphql,634,0,0
+1619599551295,17122,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-4,text,true,,1169,372,199,199,https://test.cherrytwist.org/graphql,17122,0,3731
+1619599567884,555,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-146,text,true,,4949,387,199,199,https://test.cherrytwist.org/graphql,555,0,0
+1619599551304,17142,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-87,text,true,,1182,372,199,199,https://test.cherrytwist.org/graphql,17142,0,3835
+1619599565075,3484,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-51,text,true,,685,348,199,199,https://test.cherrytwist.org/graphql,3484,0,0
+1619599568016,575,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-40,text,true,,7238,732,199,199,https://test.cherrytwist.org/graphql,572,0,0
+1619599551279,17331,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-195,text,true,,1182,372,199,199,https://test.cherrytwist.org/graphql,17331,0,4976
+1619599568186,425,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-175,text,true,,4949,387,199,199,https://test.cherrytwist.org/graphql,425,0,0
+1619599568326,316,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-169,text,true,,690,349,199,199,https://test.cherrytwist.org/graphql,316,0,0
+1619599551313,17366,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-93,text,true,,1219,372,199,199,https://test.cherrytwist.org/graphql,17365,0,4938
+1619599568415,265,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-11,text,true,,4949,387,199,199,https://test.cherrytwist.org/graphql,264,0,0
+1619599551297,17433,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-70,text,true,,1182,372,199,199,https://test.cherrytwist.org/graphql,17433,0,4989
+1619599551187,17567,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-183,text,true,,1182,372,199,199,https://test.cherrytwist.org/graphql,17567,0,5025
+1619599568611,155,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-195,text,true,,690,349,199,199,https://test.cherrytwist.org/graphql,154,0,0
+1619599561632,7220,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-12,text,true,,685,348,199,199,https://test.cherrytwist.org/graphql,7220,0,0
+1619599565832,3053,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-137,text,true,,690,349,199,199,https://test.cherrytwist.org/graphql,3053,0,0
+1619599568679,217,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-93,text,true,,690,349,199,199,https://test.cherrytwist.org/graphql,217,0,0
+1619599551309,17642,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-55,text,true,,1182,372,199,199,https://test.cherrytwist.org/graphql,17642,0,3984
+1619599551188,17808,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-185,text,true,,1182,372,199,199,https://test.cherrytwist.org/graphql,17808,0,3500
+1619599568559,554,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-51,text,true,,7238,732,199,199,https://test.cherrytwist.org/graphql,552,0,0
+1619599566119,3042,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-191,text,true,,690,349,199,199,https://test.cherrytwist.org/graphql,3042,0,0
+1619599566550,2720,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-167,text,true,,690,349,199,199,https://test.cherrytwist.org/graphql,2720,0,0
+1619599568767,607,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-195,text,true,,7238,732,199,199,https://test.cherrytwist.org/graphql,602,0,0
+1619599566493,2963,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-151,text,true,,690,349,199,199,https://test.cherrytwist.org/graphql,2963,0,0
+1619599569114,407,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-51,text,true,,4949,387,199,199,https://test.cherrytwist.org/graphql,406,0,0
+1619599563004,6536,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-62,text,true,,685,348,199,199,https://test.cherrytwist.org/graphql,6536,0,0
+1619599568896,801,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-93,text,true,,7238,732,199,199,https://test.cherrytwist.org/graphql,797,0,0
+1619599551225,18487,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-47,text,true,,1182,372,199,199,https://test.cherrytwist.org/graphql,18487,0,4789
+1619599551311,18417,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-41,text,true,,1169,372,199,199,https://test.cherrytwist.org/graphql,18417,0,4388
+1619599566929,2816,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-97,text,true,,690,349,199,199,https://test.cherrytwist.org/graphql,2816,0,0
+1619599569375,371,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-195,text,true,,4949,387,199,199,https://test.cherrytwist.org/graphql,371,0,0
+1619599551312,18438,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-115,text,true,,1219,372,199,199,https://test.cherrytwist.org/graphql,18438,0,3934
+1619599551325,18451,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-77,text,true,,1182,372,199,199,https://test.cherrytwist.org/graphql,18451,0,4327
+1619599569727,142,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-41,text,true,,685,348,199,199,https://test.cherrytwist.org/graphql,142,0,0
+1619599562410,7481,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-109,text,true,,690,349,199,199,https://test.cherrytwist.org/graphql,7481,0,0
+1619599551323,18614,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-173,text,true,,1182,372,199,199,https://test.cherrytwist.org/graphql,18614,0,4595
+1619599551313,18682,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-101,text,true,,1219,372,199,199,https://test.cherrytwist.org/graphql,18681,0,4138
+1619599551227,18795,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-80,text,true,,1219,372,199,199,https://test.cherrytwist.org/graphql,18795,0,4157
+1619599569750,275,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-115,text,true,,690,349,199,199,https://test.cherrytwist.org/graphql,275,0,0
+1619599567564,2466,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-118,text,true,,690,349,199,199,https://test.cherrytwist.org/graphql,2466,0,0
+1619599569540,564,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-62,text,true,,7238,732,199,199,https://test.cherrytwist.org/graphql,564,0,0
+1619599567752,2393,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-197,text,true,,690,349,199,199,https://test.cherrytwist.org/graphql,2393,0,0
+1619599562620,7544,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-159,text,true,,690,349,199,199,https://test.cherrytwist.org/graphql,7544,0,0
+1619599567919,2323,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-139,text,true,,690,349,199,199,https://test.cherrytwist.org/graphql,2323,0,0
+1619599570023,223,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-80,text,true,,685,348,199,199,https://test.cherrytwist.org/graphql,222,0,0
+1619599570104,192,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-62,text,true,,4949,387,199,199,https://test.cherrytwist.org/graphql,191,0,0
+1619599562854,7512,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-24,text,true,,7055,321,199,199,https://test.cherrytwist.org/graphql,7466,0,0
+1619599569891,535,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-109,text,true,,7238,732,198,198,https://test.cherrytwist.org/graphql,534,0,0
+1619599563953,6514,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-106,text,true,,7055,321,198,198,https://test.cherrytwist.org/graphql,6512,0,0
+1619599551323,19195,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-143,text,true,,1169,372,197,197,https://test.cherrytwist.org/graphql,19195,0,4643
+1619599568417,2183,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-4,text,true,,681,348,197,197,https://test.cherrytwist.org/graphql,2183,0,0
+1619599570427,295,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-109,text,true,,4949,387,197,197,https://test.cherrytwist.org/graphql,295,0,0
+1619599570243,514,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-139,text,true,,7238,732,197,197,https://test.cherrytwist.org/graphql,511,0,0
+1619599568447,2314,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-87,text,true,,685,348,197,197,https://test.cherrytwist.org/graphql,2314,0,0
+1619599564079,6732,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-160,text,true,,7055,321,197,197,https://test.cherrytwist.org/graphql,6688,0,0
+1619599551275,19553,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-199,text,true,,1182,372,196,196,https://test.cherrytwist.org/graphql,19553,0,4770
+1619599570723,142,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-109,text,true,,7055,321,196,196,https://test.cherrytwist.org/graphql,142,0,0
+1619599570829,120,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-199,text,true,,690,349,195,195,https://test.cherrytwist.org/graphql,120,0,0
+1619599551279,19683,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-198,text,true,,1182,372,195,195,https://test.cherrytwist.org/graphql,19683,0,4757
+1619599568612,2385,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-175,text,true,,7055,321,195,195,https://test.cherrytwist.org/graphql,2385,0,0
+1619599551205,19801,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-84,text,true,,1182,372,194,194,https://test.cherrytwist.org/graphql,19801,0,4594
+1619599551331,19695,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-166,text,true,,1169,372,194,194,https://test.cherrytwist.org/graphql,19695,0,4719
+1619599551306,19747,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-1,text,true,,1182,372,194,194,https://test.cherrytwist.org/graphql,19747,0,4622
+1619599551328,19768,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-132,text,true,,1219,372,194,194,https://test.cherrytwist.org/graphql,19768,0,4763
+1619599568681,2444,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-11,text,true,,7055,321,194,194,https://test.cherrytwist.org/graphql,2442,0,0
+1619599551275,19858,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-125,text,true,,1169,372,193,193,https://test.cherrytwist.org/graphql,19858,0,4848
+1619599571007,126,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-84,text,true,,685,348,193,193,https://test.cherrytwist.org/graphql,126,0,0
+1619599551305,19854,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-82,text,true,,1182,372,193,193,https://test.cherrytwist.org/graphql,19854,0,4856
+1619599571096,112,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-132,text,true,,690,349,193,193,https://test.cherrytwist.org/graphql,112,0,0
+1619599562575,8677,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-43,text,true,,4949,387,193,193,https://test.cherrytwist.org/graphql,8677,0,0
+1619599565067,6198,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-60,text,true,,685,348,193,193,https://test.cherrytwist.org/graphql,6198,0,0
+1619599571158,116,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-82,text,true,,685,348,193,193,https://test.cherrytwist.org/graphql,116,0,0
+1619599565124,6227,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-124,text,true,,690,349,193,193,https://test.cherrytwist.org/graphql,6227,0,0
+1619599568755,2614,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-183,text,true,,690,349,193,193,https://test.cherrytwist.org/graphql,2614,0,0
+1619599564849,6612,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-180,text,true,,690,349,193,193,https://test.cherrytwist.org/graphql,6612,0,0
+1619599563320,8232,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-111,text,true,,4949,387,193,193,https://test.cherrytwist.org/graphql,8229,0,0
+1619599571265,289,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-60,text,true,,7238,732,193,193,https://test.cherrytwist.org/graphql,287,0,0
+1619599563739,7919,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-177,text,true,,4949,387,193,193,https://test.cherrytwist.org/graphql,7877,0,0
+1619599571371,360,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-183,text,true,,7238,732,193,193,https://test.cherrytwist.org/graphql,359,0,0
+1619599571555,202,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-60,text,true,,4949,387,193,193,https://test.cherrytwist.org/graphql,202,0,0
+1619599571758,117,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-60,text,true,,7055,321,193,193,https://test.cherrytwist.org/graphql,116,0,0
+1619599565544,6493,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-148,text,true,,690,349,192,192,https://test.cherrytwist.org/graphql,6493,0,0
+1619599566521,5653,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-145,text,true,,690,349,192,192,https://test.cherrytwist.org/graphql,5653,0,0
+1619599568997,3281,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-185,text,true,,690,349,192,192,https://test.cherrytwist.org/graphql,3281,0,0
+1619599566450,5862,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-59,text,true,,685,348,192,192,https://test.cherrytwist.org/graphql,5862,0,0
+1619599566678,5776,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-150,text,true,,690,349,192,192,https://test.cherrytwist.org/graphql,5776,0,0
+1619599567145,5401,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-53,text,true,,685,348,192,192,https://test.cherrytwist.org/graphql,5401,0,0
+1619599569522,3070,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-51,text,true,,7055,321,192,192,https://test.cherrytwist.org/graphql,3069,0,0
+1619599572279,338,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-185,text,true,,7238,732,191,191,https://test.cherrytwist.org/graphql,338,0,0
+1619599567680,5010,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-36,text,true,,685,348,191,191,https://test.cherrytwist.org/graphql,5009,0,0
+1619599551329,21400,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-155,text,true,,1169,372,191,191,https://test.cherrytwist.org/graphql,21400,0,4866
+1619599566926,5953,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-26,text,true,,7055,321,191,191,https://test.cherrytwist.org/graphql,5913,0,0
+1619599572547,375,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-53,text,true,,7238,732,190,190,https://test.cherrytwist.org/graphql,375,0,0
+1619599572730,209,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-155,text,true,,690,349,190,190,https://test.cherrytwist.org/graphql,209,0,0
+1619599551315,21684,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-105,text,true,,1219,372,190,190,https://test.cherrytwist.org/graphql,21684,0,4915
+1619599551294,21735,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-100,text,true,,1219,372,190,190,https://test.cherrytwist.org/graphql,21735,0,4882
+1619599569712,3327,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-47,text,true,,685,348,190,190,https://test.cherrytwist.org/graphql,3327,0,0
+1619599565265,7839,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-27,text,true,,4949,387,190,190,https://test.cherrytwist.org/graphql,7838,0,0
+1619599573000,106,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-105,text,true,,686,349,190,190,https://test.cherrytwist.org/graphql,106,0,0
+1619599568070,5079,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-19,text,true,,685,348,190,190,https://test.cherrytwist.org/graphql,5079,0,0
+1619599568229,5009,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-9,text,true,,685,348,190,190,https://test.cherrytwist.org/graphql,5009,0,0
+1619599573104,134,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-27,text,true,,7055,321,190,190,https://test.cherrytwist.org/graphql,133,0,0
+1619599551275,22018,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-140,text,true,,1169,372,189,189,https://test.cherrytwist.org/graphql,22018,0,4928
+1619599569746,3548,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-195,text,true,,7055,321,189,189,https://test.cherrytwist.org/graphql,3547,0,0
+1619599551277,22034,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-90,text,true,,1219,372,188,188,https://test.cherrytwist.org/graphql,22033,0,4976
+1619599551324,22017,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-161,text,true,,1169,372,188,188,https://test.cherrytwist.org/graphql,22017,0,4919
+1619599551187,22188,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-184,text,true,,1182,372,188,188,https://test.cherrytwist.org/graphql,22188,0,5067
+1619599573342,271,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-161,text,true,,690,349,188,188,https://test.cherrytwist.org/graphql,271,0,0
+1619599569995,3666,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-101,text,true,,690,349,188,188,https://test.cherrytwist.org/graphql,3666,0,0
+1619599573239,475,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-9,text,true,,7238,732,188,188,https://test.cherrytwist.org/graphql,431,0,0
+1619599568441,5308,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-146,text,true,,7055,321,188,188,https://test.cherrytwist.org/graphql,5308,0,0
+1619599565770,8045,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-144,text,true,,4949,387,187,187,https://test.cherrytwist.org/graphql,8044,0,0
+1619599568951,4903,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-55,text,true,,685,348,187,187,https://test.cherrytwist.org/graphql,4903,0,0
+1619599551307,22585,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-3,text,true,,1182,372,187,187,https://test.cherrytwist.org/graphql,22585,0,4969
+1619599573662,268,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-101,text,true,,7238,732,187,187,https://test.cherrytwist.org/graphql,267,0,0
+1619599568731,5254,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-70,text,true,,685,348,187,187,https://test.cherrytwist.org/graphql,5254,0,0
+1619599568371,5706,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-57,text,true,,685,348,187,187,https://test.cherrytwist.org/graphql,5706,0,0
+1619599566421,7800,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-176,text,true,,4949,387,187,187,https://test.cherrytwist.org/graphql,7800,0,0
+1619599569776,4534,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-77,text,true,,685,348,187,187,https://test.cherrytwist.org/graphql,4534,0,0
+1619599573855,479,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-55,text,true,,7238,732,187,187,https://test.cherrytwist.org/graphql,436,0,0
+1619599573986,376,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-70,text,true,,7238,732,187,187,https://test.cherrytwist.org/graphql,370,0,0
+1619599569938,4487,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-173,text,true,,690,349,187,187,https://test.cherrytwist.org/graphql,4487,0,0
+1619599570296,4312,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-62,text,true,,7055,321,187,187,https://test.cherrytwist.org/graphql,4311,0,0
+1619599574311,391,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-77,text,true,,7238,732,186,186,https://test.cherrytwist.org/graphql,349,0,0
+1619599570519,4274,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-143,text,true,,690,349,186,186,https://test.cherrytwist.org/graphql,4274,0,0
+1619599570963,3966,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-198,text,true,,690,349,186,186,https://test.cherrytwist.org/graphql,3965,0,0
+1619599574426,515,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-173,text,true,,7238,732,186,186,https://test.cherrytwist.org/graphql,514,0,0
+1619599571658,3346,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-177,text,true,,7055,321,186,186,https://test.cherrytwist.org/graphql,3345,0,0
+1619599571053,3994,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-1,text,true,,685,348,185,185,https://test.cherrytwist.org/graphql,3994,0,0
+1619599571027,4056,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-166,text,true,,690,349,185,185,https://test.cherrytwist.org/graphql,4055,0,0
+1619599574929,313,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-198,text,true,,7238,732,185,185,https://test.cherrytwist.org/graphql,268,0,0
+1619599575083,362,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-166,text,true,,7238,732,185,185,https://test.cherrytwist.org/graphql,358,0,0
+1619599571134,4374,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-125,text,true,,690,349,185,185,https://test.cherrytwist.org/graphql,4374,0,0
+1619599571252,4340,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-43,text,true,,7055,321,185,185,https://test.cherrytwist.org/graphql,4339,0,0
+1619599575509,366,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-125,text,true,,7238,732,184,184,https://test.cherrytwist.org/graphql,365,0,0
+1619599573029,3110,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-100,text,true,,690,349,184,184,https://test.cherrytwist.org/graphql,3110,0,0
+1619599567148,9133,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-89,text,true,,4949,387,184,184,https://test.cherrytwist.org/graphql,9133,0,0
+1619599562508,13782,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-182,text,true,,4949,387,184,184,https://test.cherrytwist.org/graphql,13782,0,0
+1619599561959,14429,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-112,text,true,,4949,387,184,184,https://test.cherrytwist.org/graphql,14428,0,0
+1619599576283,128,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-89,text,true,,7055,321,184,184,https://test.cherrytwist.org/graphql,127,0,0
+1619599571552,4881,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-111,text,true,,7055,321,183,183,https://test.cherrytwist.org/graphql,4881,0,0
+1619599573294,3276,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-140,text,true,,690,349,182,182,https://test.cherrytwist.org/graphql,3275,0,0
+1619599573375,3284,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-184,text,true,,690,349,182,182,https://test.cherrytwist.org/graphql,3284,0,0
+1619599560337,16473,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-107,text,true,,7238,732,182,182,https://test.cherrytwist.org/graphql,16472,0,0
+1619599576573,374,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-140,text,true,,7238,732,182,182,https://test.cherrytwist.org/graphql,372,0,0
+1619599573892,3070,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-3,text,true,,685,348,182,182,https://test.cherrytwist.org/graphql,3069,0,0
+1619599576948,137,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-140,text,true,,4949,387,182,182,https://test.cherrytwist.org/graphql,137,0,0
+1619599563470,13630,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-5,text,true,,4949,387,182,182,https://test.cherrytwist.org/graphql,13630,0,0
+1619599577100,138,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-5,text,true,,7055,321,182,182,https://test.cherrytwist.org/graphql,135,0,0
+1619599564480,12890,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-91,text,true,,4949,387,181,181,https://test.cherrytwist.org/graphql,12890,0,0
+1619599564730,12762,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-67,text,true,,4949,387,181,181,https://test.cherrytwist.org/graphql,12762,0,0
+1619599573311,4428,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-90,text,true,,686,349,181,181,https://test.cherrytwist.org/graphql,4428,0,0
+1619599565992,11870,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-98,text,true,,4949,387,181,181,https://test.cherrytwist.org/graphql,11869,0,0
+1619599561021,16884,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-28,text,true,,7238,732,181,181,https://test.cherrytwist.org/graphql,16883,0,0
+1619599565334,12592,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-154,text,true,,4949,387,181,181,https://test.cherrytwist.org/graphql,12592,0,0
+1619599577927,201,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-154,text,true,,7055,321,181,181,https://test.cherrytwist.org/graphql,199,0,0
+1619599577740,397,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-90,text,true,,7238,732,180,180,https://test.cherrytwist.org/graphql,396,0,0
+1619599573814,4944,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-144,text,true,,7055,321,180,180,https://test.cherrytwist.org/graphql,4943,0,0
+1619599574222,4701,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-176,text,true,,7055,321,179,179,https://test.cherrytwist.org/graphql,4700,0,0
+1619599561149,17844,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-171,text,true,,7238,732,178,178,https://test.cherrytwist.org/graphql,17842,0,0
+1619599567312,11761,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-120,text,true,,4949,387,178,178,https://test.cherrytwist.org/graphql,11761,0,0
+1619599561256,17876,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-14,text,true,,7238,732,178,178,https://test.cherrytwist.org/graphql,17831,0,0
+1619599561381,17782,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-147,text,true,,7238,732,178,178,https://test.cherrytwist.org/graphql,17737,0,0
+1619599579075,110,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-120,text,true,,7055,321,178,178,https://test.cherrytwist.org/graphql,109,0,0
+1619599562928,16796,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-48,text,true,,7238,732,177,177,https://test.cherrytwist.org/graphql,16796,0,0
+1619599579725,143,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-48,text,true,,4949,387,177,177,https://test.cherrytwist.org/graphql,143,0,0
+1619599567790,12096,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-99,text,true,,4949,387,177,177,https://test.cherrytwist.org/graphql,12095,0,0
+1619599563951,16344,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-86,text,true,,7238,732,177,177,https://test.cherrytwist.org/graphql,16301,0,0
+1619599580295,147,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-86,text,true,,4949,387,177,177,https://test.cherrytwist.org/graphql,146,0,0
+1619599576390,4106,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-112,text,true,,7055,321,177,177,https://test.cherrytwist.org/graphql,4106,0,0
+1619599563066,17456,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-117,text,true,,7238,732,176,176,https://test.cherrytwist.org/graphql,17455,0,0
+1619599568592,12332,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-40,text,true,,4949,387,176,176,https://test.cherrytwist.org/graphql,12331,0,0
+1619599564125,16937,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-18,text,true,,7238,732,176,176,https://test.cherrytwist.org/graphql,16936,0,0
+1619599580926,185,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-40,text,true,,7055,321,176,176,https://test.cherrytwist.org/graphql,146,0,0
+1619599576291,5092,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-182,text,true,,7055,321,175,175,https://test.cherrytwist.org/graphql,5092,0,0
+1619599569698,11925,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-93,text,true,,4949,387,174,174,https://test.cherrytwist.org/graphql,11924,0,0
+1619599577086,4929,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-140,text,true,,7055,321,174,174,https://test.cherrytwist.org/graphql,4885,0,0
+1619599564753,17339,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-38,text,true,,7238,732,173,173,https://test.cherrytwist.org/graphql,17337,0,0
+1619599582091,162,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-38,text,true,,4949,387,173,173,https://test.cherrytwist.org/graphql,162,0,0
+1619599577493,4925,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-67,text,true,,7055,321,173,173,https://test.cherrytwist.org/graphql,4924,0,0
+1619599565450,17073,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-44,text,true,,7238,732,172,172,https://test.cherrytwist.org/graphql,17071,0,0
+1619599565372,17189,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-21,text,true,,7238,732,172,172,https://test.cherrytwist.org/graphql,17186,0,0
+1619599582560,130,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-21,text,true,,4949,387,172,172,https://test.cherrytwist.org/graphql,130,0,0
+1619599570758,12050,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-139,text,true,,4949,387,172,172,https://test.cherrytwist.org/graphql,12050,0,0
+1619599566017,16984,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-56,text,true,,7238,732,172,172,https://test.cherrytwist.org/graphql,16941,0,0
+1619599565597,17553,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-25,text,true,,7238,732,172,172,https://test.cherrytwist.org/graphql,17501,0,0
+1619599566314,17213,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-121,text,true,,7238,732,172,172,https://test.cherrytwist.org/graphql,17207,0,0
+1619599583001,568,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-56,text,true,,4949,387,172,172,https://test.cherrytwist.org/graphql,565,0,0
+1619599577371,6210,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-91,text,true,,7055,321,172,172,https://test.cherrytwist.org/graphql,6168,0,0
+1619599571732,11891,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-183,text,true,,4949,387,171,171,https://test.cherrytwist.org/graphql,11889,0,0
+1619599566844,16910,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-37,text,true,,7238,732,171,171,https://test.cherrytwist.org/graphql,16909,0,0
+1619599583570,251,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-56,text,true,,7055,321,171,171,https://test.cherrytwist.org/graphql,250,0,0
+1619599577863,5983,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-98,text,true,,7055,321,170,170,https://test.cherrytwist.org/graphql,5982,0,0
+1619599583527,508,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-121,text,true,,4949,387,169,169,https://test.cherrytwist.org/graphql,463,0,0
+1619599579887,4191,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-99,text,true,,7055,321,169,169,https://test.cherrytwist.org/graphql,4189,0,0
+1619599551285,32828,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-194,text,true,,1182,372,168,168,https://test.cherrytwist.org/graphql,32828,0,32238
+1619599551204,32929,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-54,text,true,,1182,372,168,168,https://test.cherrytwist.org/graphql,32929,0,32198
+1619599551202,32992,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-92,text,true,,1219,372,168,168,https://test.cherrytwist.org/graphql,32992,0,32057
+1619599567064,17165,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-8,text,true,,7238,732,168,168,https://test.cherrytwist.org/graphql,17164,0,0
+1619599551218,33019,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-34,text,true,,1169,372,168,168,https://test.cherrytwist.org/graphql,33019,0,32012
+1619599551221,33030,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-103,text,true,,1182,372,168,168,https://test.cherrytwist.org/graphql,33029,0,31963
+1619599551201,33098,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-35,text,true,,1169,372,168,168,https://test.cherrytwist.org/graphql,33098,0,32291
+1619599551196,33183,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-13,text,true,,1169,372,168,168,https://test.cherrytwist.org/graphql,33183,0,32379
+1619599551199,33206,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-10,text,true,,1169,372,168,168,https://test.cherrytwist.org/graphql,33206,0,32387
+1619599583754,682,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-37,text,true,,4949,387,168,168,https://test.cherrytwist.org/graphql,682,0,0
+1619599584379,111,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-13,text,true,,685,348,168,168,https://test.cherrytwist.org/graphql,111,0,0
+1619599584236,283,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-34,text,true,,581,347,168,168,https://test.cherrytwist.org/graphql,283,0,0
+1619599584132,412,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-54,text,true,,685,348,168,168,https://test.cherrytwist.org/graphql,412,0,0
+1619599567309,17531,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-66,text,true,,7238,732,168,168,https://test.cherrytwist.org/graphql,17530,0,0
+1619599584490,356,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-13,text,true,,7238,732,168,168,https://test.cherrytwist.org/graphql,309,0,0
+1619599567482,17449,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-113,text,true,,7238,732,168,168,https://test.cherrytwist.org/graphql,17400,0,0
+1619599584841,181,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-66,text,true,,4949,387,168,168,https://test.cherrytwist.org/graphql,137,0,0
+1619599585022,148,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-66,text,true,,7055,321,168,168,https://test.cherrytwist.org/graphql,146,0,0
+1619599567823,17362,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-6,text,true,,7238,732,167,167,https://test.cherrytwist.org/graphql,17361,0,0
+1619599581623,3690,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-93,text,true,,7055,321,167,167,https://test.cherrytwist.org/graphql,3644,0,0
+1619599561120,24347,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-75,text,true,,7238,732,166,166,https://test.cherrytwist.org/graphql,24346,0,0
+1619599568174,17355,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-130,text,true,,7238,732,166,166,https://test.cherrytwist.org/graphql,17354,0,0
+1619599560789,24898,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-58,text,true,,7238,732,166,166,https://test.cherrytwist.org/graphql,24896,0,0
+1619599561225,24473,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-85,text,true,,7238,732,166,166,https://test.cherrytwist.org/graphql,24424,0,0
+1619599585530,175,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-130,text,true,,4949,387,166,166,https://test.cherrytwist.org/graphql,174,0,0
+1619599585705,165,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-130,text,true,,7055,321,166,166,https://test.cherrytwist.org/graphql,121,0,0
+1619599568266,18074,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-74,text,true,,7238,732,165,165,https://test.cherrytwist.org/graphql,18074,0,0
+1619599579869,6638,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-48,text,true,,7055,321,165,165,https://test.cherrytwist.org/graphql,6636,0,0
+1619599573931,12631,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-101,text,true,,4949,387,164,164,https://test.cherrytwist.org/graphql,12630,0,0
+1619599572923,13806,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-53,text,true,,4949,387,164,164,https://test.cherrytwist.org/graphql,13806,0,0
+1619599574362,12406,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-70,text,true,,4949,387,164,164,https://test.cherrytwist.org/graphql,12406,0,0
+1619599586729,182,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-53,text,true,,7055,321,164,164,https://test.cherrytwist.org/graphql,182,0,0
+1619599572618,14320,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-185,text,true,,4949,387,163,163,https://test.cherrytwist.org/graphql,14320,0,0
+1619599582809,4260,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-139,text,true,,7055,321,163,163,https://test.cherrytwist.org/graphql,4215,0,0
+1619599561334,25829,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-65,text,true,,7238,732,162,162,https://test.cherrytwist.org/graphql,25827,0,0
+1619599587163,152,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-65,text,true,,4949,387,162,162,https://test.cherrytwist.org/graphql,152,0,0
+1619599580442,6987,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-86,text,true,,7055,321,162,162,https://test.cherrytwist.org/graphql,6985,0,0
+1619599575446,12153,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-166,text,true,,4949,387,161,161,https://test.cherrytwist.org/graphql,12153,0,0
+1619599568884,18947,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-137,text,true,,7238,732,161,161,https://test.cherrytwist.org/graphql,18946,0,0
+1619599583623,4218,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-183,text,true,,7055,321,161,161,https://test.cherrytwist.org/graphql,4173,0,0
+1619599569271,18626,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-167,text,true,,7238,732,160,160,https://test.cherrytwist.org/graphql,18623,0,0
+1619599562798,25115,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-133,text,true,,7238,732,160,160,https://test.cherrytwist.org/graphql,25115,0,0
+1619599562295,25740,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-131,text,true,,7238,732,160,160,https://test.cherrytwist.org/graphql,25739,0,0
+1619599587832,220,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-137,text,true,,4949,387,160,160,https://test.cherrytwist.org/graphql,220,0,0
+1619599588035,163,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-131,text,true,,4949,387,160,160,https://test.cherrytwist.org/graphql,162,0,0
+1619599573715,14486,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-9,text,true,,4949,387,160,160,https://test.cherrytwist.org/graphql,14486,0,0
+1619599584114,4097,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-194,text,true,,690,349,160,160,https://test.cherrytwist.org/graphql,4097,0,0
+1619599588202,114,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-9,text,true,,7055,321,160,160,https://test.cherrytwist.org/graphql,114,0,0
+1619599584298,4106,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-35,text,true,,685,348,159,159,https://test.cherrytwist.org/graphql,4106,0,0
+1619599584437,4202,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-37,text,true,,7055,321,159,159,https://test.cherrytwist.org/graphql,4200,0,0
+1619599576811,11867,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-107,text,true,,4949,387,158,158,https://test.cherrytwist.org/graphql,11867,0,0
+1619599563291,25475,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-122,text,true,,7238,732,158,158,https://test.cherrytwist.org/graphql,25475,0,0
+1619599588678,135,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-107,text,true,,7055,321,158,158,https://test.cherrytwist.org/graphql,135,0,0
+1619599569870,19271,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-41,text,true,,7238,732,157,157,https://test.cherrytwist.org/graphql,19227,0,0
+1619599574335,14939,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-55,text,true,,4949,387,157,157,https://test.cherrytwist.org/graphql,14938,0,0
+1619599589275,183,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-55,text,true,,7055,321,157,157,https://test.cherrytwist.org/graphql,180,0,0
+1619599562080,27410,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-78,text,true,,7238,732,156,156,https://test.cherrytwist.org/graphql,27358,0,0
+1619599570044,19890,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-118,text,true,,7238,732,156,156,https://test.cherrytwist.org/graphql,19889,0,0
+1619599570164,19770,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-159,text,true,,7238,732,156,156,https://test.cherrytwist.org/graphql,19769,0,0
+1619599582254,7816,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-38,text,true,,7055,321,156,156,https://test.cherrytwist.org/graphql,7815,0,0
+1619599589937,151,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-159,text,true,,4949,387,155,155,https://test.cherrytwist.org/graphql,151,0,0
+1619599563650,26461,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-69,text,true,,7238,732,155,155,https://test.cherrytwist.org/graphql,26457,0,0
+1619599577906,12366,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-28,text,true,,4949,387,155,155,https://test.cherrytwist.org/graphql,12365,0,0
+1619599564241,26130,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-79,text,true,,7238,732,155,155,https://test.cherrytwist.org/graphql,26087,0,0
+1619599590272,154,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-28,text,true,,7055,321,155,155,https://test.cherrytwist.org/graphql,153,0,0
+1619599582691,7783,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-21,text,true,,7055,321,154,154,https://test.cherrytwist.org/graphql,7782,0,0
+1619599586562,4606,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-101,text,true,,7055,321,153,153,https://test.cherrytwist.org/graphql,4606,0,0
+1619599570601,20599,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-4,text,true,,7238,732,152,152,https://test.cherrytwist.org/graphql,20598,0,0
+1619599570762,20534,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-87,text,true,,7238,732,152,152,https://test.cherrytwist.org/graphql,20489,0,0
+1619599578993,12305,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-171,text,true,,4949,387,152,152,https://test.cherrytwist.org/graphql,12305,0,0
+1619599579164,12187,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-147,text,true,,4949,387,152,152,https://test.cherrytwist.org/graphql,12187,0,0
+1619599591297,145,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-87,text,true,,4949,387,152,152,https://test.cherrytwist.org/graphql,145,0,0
+1619599586939,4534,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-185,text,true,,7055,321,152,152,https://test.cherrytwist.org/graphql,4532,0,0
+1619599574703,16796,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-77,text,true,,4949,387,151,151,https://test.cherrytwist.org/graphql,16796,0,0
+1619599591443,120,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-87,text,true,,7055,321,151,151,https://test.cherrytwist.org/graphql,118,0,0
+1619599565771,25803,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-88,text,true,,7238,732,150,150,https://test.cherrytwist.org/graphql,25802,0,0
+1619599571351,20306,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-124,text,true,,7238,732,150,150,https://test.cherrytwist.org/graphql,20303,0,0
+1619599591657,190,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-124,text,true,,4949,387,150,150,https://test.cherrytwist.org/graphql,190,0,0
+1619599584036,7957,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-121,text,true,,7055,321,150,150,https://test.cherrytwist.org/graphql,7955,0,0
+1619599587600,4506,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-166,text,true,,7055,321,149,149,https://test.cherrytwist.org/graphql,4460,0,0
+1619599584194,7918,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-92,text,true,,685,348,148,148,https://test.cherrytwist.org/graphql,7918,0,0
+1619599584250,7948,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-103,text,true,,685,348,148,148,https://test.cherrytwist.org/graphql,7948,0,0
+1619599565811,26428,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-104,text,true,,7238,732,148,148,https://test.cherrytwist.org/graphql,26428,0,0
+1619599565400,26870,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-116,text,true,,7238,732,148,148,https://test.cherrytwist.org/graphql,26869,0,0
+1619599574942,17388,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-173,text,true,,4949,387,148,148,https://test.cherrytwist.org/graphql,17387,0,0
+1619599580522,11904,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-117,text,true,,4949,387,148,148,https://test.cherrytwist.org/graphql,11903,0,0
+1619599592330,146,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-173,text,true,,7055,321,148,148,https://test.cherrytwist.org/graphql,145,0,0
+1619599592198,345,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-103,text,true,,7238,732,147,147,https://test.cherrytwist.org/graphql,344,0,0
+1619599575243,17367,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-198,text,true,,4949,387,147,147,https://test.cherrytwist.org/graphql,17367,0,0
+1619599572455,20224,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-150,text,true,,7238,732,147,147,https://test.cherrytwist.org/graphql,20222,0,0
+1619599592611,122,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-198,text,true,,7055,321,147,147,https://test.cherrytwist.org/graphql,120,0,0
+1619599572175,20603,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-145,text,true,,7238,732,146,146,https://test.cherrytwist.org/graphql,20602,0,0
+1619599588198,4677,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-131,text,true,,7055,321,146,146,https://test.cherrytwist.org/graphql,4676,0,0
+1619599566063,26888,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-135,text,true,,7238,732,145,145,https://test.cherrytwist.org/graphql,26886,0,0
+1619599572690,20289,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-36,text,true,,7238,732,145,145,https://test.cherrytwist.org/graphql,20288,0,0
+1619599566422,26564,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-64,text,true,,7238,732,145,145,https://test.cherrytwist.org/graphql,26562,0,0
+1619599592953,143,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-135,text,true,,4949,387,145,145,https://test.cherrytwist.org/graphql,143,0,0
+1619599584405,8705,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-10,text,true,,685,348,145,145,https://test.cherrytwist.org/graphql,8705,0,0
+1619599566296,26903,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-31,text,true,,7238,732,145,145,https://test.cherrytwist.org/graphql,26857,0,0
+1619599573040,20180,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-47,text,true,,7238,732,145,145,https://test.cherrytwist.org/graphql,20178,0,0
+1619599593097,161,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-135,text,true,,7055,321,145,145,https://test.cherrytwist.org/graphql,118,0,0
+1619599593220,142,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-47,text,true,,4949,387,144,144,https://test.cherrytwist.org/graphql,142,0,0
+1619599567406,26126,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-119,text,true,,7238,732,144,144,https://test.cherrytwist.org/graphql,26125,0,0
+1619599582522,11019,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-44,text,true,,4949,387,144,144,https://test.cherrytwist.org/graphql,11019,0,0
+1619599573150,20458,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-19,text,true,,7238,732,144,144,https://test.cherrytwist.org/graphql,20456,0,0
+1619599567533,26118,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-149,text,true,,7238,732,144,144,https://test.cherrytwist.org/graphql,26117,0,0
+1619599593542,128,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-44,text,true,,7055,321,144,144,https://test.cherrytwist.org/graphql,117,0,0
+1619599572940,20740,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-155,text,true,,7238,732,144,144,https://test.cherrytwist.org/graphql,20729,0,0
+1619599573614,20105,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-161,text,true,,7238,732,143,143,https://test.cherrytwist.org/graphql,20103,0,0
+1619599575876,17918,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-125,text,true,,4949,387,143,143,https://test.cherrytwist.org/graphql,17918,0,0
+1619599593681,128,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-155,text,true,,4949,387,143,143,https://test.cherrytwist.org/graphql,128,0,0
+1619599591350,2572,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-147,text,true,,7055,321,143,143,https://test.cherrytwist.org/graphql,2571,0,0
+1619599593809,113,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-155,text,true,,7055,321,143,143,https://test.cherrytwist.org/graphql,112,0,0
+1619599566991,26938,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-164,text,true,,7238,732,141,141,https://test.cherrytwist.org/graphql,26938,0,0
+1619599574794,19494,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-143,text,true,,7238,732,141,141,https://test.cherrytwist.org/graphql,19493,0,0
+1619599575047,19264,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-1,text,true,,7238,732,141,141,https://test.cherrytwist.org/graphql,19262,0,0
+1619599586769,7607,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-70,text,true,,7055,321,141,141,https://test.cherrytwist.org/graphql,7605,0,0
+1619599594312,127,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-1,text,true,,4949,387,140,140,https://test.cherrytwist.org/graphql,126,0,0
+1619599567902,26548,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-196,text,true,,7238,732,140,140,https://test.cherrytwist.org/graphql,26548,0,0
+1619599587316,7358,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-65,text,true,,7055,321,140,140,https://test.cherrytwist.org/graphql,7356,0,0
+1619599584229,10545,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-8,text,true,,4949,387,139,139,https://test.cherrytwist.org/graphql,10545,0,0
+1619599568644,26190,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-169,text,true,,7238,732,139,139,https://test.cherrytwist.org/graphql,26147,0,0
+1619599594775,126,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-8,text,true,,7055,321,139,139,https://test.cherrytwist.org/graphql,125,0,0
+1619599588053,7195,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-137,text,true,,7055,321,138,138,https://test.cherrytwist.org/graphql,7195,0,0
+1619599584932,10378,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-113,text,true,,4949,387,137,137,https://test.cherrytwist.org/graphql,10377,0,0
+1619599568852,26472,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-12,text,true,,7238,732,137,137,https://test.cherrytwist.org/graphql,26471,0,0
+1619599576141,19211,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-100,text,true,,7238,732,137,137,https://test.cherrytwist.org/graphql,19210,0,0
+1619599595324,138,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-12,text,true,,4949,387,137,137,https://test.cherrytwist.org/graphql,137,0,0
+1619599585467,10115,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-75,text,true,,4949,387,137,137,https://test.cherrytwist.org/graphql,10115,0,0
+1619599595582,119,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-75,text,true,,7055,321,137,137,https://test.cherrytwist.org/graphql,119,0,0
+1619599593795,1932,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-125,text,true,,7055,321,136,136,https://test.cherrytwist.org/graphql,1931,0,0
+1619599585698,10075,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-85,text,true,,4949,387,135,135,https://test.cherrytwist.org/graphql,10075,0,0
+1619599569162,26654,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-191,text,true,,7238,732,135,135,https://test.cherrytwist.org/graphql,26652,0,0
+1619599569746,26244,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-97,text,true,,7238,732,135,135,https://test.cherrytwist.org/graphql,26243,0,0
+1619599569457,26600,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-151,text,true,,7238,732,135,135,https://test.cherrytwist.org/graphql,26600,0,0
+1619599570026,26084,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-115,text,true,,7238,732,135,135,https://test.cherrytwist.org/graphql,26084,0,0
+1619599595991,204,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-97,text,true,,4949,387,135,135,https://test.cherrytwist.org/graphql,204,0,0
+1619599587931,8370,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-133,text,true,,4949,387,135,135,https://test.cherrytwist.org/graphql,8370,0,0
+1619599596195,129,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-97,text,true,,7055,321,135,135,https://test.cherrytwist.org/graphql,126,0,0
+1619599570146,26362,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-197,text,true,,7238,732,134,134,https://test.cherrytwist.org/graphql,26362,0,0
+1619599590089,6558,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-159,text,true,,7055,321,134,134,https://test.cherrytwist.org/graphql,6558,0,0
+1619599570247,26538,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-80,text,true,,7238,732,133,133,https://test.cherrytwist.org/graphql,26493,0,0
+1619599570950,25884,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-199,text,true,,7238,732,133,133,https://test.cherrytwist.org/graphql,25840,0,0
+1619599596785,182,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-80,text,true,,4949,387,133,133,https://test.cherrytwist.org/graphql,182,0,0
+1619599589142,7845,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-41,text,true,,4949,387,133,133,https://test.cherrytwist.org/graphql,7844,0,0
+1619599596987,147,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-41,text,true,,7055,321,133,133,https://test.cherrytwist.org/graphql,146,0,0
+1619599589934,7244,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-118,text,true,,4949,387,132,132,https://test.cherrytwist.org/graphql,7199,0,0
+1619599595310,1931,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-113,text,true,,7055,321,132,132,https://test.cherrytwist.org/graphql,1921,0,0
+1619599571134,26177,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-84,text,true,,7238,732,131,131,https://test.cherrytwist.org/graphql,26176,0,0
+1619599591201,6148,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-4,text,true,,4949,387,131,131,https://test.cherrytwist.org/graphql,6106,0,0
+1619599571208,26165,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-132,text,true,,7238,732,131,131,https://test.cherrytwist.org/graphql,26164,0,0
+1619599590110,7291,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-69,text,true,,4949,387,131,131,https://test.cherrytwist.org/graphql,7246,0,0
+1619599595462,1994,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-12,text,true,,7055,321,131,131,https://test.cherrytwist.org/graphql,1993,0,0
+1619599591499,5971,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-77,text,true,,7055,321,130,130,https://test.cherrytwist.org/graphql,5966,0,0
+1619599597349,122,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-4,text,true,,7055,321,130,130,https://test.cherrytwist.org/graphql,122,0,0
+1619599591573,5931,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-88,text,true,,4949,387,128,128,https://test.cherrytwist.org/graphql,5930,0,0
+1619599591298,6289,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-171,text,true,,7055,321,128,128,https://test.cherrytwist.org/graphql,6288,0,0
+1619599597504,109,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-88,text,true,,7055,321,127,127,https://test.cherrytwist.org/graphql,108,0,0
+1619599571275,26379,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-82,text,true,,7238,732,126,126,https://test.cherrytwist.org/graphql,26378,0,0
+1619599551206,46504,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-63,text,true,,1182,372,126,126,https://test.cherrytwist.org/graphql,46504,0,31976
+1619599551195,46577,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-163,text,true,,1169,372,126,126,https://test.cherrytwist.org/graphql,46577,0,31923
+1619599591847,5938,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-124,text,true,,7055,321,126,126,https://test.cherrytwist.org/graphql,5894,0,0
+1619599578138,19675,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-90,text,true,,4949,387,125,125,https://test.cherrytwist.org/graphql,19675,0,0
+1619599551201,46626,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-188,text,true,,1182,372,125,125,https://test.cherrytwist.org/graphql,46626,0,31953
+1619599551201,46660,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-72,text,true,,1219,372,125,125,https://test.cherrytwist.org/graphql,46659,0,32082
+1619599597772,150,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-163,text,true,,690,349,125,125,https://test.cherrytwist.org/graphql,150,0,0
+1619599571461,26479,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-180,text,true,,7238,732,125,125,https://test.cherrytwist.org/graphql,26478,0,0
+1619599551199,46760,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-156,text,true,,1169,372,125,125,https://test.cherrytwist.org/graphql,46760,0,32265
+1619599551334,46647,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-153,text,true,,1169,372,125,125,https://test.cherrytwist.org/graphql,46646,0,32180
+1619599597861,143,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-72,text,true,,685,348,125,125,https://test.cherrytwist.org/graphql,143,0,0
+1619599592425,5626,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-117,text,true,,7055,321,125,125,https://test.cherrytwist.org/graphql,5626,0,0
+1619599597960,131,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-156,text,true,,690,349,124,124,https://test.cherrytwist.org/graphql,131,0,0
+1619599572037,26167,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-148,text,true,,7238,732,124,124,https://test.cherrytwist.org/graphql,26166,0,0
+1619599598092,271,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-156,text,true,,7238,732,124,124,https://test.cherrytwist.org/graphql,270,0,0
+1619599593363,5031,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-47,text,true,,7055,321,124,124,https://test.cherrytwist.org/graphql,4985,0,0
+1619599579133,19340,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-14,text,true,,4949,387,123,123,https://test.cherrytwist.org/graphql,19340,0,0
+1619599592270,6280,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-116,text,true,,4949,387,123,123,https://test.cherrytwist.org/graphql,6237,0,0
+1619599551195,47366,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-178,text,true,,1182,372,123,123,https://test.cherrytwist.org/graphql,47365,0,32374
+1619599551191,47392,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-76,text,true,,1219,372,123,123,https://test.cherrytwist.org/graphql,47392,0,32341
+1619599598473,116,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-14,text,true,,7055,321,123,123,https://test.cherrytwist.org/graphql,115,0,0
+1619599598584,130,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-76,text,true,,685,348,122,122,https://test.cherrytwist.org/graphql,130,0,0
+1619599551192,47592,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-138,text,true,,1169,372,122,122,https://test.cherrytwist.org/graphql,47592,0,32384
+1619599551198,47641,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-165,text,true,,1169,372,122,122,https://test.cherrytwist.org/graphql,47641,0,32378
+1619599594440,4527,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-1,text,true,,7055,321,122,122,https://test.cherrytwist.org/graphql,4524,0,0
+1619599598839,135,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-165,text,true,,690,349,121,121,https://test.cherrytwist.org/graphql,135,0,0
+1619599572313,26731,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-59,text,true,,7238,732,121,121,https://test.cherrytwist.org/graphql,26728,0,0
+1619599592779,6274,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-145,text,true,,4949,387,121,121,https://test.cherrytwist.org/graphql,6274,0,0
+1619599573107,25995,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-105,text,true,,7238,732,121,121,https://test.cherrytwist.org/graphql,25948,0,0
+1619599592987,6183,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-64,text,true,,4949,387,121,121,https://test.cherrytwist.org/graphql,6183,0,0
+1619599599054,130,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-145,text,true,,7055,321,121,121,https://test.cherrytwist.org/graphql,129,0,0
+1619599581062,18147,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-18,text,true,,4949,387,120,120,https://test.cherrytwist.org/graphql,18107,0,0
+1619599593199,6030,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-31,text,true,,4949,387,120,120,https://test.cherrytwist.org/graphql,6030,0,0
+1619599584545,14764,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-54,text,true,,7238,732,120,120,https://test.cherrytwist.org/graphql,14762,0,0
+1619599599210,117,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-18,text,true,,7055,321,120,120,https://test.cherrytwist.org/graphql,115,0,0
+1619599592544,6941,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-103,text,true,,4949,387,119,119,https://test.cherrytwist.org/graphql,6940,0,0
+1619599599485,155,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-103,text,true,,7055,321,119,119,https://test.cherrytwist.org/graphql,154,0,0
+1619599593533,6134,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-119,text,true,,4949,387,118,118,https://test.cherrytwist.org/graphql,6134,0,0
+1619599596967,2803,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-80,text,true,,7055,321,118,118,https://test.cherrytwist.org/graphql,2803,0,0
+1619599595774,4004,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-85,text,true,,7055,321,117,117,https://test.cherrytwist.org/graphql,4004,0,0
+1619599593652,6217,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-149,text,true,,4949,387,116,116,https://test.cherrytwist.org/graphql,6178,0,0
+1619599596302,3706,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-133,text,true,,7055,321,116,116,https://test.cherrytwist.org/graphql,3706,0,0
+1619599594289,5809,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-143,text,true,,4949,387,115,115,https://test.cherrytwist.org/graphql,5808,0,0
+1619599594451,5704,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-196,text,true,,4949,387,115,115,https://test.cherrytwist.org/graphql,5704,0,0
+1619599600098,149,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-143,text,true,,7055,321,115,115,https://test.cherrytwist.org/graphql,148,0,0
+1619599597401,2857,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-69,text,true,,7055,321,114,114,https://test.cherrytwist.org/graphql,2852,0,0
+1619599574079,26259,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-57,text,true,,7238,732,113,113,https://test.cherrytwist.org/graphql,26258,0,0
+1619599597709,2685,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-63,text,true,,685,348,113,113,https://test.cherrytwist.org/graphql,2685,0,0
+1619599597827,2669,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-188,text,true,,690,349,113,113,https://test.cherrytwist.org/graphql,2669,0,0
+1619599583149,17348,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-25,text,true,,4949,387,113,113,https://test.cherrytwist.org/graphql,17347,0,0
+1619599598561,2114,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-178,text,true,,690,349,113,113,https://test.cherrytwist.org/graphql,2114,0,0
+1619599600394,350,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-63,text,true,,7238,732,113,113,https://test.cherrytwist.org/graphql,350,0,0
+1619599597178,3609,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-118,text,true,,7055,321,113,113,https://test.cherrytwist.org/graphql,3608,0,0
+1619599598785,2024,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-138,text,true,,690,349,112,112,https://test.cherrytwist.org/graphql,2024,0,0
+1619599600676,398,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-178,text,true,,7238,732,112,112,https://test.cherrytwist.org/graphql,398,0,0
+1619599597813,3389,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-90,text,true,,7055,321,112,112,https://test.cherrytwist.org/graphql,3389,0,0
+1619599601074,140,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-178,text,true,,4949,387,111,111,https://test.cherrytwist.org/graphql,140,0,0
+1619599595817,5438,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-191,text,true,,4949,387,111,111,https://test.cherrytwist.org/graphql,5437,0,0
+1619599597981,3323,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-153,text,true,,690,349,111,111,https://test.cherrytwist.org/graphql,3323,0,0
+1619599599171,2222,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-64,text,true,,7055,321,111,111,https://test.cherrytwist.org/graphql,2219,0,0
+1619599584847,16596,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-13,text,true,,4949,387,110,110,https://test.cherrytwist.org/graphql,16595,0,0
+1619599585688,15833,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-58,text,true,,4949,387,110,110,https://test.cherrytwist.org/graphql,15832,0,0
+1619599588405,13166,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-35,text,true,,7238,732,110,110,https://test.cherrytwist.org/graphql,13165,0,0
+1619599596111,5615,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-115,text,true,,4949,387,110,110,https://test.cherrytwist.org/graphql,5614,0,0
+1619599601305,441,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-153,text,true,,7238,732,110,110,https://test.cherrytwist.org/graphql,394,0,0
+1619599585185,16576,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-6,text,true,,4949,387,110,110,https://test.cherrytwist.org/graphql,16576,0,0
+1619599601572,200,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-35,text,true,,4949,387,110,110,https://test.cherrytwist.org/graphql,199,0,0
+1619599599870,1968,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-149,text,true,,7055,321,110,110,https://test.cherrytwist.org/graphql,1967,0,0
+1619599586341,15529,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-74,text,true,,4949,387,109,109,https://test.cherrytwist.org/graphql,15529,0,0
+1619599601762,116,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-6,text,true,,7055,321,109,109,https://test.cherrytwist.org/graphql,115,0,0
+1619599592113,9893,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-92,text,true,,7238,732,108,108,https://test.cherrytwist.org/graphql,9848,0,0
+1619599598551,3459,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-116,text,true,,7055,321,108,108,https://test.cherrytwist.org/graphql,3458,0,0
+1619599596509,5508,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-197,text,true,,4949,387,107,107,https://test.cherrytwist.org/graphql,5507,0,0
+1619599587897,14225,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-167,text,true,,4949,387,107,107,https://test.cherrytwist.org/graphql,14183,0,0
+1619599602006,147,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-92,text,true,,4949,387,107,107,https://test.cherrytwist.org/graphql,147,0,0
+1619599601255,937,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-191,text,true,,7055,321,107,107,https://test.cherrytwist.org/graphql,936,0,0
+1619599602154,110,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-92,text,true,,7055,321,106,106,https://test.cherrytwist.org/graphql,108,0,0
+1619599588766,13511,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-122,text,true,,4949,387,105,105,https://test.cherrytwist.org/graphql,13510,0,0
+1619599597312,5013,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-84,text,true,,4949,387,105,105,https://test.cherrytwist.org/graphql,5013,0,0
+1619599597941,4526,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-180,text,true,,4949,387,105,105,https://test.cherrytwist.org/graphql,4526,0,0
+1619599576662,25815,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-184,text,true,,7238,732,105,105,https://test.cherrytwist.org/graphql,25775,0,0
+1619599598363,4206,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-156,text,true,,4949,387,105,105,https://test.cherrytwist.org/graphql,4163,0,0
+1619599576963,25617,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-3,text,true,,7238,732,105,105,https://test.cherrytwist.org/graphql,25615,0,0
+1619599599309,3278,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-54,text,true,,4949,387,105,105,https://test.cherrytwist.org/graphql,3278,0,0
+1619599602467,157,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-180,text,true,,7055,321,105,105,https://test.cherrytwist.org/graphql,155,0,0
+1619599602579,127,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-3,text,true,,4949,387,104,104,https://test.cherrytwist.org/graphql,127,0,0
+1619599599229,3480,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-31,text,true,,7055,321,104,104,https://test.cherrytwist.org/graphql,3480,0,0
+1619599601521,1250,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-58,text,true,,7055,321,103,103,https://test.cherrytwist.org/graphql,1204,0,0
+1619599589489,13296,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-78,text,true,,4949,387,102,102,https://test.cherrytwist.org/graphql,13295,0,0
+1619599602786,138,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-78,text,true,,7055,321,102,102,https://test.cherrytwist.org/graphql,138,0,0
+1619599601871,1064,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-74,text,true,,7055,321,101,101,https://test.cherrytwist.org/graphql,1064,0,0
+1619599599668,3279,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-119,text,true,,7055,321,100,100,https://test.cherrytwist.org/graphql,3278,0,0
+1619599599044,3975,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-59,text,true,,4949,387,99,99,https://test.cherrytwist.org/graphql,3975,0,0
+1619599600156,2932,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-196,text,true,,7055,321,99,99,https://test.cherrytwist.org/graphql,2932,0,0
+1619599602122,995,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-167,text,true,,7055,321,98,98,https://test.cherrytwist.org/graphql,994,0,0
+1619599600339,2825,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-57,text,true,,4949,387,97,97,https://test.cherrytwist.org/graphql,2825,0,0
+1619599590371,12861,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-79,text,true,,4949,387,97,97,https://test.cherrytwist.org/graphql,12860,0,0
+1619599603232,119,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-79,text,true,,7055,321,97,97,https://test.cherrytwist.org/graphql,116,0,0
+1619599602326,1068,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-84,text,true,,7055,321,96,96,https://test.cherrytwist.org/graphql,1068,0,0
+1619599592239,11257,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-104,text,true,,4949,387,95,95,https://test.cherrytwist.org/graphql,11257,0,0
+1619599602569,1382,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-156,text,true,,7055,321,95,95,https://test.cherrytwist.org/graphql,1382,0,0
+1619599601746,2259,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-153,text,true,,4949,387,94,94,https://test.cherrytwist.org/graphql,2258,0,0
+1619599600497,3560,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-25,text,true,,7055,321,94,94,https://test.cherrytwist.org/graphql,3559,0,0
+1619599592679,11605,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-150,text,true,,4949,387,93,93,https://test.cherrytwist.org/graphql,11604,0,0
+1619599592980,11361,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-36,text,true,,4949,387,93,93,https://test.cherrytwist.org/graphql,11361,0,0
+1619599603165,1226,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-57,text,true,,7055,321,93,93,https://test.cherrytwist.org/graphql,1180,0,0
+1619599604285,135,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-150,text,true,,7055,321,92,92,https://test.cherrytwist.org/graphql,135,0,0
+1619599602707,1732,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-3,text,true,,7055,321,91,91,https://test.cherrytwist.org/graphql,1732,0,0
+1619599601215,3422,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-178,text,true,,7055,321,90,90,https://test.cherrytwist.org/graphql,3422,0,0
+1619599598004,6712,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-72,text,true,,7238,732,89,89,https://test.cherrytwist.org/graphql,6711,0,0
+1619599604006,918,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-153,text,true,,7055,321,89,89,https://test.cherrytwist.org/graphql,916,0,0
+1619599593719,11208,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-161,text,true,,4949,387,88,88,https://test.cherrytwist.org/graphql,11208,0,0
+1619599593929,11068,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-164,text,true,,4949,387,88,88,https://test.cherrytwist.org/graphql,11067,0,0
+1619599600809,4225,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-138,text,true,,7238,732,88,88,https://test.cherrytwist.org/graphql,4180,0,0
+1619599593609,11442,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-19,text,true,,4949,387,88,88,https://test.cherrytwist.org/graphql,11441,0,0
+1619599604927,124,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-161,text,true,,7055,321,88,88,https://test.cherrytwist.org/graphql,123,0,0
+1619599600497,4593,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-188,text,true,,7238,732,87,87,https://test.cherrytwist.org/graphql,4548,0,0
+1619599601448,3737,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-13,text,true,,7055,321,87,87,https://test.cherrytwist.org/graphql,3734,0,0
+1619599605051,143,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-19,text,true,,7055,321,86,86,https://test.cherrytwist.org/graphql,143,0,0
+1619599594834,10397,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-169,text,true,,4949,387,85,85,https://test.cherrytwist.org/graphql,10397,0,0
+1619599604717,521,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-72,text,true,,4949,387,85,85,https://test.cherrytwist.org/graphql,474,0,0
+1619599605034,263,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-138,text,true,,4949,387,85,85,https://test.cherrytwist.org/graphql,263,0,0
+1619599605239,153,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-72,text,true,,7055,321,85,85,https://test.cherrytwist.org/graphql,150,0,0
+1619599601726,3670,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-115,text,true,,7055,321,84,84,https://test.cherrytwist.org/graphql,3668,0,0
+1619599605232,214,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-169,text,true,,7055,321,83,83,https://test.cherrytwist.org/graphql,212,0,0
+1619599601772,3791,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-35,text,true,,7055,321,82,82,https://test.cherrytwist.org/graphql,3746,0,0
+1619599602017,3576,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-197,text,true,,7055,321,81,81,https://test.cherrytwist.org/graphql,3574,0,0
+1619599595351,10311,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-100,text,true,,4949,387,80,80,https://test.cherrytwist.org/graphql,10311,0,0
+1619599602277,3470,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-122,text,true,,7055,321,80,80,https://test.cherrytwist.org/graphql,3468,0,0
+1619599596058,9740,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-151,text,true,,4949,387,79,79,https://test.cherrytwist.org/graphql,9740,0,0
+1619599605663,194,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-100,text,true,,7055,321,79,79,https://test.cherrytwist.org/graphql,149,0,0
+1619599602587,3338,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-54,text,true,,7055,321,78,78,https://test.cherrytwist.org/graphql,3294,0,0
+1619599596835,9106,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-199,text,true,,4949,387,77,77,https://test.cherrytwist.org/graphql,9106,0,0
+1619599605799,166,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-151,text,true,,7055,321,77,77,https://test.cherrytwist.org/graphql,125,0,0
+1619599597373,8648,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-132,text,true,,4949,387,76,76,https://test.cherrytwist.org/graphql,8603,0,0
+1619599551320,54721,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-136,text,true,,1169,372,76,76,https://test.cherrytwist.org/graphql,54721,0,31767
+1619599597654,8475,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-82,text,true,,4949,387,76,76,https://test.cherrytwist.org/graphql,8432,0,0
+1619599606042,107,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-136,text,true,,690,349,76,76,https://test.cherrytwist.org/graphql,107,0,0
+1619599551202,54949,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-96,text,true,,1219,372,76,76,https://test.cherrytwist.org/graphql,54949,0,32229
+1619599551196,54975,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-179,text,true,,1182,372,76,76,https://test.cherrytwist.org/graphql,54975,0,32003
+1619599551322,54884,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-32,text,true,,1169,372,76,76,https://test.cherrytwist.org/graphql,54884,0,31943
+1619599606023,188,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-132,text,true,,7055,321,76,76,https://test.cherrytwist.org/graphql,187,0,0
+1619599606153,156,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-96,text,true,,690,349,75,75,https://test.cherrytwist.org/graphql,156,0,0
+1619599606207,203,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-32,text,true,,681,348,75,75,https://test.cherrytwist.org/graphql,203,0,0
+1619599551196,55300,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-108,text,true,,1219,372,75,75,https://test.cherrytwist.org/graphql,55300,0,32321
+1619599606150,372,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-136,text,true,,7238,732,75,75,https://test.cherrytwist.org/graphql,370,0,0
+1619599603496,3081,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-104,text,true,,7055,321,75,75,https://test.cherrytwist.org/graphql,3080,0,0
+1619599606498,176,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-108,text,true,,690,349,74,74,https://test.cherrytwist.org/graphql,176,0,0
+1619599603019,3661,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-59,text,true,,7055,321,74,74,https://test.cherrytwist.org/graphql,3659,0,0
+1619599551194,55507,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-142,text,true,,1169,372,73,73,https://test.cherrytwist.org/graphql,55507,0,32376
+1619599606309,402,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-96,text,true,,7238,732,73,73,https://test.cherrytwist.org/graphql,402,0,0
+1619599551325,55395,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-134,text,true,,1169,372,73,73,https://test.cherrytwist.org/graphql,55395,0,32211
+1619599606523,224,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-136,text,true,,4949,387,73,73,https://test.cherrytwist.org/graphql,224,0,0
+1619599606703,166,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-142,text,true,,690,349,73,73,https://test.cherrytwist.org/graphql,166,0,0
+1619599606712,220,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-96,text,true,,4949,387,73,73,https://test.cherrytwist.org/graphql,220,0,0
+1619599551194,55758,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-22,text,true,,1182,372,73,73,https://test.cherrytwist.org/graphql,55758,0,32382
+1619599606748,222,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-136,text,true,,7055,321,73,73,https://test.cherrytwist.org/graphql,221,0,0
+1619599551202,55768,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-168,text,true,,1182,372,73,73,https://test.cherrytwist.org/graphql,55768,0,32380
+1619599551197,55802,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-187,text,true,,1182,372,72,72,https://test.cherrytwist.org/graphql,55802,0,32391
+1619599606952,190,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-22,text,true,,685,348,72,72,https://test.cherrytwist.org/graphql,190,0,0
+1619599606973,246,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-168,text,true,,690,349,72,72,https://test.cherrytwist.org/graphql,246,0,0
+1619599604342,2925,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-36,text,true,,7055,321,72,72,https://test.cherrytwist.org/graphql,2925,0,0
+1619599606869,486,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-142,text,true,,7238,732,71,71,https://test.cherrytwist.org/graphql,442,0,0
+1619599598204,9162,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-148,text,true,,4949,387,71,71,https://test.cherrytwist.org/graphql,9119,0,0
+1619599584519,22931,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-34,text,true,,7238,732,71,71,https://test.cherrytwist.org/graphql,22928,0,0
+1619599607220,434,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-168,text,true,,7238,732,71,71,https://test.cherrytwist.org/graphql,390,0,0
+1619599607367,364,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-148,text,true,,7055,321,71,71,https://test.cherrytwist.org/graphql,362,0,0
+1619599607451,283,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-34,text,true,,4949,387,70,70,https://test.cherrytwist.org/graphql,239,0,0
+1619599604997,2789,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-164,text,true,,7055,321,70,70,https://test.cherrytwist.org/graphql,2742,0,0
+1619599605298,2635,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-138,text,true,,7055,321,69,69,https://test.cherrytwist.org/graphql,2609,0,0
+1619599599102,8868,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-105,text,true,,4949,387,68,68,https://test.cherrytwist.org/graphql,8868,0,0
+1619599607735,245,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-34,text,true,,7055,321,68,68,https://test.cherrytwist.org/graphql,244,0,0
+1619599607142,889,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-22,text,true,,7238,732,67,67,https://test.cherrytwist.org/graphql,846,0,0
+1619599607972,114,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-105,text,true,,7055,321,67,67,https://test.cherrytwist.org/graphql,114,0,0
+1619599605941,2164,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-199,text,true,,7055,321,66,66,https://test.cherrytwist.org/graphql,2164,0,0
+1619599588213,19910,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-194,text,true,,7238,732,65,65,https://test.cherrytwist.org/graphql,19909,0,0
+1619599606173,1986,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-179,text,true,,690,349,65,65,https://test.cherrytwist.org/graphql,1986,0,0
+1619599600745,7516,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-63,text,true,,4949,387,65,65,https://test.cherrytwist.org/graphql,7472,0,0
+1619599606131,2195,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-82,text,true,,7055,321,65,65,https://test.cherrytwist.org/graphql,2195,0,0
+1619599608125,210,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-194,text,true,,4949,387,64,64,https://test.cherrytwist.org/graphql,165,0,0
+1619599608159,308,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-179,text,true,,7238,732,64,64,https://test.cherrytwist.org/graphql,264,0,0
+1619599608335,190,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-194,text,true,,7055,321,64,64,https://test.cherrytwist.org/graphql,189,0,0
+1619599608467,131,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-179,text,true,,4949,387,63,63,https://test.cherrytwist.org/graphql,131,0,0
+1619599606933,1666,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-96,text,true,,7055,321,63,63,https://test.cherrytwist.org/graphql,1620,0,0
+1619599606722,1884,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-134,text,true,,690,349,62,62,https://test.cherrytwist.org/graphql,1884,0,0
+1619599607000,1842,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-187,text,true,,690,349,62,62,https://test.cherrytwist.org/graphql,1842,0,0
+1619599593110,15952,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-10,text,true,,7238,732,62,62,https://test.cherrytwist.org/graphql,15907,0,0
+1619599608842,302,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-187,text,true,,7238,732,62,62,https://test.cherrytwist.org/graphql,300,0,0
+1619599608607,583,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-134,text,true,,7238,732,62,62,https://test.cherrytwist.org/graphql,540,0,0
+1619599602477,6832,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-184,text,true,,4949,387,62,62,https://test.cherrytwist.org/graphql,6827,0,0
+1619599609191,131,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-134,text,true,,4949,387,62,62,https://test.cherrytwist.org/graphql,131,0,0
+1619599609144,210,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-187,text,true,,4949,387,62,62,https://test.cherrytwist.org/graphql,167,0,0
+1619599609355,217,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-187,text,true,,7055,321,62,62,https://test.cherrytwist.org/graphql,216,0,0
+1619599609323,318,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-134,text,true,,7055,321,61,61,https://test.cherrytwist.org/graphql,318,0,0
+1619599608262,1429,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-63,text,true,,7055,321,60,60,https://test.cherrytwist.org/graphql,1429,0,0
+1619599605091,4700,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-188,text,true,,4949,387,59,59,https://test.cherrytwist.org/graphql,4699,0,0
+1619599608598,1300,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-179,text,true,,7055,321,59,59,https://test.cherrytwist.org/graphql,1299,0,0
+1619599597922,12010,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-163,text,true,,7238,732,58,58,https://test.cherrytwist.org/graphql,12010,0,0
+1619599598714,11288,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-76,text,true,,7238,732,58,58,https://test.cherrytwist.org/graphql,11244,0,0
+1619599609310,768,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-184,text,true,,7055,321,58,58,https://test.cherrytwist.org/graphql,768,0,0
+1619599609934,205,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-163,text,true,,4949,387,57,57,https://test.cherrytwist.org/graphql,161,0,0
+1619599610004,136,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-76,text,true,,4949,387,57,57,https://test.cherrytwist.org/graphql,136,0,0
+1619599598974,11169,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-165,text,true,,7238,732,57,57,https://test.cherrytwist.org/graphql,11167,0,0
+1619599607355,2829,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-142,text,true,,4949,387,57,57,https://test.cherrytwist.org/graphql,2829,0,0
+1619599610144,153,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-165,text,true,,4949,387,57,57,https://test.cherrytwist.org/graphql,153,0,0
+1619599607655,2645,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-168,text,true,,4949,387,57,57,https://test.cherrytwist.org/graphql,2645,0,0
+1619599610141,163,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-76,text,true,,7055,321,57,57,https://test.cherrytwist.org/graphql,162,0,0
+1619599609792,547,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-188,text,true,,7055,321,56,56,https://test.cherrytwist.org/graphql,546,0,0
+1619599610302,142,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-168,text,true,,7055,321,55,55,https://test.cherrytwist.org/graphql,141,0,0
+1619599610297,199,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-165,text,true,,7055,321,54,54,https://test.cherrytwist.org/graphql,198,0,0
+1619599608031,2536,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-22,text,true,,4949,387,53,53,https://test.cherrytwist.org/graphql,2536,0,0
+1619599609063,1571,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-10,text,true,,4949,387,53,53,https://test.cherrytwist.org/graphql,1571,0,0
+1619599610634,147,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-10,text,true,,7055,321,53,53,https://test.cherrytwist.org/graphql,146,0,0
+1619599610142,648,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-163,text,true,,7055,321,52,52,https://test.cherrytwist.org/graphql,648,0,0
+1619599610185,646,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-142,text,true,,7055,321,51,51,https://test.cherrytwist.org/graphql,645,0,0
+1619599606411,4555,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-32,text,true,,7238,732,50,50,https://test.cherrytwist.org/graphql,4551,0,0
+1619599610571,443,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-22,text,true,,7055,321,50,50,https://test.cherrytwist.org/graphql,442,0,0
+1619599606675,4353,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-108,text,true,,7238,732,49,49,https://test.cherrytwist.org/graphql,4352,0,0
+1619599610966,169,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-32,text,true,,4949,387,49,49,https://test.cherrytwist.org/graphql,126,0,0
+1619599611027,150,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-108,text,true,,4949,387,49,49,https://test.cherrytwist.org/graphql,107,0,0
+1619599611134,120,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-32,text,true,,7055,321,49,49,https://test.cherrytwist.org/graphql,119,0,0
+1619599611178,107,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-108,text,true,,7055,321,48,48,https://test.cherrytwist.org/graphql,107,0,0
+1619599551218,67528,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-181,text,true,,1182,372,47,47,https://test.cherrytwist.org/graphql,67528,0,66213
+1619599551205,67554,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-102,text,true,,1219,372,47,47,https://test.cherrytwist.org/graphql,67554,0,66627
+1619599551204,67568,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-16,text,true,,1169,372,47,47,https://test.cherrytwist.org/graphql,67568,0,66496
+1619599551323,67459,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-7,text,true,,1169,372,47,47,https://test.cherrytwist.org/graphql,67459,0,66063
+1619599551209,67616,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-42,text,true,,1182,372,47,47,https://test.cherrytwist.org/graphql,67616,0,66001
+1619599551332,67523,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-152,text,true,,1169,372,47,47,https://test.cherrytwist.org/graphql,67523,0,66287
+1619599551322,67688,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-170,text,true,,1182,372,47,47,https://test.cherrytwist.org/graphql,67687,0,66566
+1619599551291,67782,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-50,text,true,,1182,372,47,47,https://test.cherrytwist.org/graphql,67782,0,66608
+1619599551211,67862,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-190,text,true,,1182,372,47,47,https://test.cherrytwist.org/graphql,67862,0,66702
+1619599551285,67818,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-200,text,true,,1182,372,47,47,https://test.cherrytwist.org/graphql,67818,0,66005
+1619599551334,67790,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-174,text,true,,1182,372,47,47,https://test.cherrytwist.org/graphql,67790,0,66188
+1619599551285,67863,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-193,text,true,,1182,372,47,47,https://test.cherrytwist.org/graphql,67863,0,65944
+1619599551205,67964,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-17,text,true,,1169,372,47,47,https://test.cherrytwist.org/graphql,67964,0,66702
+1619599551326,67866,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-126,text,true,,1219,372,47,47,https://test.cherrytwist.org/graphql,67866,0,66553
+1619599551204,68047,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-186,text,true,,1182,372,47,47,https://test.cherrytwist.org/graphql,68047,0,66688
+1619599618760,755,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-102,text,true,,685,348,47,47,https://test.cherrytwist.org/graphql,755,0,348
+1619599618772,783,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-16,text,true,,520,348,47,47,https://test.cherrytwist.org/graphql,783,0,245
+1619599619010,677,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-170,text,true,,690,349,47,47,https://test.cherrytwist.org/graphql,677,0,168
+1619599619149,571,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-193,text,true,,690,349,47,47,https://test.cherrytwist.org/graphql,571,0,302
+1619599551191,68533,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-141,text,true,,1169,372,47,47,https://test.cherrytwist.org/graphql,68533,0,65997
+1619599619124,625,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-174,text,true,,690,349,47,47,https://test.cherrytwist.org/graphql,625,0,228
+1619599551201,68730,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-15,text,true,,1169,372,47,47,https://test.cherrytwist.org/graphql,68730,0,66058
+1619599551219,68720,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-73,text,true,,1182,372,47,47,https://test.cherrytwist.org/graphql,68720,0,65922
+1619599619516,510,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-102,text,true,,7238,732,47,47,https://test.cherrytwist.org/graphql,509,0,0
+1619599619720,510,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-193,text,true,,7238,732,47,47,https://test.cherrytwist.org/graphql,508,0,0
+1619599620028,241,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-102,text,true,,4949,387,47,47,https://test.cherrytwist.org/graphql,241,0,0
+1619599620230,144,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-193,text,true,,4949,387,47,47,https://test.cherrytwist.org/graphql,144,0,0
+1619599551221,69246,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-29,text,true,,1169,372,47,47,https://test.cherrytwist.org/graphql,69246,0,66548
+1619599551289,69267,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-30,text,true,,1169,372,47,47,https://test.cherrytwist.org/graphql,69267,0,66062
+1619599551192,69368,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-49,text,true,,1182,372,47,47,https://test.cherrytwist.org/graphql,69368,0,66229
+1619599551275,69305,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-123,text,true,,1169,372,47,47,https://test.cherrytwist.org/graphql,69305,0,66216
+1619599618782,1860,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-7,text,true,,685,348,47,47,https://test.cherrytwist.org/graphql,1860,0,257
+1619599551289,69436,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-83,text,true,,1182,372,47,47,https://test.cherrytwist.org/graphql,69436,0,66030
+1619599620466,324,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-29,text,true,,587,348,47,47,https://test.cherrytwist.org/graphql,324,0,154
+1619599551208,69597,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-20,text,true,,1169,372,47,47,https://test.cherrytwist.org/graphql,69597,0,66212
+1619599551326,69502,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-114,text,true,,1219,372,47,47,https://test.cherrytwist.org/graphql,69502,0,66256
+1619599551198,69722,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-157,text,true,,1169,372,47,47,https://test.cherrytwist.org/graphql,69722,0,66488
+1619599620725,422,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-83,text,true,,685,348,47,47,https://test.cherrytwist.org/graphql,422,0,151
+1619599618747,2443,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-181,text,true,,690,349,47,47,https://test.cherrytwist.org/graphql,2443,0,292
+1619599551333,69895,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-158,text,true,,1169,372,47,47,https://test.cherrytwist.org/graphql,69895,0,66400
+1619599551290,69949,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-45,text,true,,1182,372,47,47,https://test.cherrytwist.org/graphql,69949,0,66179
+1619599551208,70050,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-189,text,true,,1182,372,47,47,https://test.cherrytwist.org/graphql,70050,0,66656
+1619599620790,488,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-29,text,true,,7238,732,47,47,https://test.cherrytwist.org/graphql,476,0,0
+1619599620921,408,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-157,text,true,,690,349,47,47,https://test.cherrytwist.org/graphql,408,0,200
+1619599618825,2544,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-42,text,true,,685,348,47,47,https://test.cherrytwist.org/graphql,2544,0,323
+1619599618855,2561,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-152,text,true,,690,349,47,47,https://test.cherrytwist.org/graphql,2561,0,273
+1619599551321,70099,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-172,text,true,,1182,372,47,47,https://test.cherrytwist.org/graphql,70099,0,66550
+1619599621278,202,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-29,text,true,,4949,387,47,47,https://test.cherrytwist.org/graphql,170,0,0
+1619599619073,2415,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-50,text,true,,685,348,47,47,https://test.cherrytwist.org/graphql,2415,0,162
+1619599619073,2421,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-190,text,true,,690,349,47,47,https://test.cherrytwist.org/graphql,2421,0,195
+1619599621229,294,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-158,text,true,,690,349,47,47,https://test.cherrytwist.org/graphql,293,0,167
+1619599619104,2484,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-200,text,true,,690,349,47,47,https://test.cherrytwist.org/graphql,2484,0,257
+1619599621258,335,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-189,text,true,,690,349,47,47,https://test.cherrytwist.org/graphql,335,0,183
+1619599619192,2441,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-126,text,true,,690,349,47,47,https://test.cherrytwist.org/graphql,2441,0,223
+1619599619169,2575,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-17,text,true,,685,348,47,47,https://test.cherrytwist.org/graphql,2575,0,298
+1619599619251,2535,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-186,text,true,,690,349,47,47,https://test.cherrytwist.org/graphql,2535,0,240
+1619599551332,70465,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-162,text,true,,1169,372,47,47,https://test.cherrytwist.org/graphql,70465,0,66372
+1619599551327,70555,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-129,text,true,,1219,372,47,47,https://test.cherrytwist.org/graphql,70555,0,66224
+1619599551333,70567,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-128,text,true,,1169,372,47,47,https://test.cherrytwist.org/graphql,70566,0,66482
+1619599551323,70723,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-81,text,true,,1182,372,47,47,https://test.cherrytwist.org/graphql,70723,0,66576
+1619599621488,567,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-50,text,true,,7238,732,47,47,https://test.cherrytwist.org/graphql,564,0,0
+1619599551289,70795,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-71,text,true,,1182,372,47,47,https://test.cherrytwist.org/graphql,70795,0,66599
+1619599551205,70932,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-39,text,true,,1169,372,47,47,https://test.cherrytwist.org/graphql,70932,0,66714
+1619599619725,2497,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-141,text,true,,690,349,47,47,https://test.cherrytwist.org/graphql,2497,0,168
+1619599619930,2304,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-15,text,true,,590,348,47,47,https://test.cherrytwist.org/graphql,2304,0,124
+1619599620375,1964,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-193,text,true,,7055,321,47,47,https://test.cherrytwist.org/graphql,1963,0,0
+1619599551324,71040,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-33,text,true,,1169,372,46,46,https://test.cherrytwist.org/graphql,71040,0,66329
+1619599621589,822,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-200,text,true,,7238,732,46,46,https://test.cherrytwist.org/graphql,820,0,0
+1619599620555,1892,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-30,text,true,,681,348,46,46,https://test.cherrytwist.org/graphql,1892,0,228
+1619599551208,71241,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-23,text,true,,1169,372,46,46,https://test.cherrytwist.org/graphql,71241,0,66594
+1619599621745,722,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-17,text,true,,7238,732,46,46,https://test.cherrytwist.org/graphql,719,0,0
+1619599621882,586,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-129,text,true,,690,349,46,46,https://test.cherrytwist.org/graphql,586,0,163
+1619599551205,71275,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-68,text,true,,1182,372,46,46,https://test.cherrytwist.org/graphql,71275,0,66704
+1619599551283,71208,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-94,text,true,,1219,372,46,46,https://test.cherrytwist.org/graphql,71208,0,66585
+1619599551221,71290,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-110,text,true,,1219,372,46,46,https://test.cherrytwist.org/graphql,71290,0,66708
+1619599622046,475,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-81,text,true,,685,348,46,46,https://test.cherrytwist.org/graphql,475,0,142
+1619599622084,471,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-71,text,true,,685,348,46,46,https://test.cherrytwist.org/graphql,471,0,151
+1619599551289,71335,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-61,text,true,,1182,372,46,46,https://test.cherrytwist.org/graphql,71335,0,66591
+1619599619938,2686,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-73,text,true,,685,348,46,46,https://test.cherrytwist.org/graphql,2686,0,158
+1619599620270,2358,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-102,text,true,,7055,321,46,46,https://test.cherrytwist.org/graphql,2309,0,0
+1619599620580,2132,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-123,text,true,,690,349,45,45,https://test.cherrytwist.org/graphql,2132,0,217
+1619599620804,2008,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-20,text,true,,685,348,45,45,https://test.cherrytwist.org/graphql,2008,0,194
+1619599622364,450,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-33,text,true,,681,348,45,45,https://test.cherrytwist.org/graphql,450,0,148
+1619599620560,2334,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-49,text,true,,685,348,45,45,https://test.cherrytwist.org/graphql,2334,0,232
+1619599622624,314,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-61,text,true,,685,348,45,45,https://test.cherrytwist.org/graphql,314,0,146
+1619599621239,1699,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-45,text,true,,685,348,45,45,https://test.cherrytwist.org/graphql,1699,0,183
+1619599622449,518,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-23,text,true,,681,348,45,45,https://test.cherrytwist.org/graphql,518,0,156
+1619599620828,2151,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-114,text,true,,690,349,45,45,https://test.cherrytwist.org/graphql,2151,0,161
+1619599622480,530,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-68,text,true,,685,348,45,45,https://test.cherrytwist.org/graphql,530,0,206
+1619599621421,1599,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-172,text,true,,690,349,45,45,https://test.cherrytwist.org/graphql,1589,0,132
+1619599551315,71705,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-95,text,true,,1219,372,45,45,https://test.cherrytwist.org/graphql,71705,0,66574
+1619599551289,71764,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-52,text,true,,1182,372,45,45,https://test.cherrytwist.org/graphql,71764,0,66602
+1619599621798,1441,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-162,text,true,,690,349,45,45,https://test.cherrytwist.org/graphql,1441,0,166
+1619599621480,1781,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-29,text,true,,7055,321,45,45,https://test.cherrytwist.org/graphql,1781,0,0
+1619599621900,1442,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-128,text,true,,690,349,44,44,https://test.cherrytwist.org/graphql,1442,0,157
+1619599622447,958,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-30,text,true,,7238,732,44,44,https://test.cherrytwist.org/graphql,956,0,0
+1619599551284,72213,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-2,text,true,,1169,372,44,44,https://test.cherrytwist.org/graphql,72213,0,66617
+1619599551219,72312,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-46,text,true,,1182,372,44,44,https://test.cherrytwist.org/graphql,72312,0,66694
+1619599551319,72255,challengeUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-127,text,true,,1169,372,44,44,https://test.cherrytwist.org/graphql,72255,0,66601
+1619599622894,703,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-49,text,true,,7238,732,44,44,https://test.cherrytwist.org/graphql,701,0,0
+1619599622136,1555,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-39,text,true,,685,348,44,44,https://test.cherrytwist.org/graphql,1555,0,137
+1619599622968,865,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-23,text,true,,7238,732,44,44,https://test.cherrytwist.org/graphql,863,0,0
+1619599623020,837,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-172,text,true,,7238,732,44,44,https://test.cherrytwist.org/graphql,836,0,0
+1619599622491,1484,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-94,text,true,,686,349,44,44,https://test.cherrytwist.org/graphql,1484,0,210
+1619599623530,470,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-46,text,true,,685,348,44,44,https://test.cherrytwist.org/graphql,470,0,164
+1619599623598,424,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-49,text,true,,4949,387,44,44,https://test.cherrytwist.org/graphql,423,0,0
+1619599623858,257,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-172,text,true,,4949,387,44,44,https://test.cherrytwist.org/graphql,257,0,0
+1619599623240,883,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-162,text,true,,7238,732,44,44,https://test.cherrytwist.org/graphql,883,0,0
+1619599622512,1608,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-110,text,true,,686,349,44,44,https://test.cherrytwist.org/graphql,1603,0,199
+1619599624023,159,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-49,text,true,,7055,321,44,44,https://test.cherrytwist.org/graphql,158,0,0
+1619599624124,255,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-110,text,true,,7238,732,43,43,https://test.cherrytwist.org/graphql,253,0,0
+1619599623021,1515,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-95,text,true,,686,349,43,43,https://test.cherrytwist.org/graphql,1515,0,191
+1619599623053,1616,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-52,text,true,,685,348,43,43,https://test.cherrytwist.org/graphql,1616,0,185
+1619599622412,2387,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-200,text,true,,4949,387,43,43,https://test.cherrytwist.org/graphql,2386,0,0
+1619599624670,280,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-52,text,true,,7238,732,43,43,https://test.cherrytwist.org/graphql,278,0,0
+1619599622467,2558,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-17,text,true,,4949,387,43,43,https://test.cherrytwist.org/graphql,2515,0,0
+1619599625025,125,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-17,text,true,,7055,321,43,43,https://test.cherrytwist.org/graphql,125,0,0
+1619599622056,3357,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-50,text,true,,4949,387,42,42,https://test.cherrytwist.org/graphql,3313,0,0
+1619599623497,2085,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-2,text,true,,685,348,42,42,https://test.cherrytwist.org/graphql,2085,0,181
+1619599623574,2191,userAvatars,200,OK,CT Benchmark:  Queries - Challenge page 1-127,text,true,,690,349,42,42,https://test.cherrytwist.org/graphql,2191,0,175
+1619599619688,6302,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-170,text,true,,7238,732,42,42,https://test.cherrytwist.org/graphql,6300,0,0
+1619599625766,542,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-127,text,true,,7238,732,42,42,https://test.cherrytwist.org/graphql,532,0,0
+1619599624116,2564,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-172,text,true,,7055,321,42,42,https://test.cherrytwist.org/graphql,2518,0,0
+1619599619555,7127,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-16,text,true,,7238,732,42,42,https://test.cherrytwist.org/graphql,7116,0,0
+1619599626682,255,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-16,text,true,,4949,387,41,41,https://test.cherrytwist.org/graphql,214,0,0
+1619599621190,5935,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-181,text,true,,7238,732,41,41,https://test.cherrytwist.org/graphql,5932,0,0
+1619599621369,5772,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-42,text,true,,7238,732,41,41,https://test.cherrytwist.org/graphql,5769,0,0
+1619599627141,221,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-42,text,true,,4949,387,41,41,https://test.cherrytwist.org/graphql,220,0,0
+1619599621495,5917,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-190,text,true,,7238,732,41,41,https://test.cherrytwist.org/graphql,5916,0,0
+1619599623405,4101,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-30,text,true,,4949,387,41,41,https://test.cherrytwist.org/graphql,4100,0,0
+1619599627506,155,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-30,text,true,,7055,321,41,41,https://test.cherrytwist.org/graphql,111,0,0
+1619599621634,6112,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-126,text,true,,7238,732,40,40,https://test.cherrytwist.org/graphql,6111,0,0
+1619599625414,2474,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-50,text,true,,7055,321,40,40,https://test.cherrytwist.org/graphql,2473,0,0
+1619599623833,4107,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-23,text,true,,4949,387,39,39,https://test.cherrytwist.org/graphql,4064,0,0
+1619599624799,3242,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-200,text,true,,7055,321,39,39,https://test.cherrytwist.org/graphql,3242,0,0
+1619599619749,8427,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-174,text,true,,7238,732,38,38,https://test.cherrytwist.org/graphql,8425,0,0
+1619599628177,136,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-174,text,true,,4949,387,38,38,https://test.cherrytwist.org/graphql,136,0,0
+1619599622234,6319,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-15,text,true,,7238,732,38,38,https://test.cherrytwist.org/graphql,6318,0,0
+1619599624123,4563,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-162,text,true,,4949,387,38,38,https://test.cherrytwist.org/graphql,4563,0,0
+1619599628687,128,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-162,text,true,,7055,321,38,38,https://test.cherrytwist.org/graphql,128,0,0
+1619599622555,6310,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-71,text,true,,7238,732,37,37,https://test.cherrytwist.org/graphql,6309,0,0
+1619599620643,8463,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-7,text,true,,7238,732,37,37,https://test.cherrytwist.org/graphql,8459,0,0
+1619599621148,8010,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-83,text,true,,7238,732,37,37,https://test.cherrytwist.org/graphql,8008,0,0
+1619599622814,6508,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-33,text,true,,7238,732,37,37,https://test.cherrytwist.org/graphql,6506,0,0
+1619599629158,169,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-83,text,true,,4949,387,37,37,https://test.cherrytwist.org/graphql,169,0,0
+1619599621329,8119,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-157,text,true,,7238,732,37,37,https://test.cherrytwist.org/graphql,8117,0,0
+1619599622712,6750,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-123,text,true,,7238,732,37,37,https://test.cherrytwist.org/graphql,6740,0,0
+1619599621416,8110,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-152,text,true,,7238,732,37,37,https://test.cherrytwist.org/graphql,8106,0,0
+1619599629450,244,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-157,text,true,,4949,387,37,37,https://test.cherrytwist.org/graphql,202,0,0
+1619599626938,2900,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-16,text,true,,7055,321,37,37,https://test.cherrytwist.org/graphql,2900,0,0
+1619599629694,149,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-157,text,true,,7055,321,36,36,https://test.cherrytwist.org/graphql,149,0,0
+1619599622938,7059,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-45,text,true,,7238,732,35,35,https://test.cherrytwist.org/graphql,7057,0,0
+1619599623011,7048,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-68,text,true,,7238,732,35,35,https://test.cherrytwist.org/graphql,7048,0,0
+1619599627941,2194,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-23,text,true,,7055,321,35,35,https://test.cherrytwist.org/graphql,2193,0,0
+1619599624950,5491,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-52,text,true,,4949,387,34,34,https://test.cherrytwist.org/graphql,5447,0,0
+1619599630442,131,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-52,text,true,,7055,321,34,34,https://test.cherrytwist.org/graphql,130,0,0
+1619599626309,4417,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-127,text,true,,4949,387,33,33,https://test.cherrytwist.org/graphql,4374,0,0
+1619599629328,1499,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-83,text,true,,7055,321,33,33,https://test.cherrytwist.org/graphql,1497,0,0
+1619599621787,9070,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-186,text,true,,7238,732,32,32,https://test.cherrytwist.org/graphql,9069,0,0
+1619599627363,3498,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-42,text,true,,7055,321,32,32,https://test.cherrytwist.org/graphql,3456,0,0
+1619599623691,7370,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-39,text,true,,7238,732,31,31,https://test.cherrytwist.org/graphql,7368,0,0
+1619599624000,7126,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-46,text,true,,7238,732,31,31,https://test.cherrytwist.org/graphql,7126,0,0
+1619599621523,9626,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-158,text,true,,7238,732,31,31,https://test.cherrytwist.org/graphql,9626,0,0
+1619599621593,9590,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-189,text,true,,7238,732,31,31,https://test.cherrytwist.org/graphql,9588,0,0
+1619599631061,168,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-39,text,true,,4949,387,31,31,https://test.cherrytwist.org/graphql,136,0,0
+1619599627125,4189,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-181,text,true,,4949,387,31,31,https://test.cherrytwist.org/graphql,4189,0,0
+1619599631183,138,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-189,text,true,,4949,387,31,31,https://test.cherrytwist.org/graphql,137,0,0
+1619599631321,149,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-189,text,true,,7055,321,31,31,https://test.cherrytwist.org/graphql,149,0,0
+1619599627413,4133,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-190,text,true,,4949,387,30,30,https://test.cherrytwist.org/graphql,4133,0,0
+1619599628314,3264,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-174,text,true,,7055,321,30,30,https://test.cherrytwist.org/graphql,3264,0,0
+1619599624537,7091,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-95,text,true,,7238,732,29,29,https://test.cherrytwist.org/graphql,7089,0,0
+1619599622222,9423,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-141,text,true,,7238,732,29,29,https://test.cherrytwist.org/graphql,9422,0,0
+1619599628553,3168,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-15,text,true,,4949,387,29,29,https://test.cherrytwist.org/graphql,3168,0,0
+1619599631646,171,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-141,text,true,,4949,387,29,29,https://test.cherrytwist.org/graphql,128,0,0
+1619599622468,9463,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-129,text,true,,7238,732,29,29,https://test.cherrytwist.org/graphql,9453,0,0
+1619599622522,9426,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-81,text,true,,7238,732,29,29,https://test.cherrytwist.org/graphql,9426,0,0
+1619599629107,2890,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-7,text,true,,4949,387,29,29,https://test.cherrytwist.org/graphql,2846,0,0
+1619599631315,734,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-181,text,true,,7055,321,29,29,https://test.cherrytwist.org/graphql,734,0,0
+1619599631932,127,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-129,text,true,,4949,387,28,28,https://test.cherrytwist.org/graphql,127,0,0
+1619599624380,7681,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-110,text,true,,4949,387,28,28,https://test.cherrytwist.org/graphql,7638,0,0
+1619599629527,2615,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-152,text,true,,4949,387,28,28,https://test.cherrytwist.org/graphql,2572,0,0
+1619599632060,114,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-129,text,true,,7055,321,28,28,https://test.cherrytwist.org/graphql,112,0,0
+1619599622624,9607,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-73,text,true,,7238,732,27,27,https://test.cherrytwist.org/graphql,9606,0,0
+1619599632232,185,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-73,text,true,,4949,387,27,27,https://test.cherrytwist.org/graphql,142,0,0
+1619599622938,9543,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-61,text,true,,7238,732,27,27,https://test.cherrytwist.org/graphql,9542,0,0
+1619599625583,6917,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-2,text,true,,7238,732,27,27,https://test.cherrytwist.org/graphql,6916,0,0
+1619599630727,1843,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-127,text,true,,7055,321,27,27,https://test.cherrytwist.org/graphql,1842,0,0
+1619599622813,9774,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-20,text,true,,7238,732,26,26,https://test.cherrytwist.org/graphql,9773,0,0
+1619599630060,2544,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-68,text,true,,4949,387,26,26,https://test.cherrytwist.org/graphql,2497,0,0
+1619599632501,266,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-2,text,true,,4949,387,26,26,https://test.cherrytwist.org/graphql,266,0,0
+1619599631149,1673,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-158,text,true,,4949,387,26,26,https://test.cherrytwist.org/graphql,1631,0,0
+1619599631230,1601,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-39,text,true,,7055,321,26,26,https://test.cherrytwist.org/graphql,1600,0,0
+1619599632768,114,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-2,text,true,,7055,321,25,25,https://test.cherrytwist.org/graphql,113,0,0
+1619599630858,2024,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-186,text,true,,4949,387,25,25,https://test.cherrytwist.org/graphql,1980,0,0
+1619599622980,9942,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-114,text,true,,7238,732,24,24,https://test.cherrytwist.org/graphql,9941,0,0
+1619599631998,997,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-7,text,true,,7055,321,24,24,https://test.cherrytwist.org/graphql,996,0,0
+1619599632142,954,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-152,text,true,,7055,321,23,23,https://test.cherrytwist.org/graphql,953,0,0
+1619599632922,197,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-114,text,true,,4949,387,22,22,https://test.cherrytwist.org/graphql,154,0,0
+1619599625990,7163,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-170,text,true,,4949,387,22,22,https://test.cherrytwist.org/graphql,7118,0,0
+1619599631818,1343,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-141,text,true,,7055,321,22,22,https://test.cherrytwist.org/graphql,1343,0,0
+1619599631628,1666,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-95,text,true,,4949,387,21,21,https://test.cherrytwist.org/graphql,1622,0,0
+1619599631547,1750,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-190,text,true,,7055,321,21,21,https://test.cherrytwist.org/graphql,1705,0,0
+1619599623342,10009,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-128,text,true,,7238,732,20,20,https://test.cherrytwist.org/graphql,10007,0,0
+1619599633295,125,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-95,text,true,,7055,321,20,20,https://test.cherrytwist.org/graphql,124,0,0
+1619599632882,550,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-186,text,true,,7055,321,19,19,https://test.cherrytwist.org/graphql,549,0,0
+1619599631721,1737,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-15,text,true,,7055,321,18,18,https://test.cherrytwist.org/graphql,1737,0,0
+1619599632482,983,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-61,text,true,,4949,387,17,17,https://test.cherrytwist.org/graphql,983,0,0
+1619599633154,389,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-170,text,true,,7055,321,17,17,https://test.cherrytwist.org/graphql,389,0,0
+1619599632062,1508,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-110,text,true,,7055,321,16,16,https://test.cherrytwist.org/graphql,1507,0,0
+1619599632605,1010,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-68,text,true,,7055,321,15,15,https://test.cherrytwist.org/graphql,1008,0,0
+1619599632418,1244,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-73,text,true,,7055,321,14,14,https://test.cherrytwist.org/graphql,1243,0,0
+1619599633466,264,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-61,text,true,,7055,321,13,13,https://test.cherrytwist.org/graphql,263,0,0
+1619599627746,6055,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-126,text,true,,4949,387,12,12,https://test.cherrytwist.org/graphql,6013,0,0
+1619599632822,1190,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-158,text,true,,7055,321,12,12,https://test.cherrytwist.org/graphql,1188,0,0
+1619599633802,217,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-126,text,true,,7055,321,11,11,https://test.cherrytwist.org/graphql,216,0,0
+1619599623976,10066,challengeProfile,200,OK,CT Benchmark:  Queries - Challenge page 1-94,text,true,,7238,732,10,10,https://test.cherrytwist.org/graphql,10064,0,0
+1619599628865,5194,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-71,text,true,,4949,387,10,10,https://test.cherrytwist.org/graphql,5194,0,0
+1619599629322,4831,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-33,text,true,,4949,387,10,10,https://test.cherrytwist.org/graphql,4787,0,0
+1619599634060,174,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-71,text,true,,7055,321,10,10,https://test.cherrytwist.org/graphql,174,0,0
+1619599629463,4778,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-123,text,true,,4949,387,9,9,https://test.cherrytwist.org/graphql,4734,0,0
+1619599629997,4255,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-45,text,true,,4949,387,9,9,https://test.cherrytwist.org/graphql,4255,0,0
+1619599634154,120,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-33,text,true,,7055,321,9,9,https://test.cherrytwist.org/graphql,118,0,0
+1619599631126,3191,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-46,text,true,,4949,387,8,8,https://test.cherrytwist.org/graphql,3149,0,0
+1619599633119,1223,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-114,text,true,,7055,321,8,8,https://test.cherrytwist.org/graphql,1221,0,0
+1619599631949,2469,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-81,text,true,,4949,387,7,7,https://test.cherrytwist.org/graphql,2469,0,0
+1619599634317,111,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-46,text,true,,7055,321,7,7,https://test.cherrytwist.org/graphql,111,0,0
+1619599634253,208,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-45,text,true,,7055,321,6,6,https://test.cherrytwist.org/graphql,158,0,0
+1619599633352,1160,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-128,text,true,,4949,387,5,5,https://test.cherrytwist.org/graphql,1117,0,0
+1619599632588,1949,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-20,text,true,,4949,387,5,5,https://test.cherrytwist.org/graphql,1908,0,0
+1619599634242,299,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-123,text,true,,7055,321,5,5,https://test.cherrytwist.org/graphql,298,0,0
+1619599634538,111,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-20,text,true,,7055,321,4,4,https://test.cherrytwist.org/graphql,110,0,0
+1619599634512,165,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-128,text,true,,7055,321,3,3,https://test.cherrytwist.org/graphql,164,0,0
+1619599634419,296,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-81,text,true,,7055,321,2,2,https://test.cherrytwist.org/graphql,252,0,0
+1619599634043,695,challenges ,200,OK,CT Benchmark:  Queries - Challenge page 1-94,text,true,,4949,387,1,1,https://test.cherrytwist.org/graphql,651,0,0
+1619599634739,111,ecoverseUserIds,200,OK,CT Benchmark:  Queries - Challenge page 1-94,text,true,,7055,321,1,1,https://test.cherrytwist.org/graphql,110,0,0
