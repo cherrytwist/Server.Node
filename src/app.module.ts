@@ -115,6 +115,17 @@ import { SsiAgentModule } from './services/platform/ssi/agent/ssi.agent.module';
               if (sessionKey) {
                 client.attach({
                   id: sessionKey,
+                  roomMonitor: {
+                    next: (_: any) => {
+                      // TODO pubSub engine
+                    },
+                    complete: () => {
+                      // TODO pubSub
+                    },
+                    error: (_: any) => {
+                      // TODO pubSub
+                    },
+                  },
                 });
                 console.log(
                   'Connecting: ',
