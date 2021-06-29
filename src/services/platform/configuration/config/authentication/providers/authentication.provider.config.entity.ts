@@ -42,7 +42,7 @@ export const AuthenticationProviderConfigUnion = createUnionType({
   name: 'AuthenticationProviderConfigUnion',
   types: () => [OryConfig],
   resolveType(value) {
-    if (value.kratosPublicBaseURL) {
+    if (value.hasOwnProperty('kratosPublicBaseURL')) {
       return AuthenticationProviderConfigs.ORY;
     }
     return null;
